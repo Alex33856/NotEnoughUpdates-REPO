@@ -8,12 +8,11 @@ on:
   workflow_dispatch:
   merge_group:
 
-permissions:
-    checks: write
-    pull-requests: write
-
 jobs:
   build:
+    permissions:
+      checks: write
+      pull-requests: write
     runs-on: ubuntu-latest
     # if: ${{ '247692460' == github.repository_id }}
     steps:
