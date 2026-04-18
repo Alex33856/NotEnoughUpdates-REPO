@@ -8,10 +8,6 @@ on:
   workflow_dispatch:
   merge_group:
 
-permissions:
-    checks: write
-    pull-requests: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
