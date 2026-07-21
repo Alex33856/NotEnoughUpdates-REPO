@@ -45,3 +45,5 @@ jobs:
         run: ${{ github.workspace }}/dist/bin/Workflow
         env:
           REPO_BASE_PATH: ${{ github.workspace }}/repo
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
