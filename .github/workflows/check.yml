@@ -9,7 +9,7 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
-    if: ${{ '247692460' == github.repository_id || 'workflow_dispatch' == github.event_name }}
+    # if: ${{ '247692460' == github.repository_id || 'workflow_dispatch' == github.event_name }}
     steps:
       - name: Find HEAD Ref
         id: sha
