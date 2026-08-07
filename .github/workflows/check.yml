@@ -47,3 +47,19 @@ jobs:
           REPO_BASE_PATH: ${{ github.workspace }}/repo
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           GITHUB_EVENT_PATH: ${{ github.event_path }}
+
+  save_pr:
+    runs-on: ubuntu-latest
+    needs: check
+    if: failure() && github.event_name == 'pull_request'
+    steps:
+      - name: Save PR number
+        env:
+          PR_NUMBER: ${{ github.event.number }}
+        run: |
+          mkdir -p ${{ runner.temp }}/pr_data
+          echo $PR_NUMBER > ./pr_data/pr_number
+      - uses: actions/upload-artifact@v7
+        with:
+          name: pr_data
+          path: ${{ runner.temp }}/pr_data/
