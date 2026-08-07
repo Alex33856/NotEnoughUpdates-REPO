@@ -1,4 +1,4 @@
-name: comment_failure.yml
+name: Comment Failure
 on:
   workflow_run:
     workflows: [ "Check Files" ]
@@ -13,8 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     # if: github.event.workflow_run.conclusion == 'failure
     steps:
-      - name: Check for Summary
-        uses: actions/github-script@v9
-        with:
-          script: |
-            console.log(${{github.event}})
+      - name: Print Event
+        run: echo "$EVENT"
+        env:
+          EVENT: ${{toJSON(github.event)}}
