@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Glacial_Scythe"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_PACKED_ICE:32",
-    "A2": "GLACIAL_FRAGMENT:40",
-    "A3": "ENCHANTED_PACKED_ICE:32",
-    "B1": "ENCHANTED_PACKED_ICE:32",
-    "B2": "FROZEN_SCYTHE:1",
-    "B3": "ENCHANTED_PACKED_ICE:32",
-    "C1": "ENCHANTED_PACKED_ICE:32",
-    "C2": "BLUE_ICE_HUNK:64",
-    "C3": "ENCHANTED_PACKED_ICE:32"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_PACKED_ICE:32",
+      "A2": "GLACIAL_FRAGMENT:40",
+      "A3": "ENCHANTED_PACKED_ICE:32",
+      "B1": "ENCHANTED_PACKED_ICE:32",
+      "B2": "FROZEN_SCYTHE:1",
+      "B3": "ENCHANTED_PACKED_ICE:32",
+      "C1": "ENCHANTED_PACKED_ICE:32",
+      "C2": "BLUE_ICE_HUNK:64",
+      "C3": "ENCHANTED_PACKED_ICE:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GLACIAL_SCYTHE"
+    }
+  ]
 }

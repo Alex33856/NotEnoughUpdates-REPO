@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Gravel_Minion"
   ],
-  "recipe": {
-    "A1": "GRAVEL:10",
-    "A2": "GRAVEL:10",
-    "A3": "GRAVEL:10",
-    "B1": "GRAVEL:10",
-    "B2": "WOOD_SPADE:1",
-    "B3": "GRAVEL:10",
-    "C1": "GRAVEL:10",
-    "C2": "GRAVEL:10",
-    "C3": "GRAVEL:10"
-  }
+  "recipes": [
+    {
+      "A1": "GRAVEL:10",
+      "A2": "GRAVEL:10",
+      "A3": "GRAVEL:10",
+      "B1": "GRAVEL:10",
+      "B2": "WOOD_SPADE:1",
+      "B3": "GRAVEL:10",
+      "C1": "GRAVEL:10",
+      "C2": "GRAVEL:10",
+      "C3": "GRAVEL:10",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GRAVEL_GENERATOR_1"
+    }
+  ]
 }

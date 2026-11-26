@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Ice_Minion"
   ],
-  "recipe": {
-    "A1": "PACKED_ICE:32",
-    "A2": "PACKED_ICE:32",
-    "A3": "PACKED_ICE:32",
-    "B1": "PACKED_ICE:32",
-    "B2": "ICE_GENERATOR_5:1",
-    "B3": "PACKED_ICE:32",
-    "C1": "PACKED_ICE:32",
-    "C2": "PACKED_ICE:32",
-    "C3": "PACKED_ICE:32"
-  }
+  "recipes": [
+    {
+      "A1": "PACKED_ICE:32",
+      "A2": "PACKED_ICE:32",
+      "A3": "PACKED_ICE:32",
+      "B1": "PACKED_ICE:32",
+      "B2": "ICE_GENERATOR_5:1",
+      "B3": "PACKED_ICE:32",
+      "C1": "PACKED_ICE:32",
+      "C2": "PACKED_ICE:32",
+      "C3": "PACKED_ICE:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ICE_GENERATOR_6"
+    }
+  ]
 }

@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Minion"
   ],
-  "recipe": {
-    "A1": "PUMPKIN:64",
-    "A2": "PUMPKIN:64",
-    "A3": "PUMPKIN:64",
-    "B1": "PUMPKIN:64",
-    "B2": "PUMPKIN_GENERATOR_3:1",
-    "B3": "PUMPKIN:64",
-    "C1": "PUMPKIN:64",
-    "C2": "PUMPKIN:64",
-    "C3": "PUMPKIN:64"
-  }
+  "recipes": [
+    {
+      "A1": "PUMPKIN:64",
+      "A2": "PUMPKIN:64",
+      "A3": "PUMPKIN:64",
+      "B1": "PUMPKIN:64",
+      "B2": "PUMPKIN_GENERATOR_3:1",
+      "B3": "PUMPKIN:64",
+      "C1": "PUMPKIN:64",
+      "C2": "PUMPKIN:64",
+      "C3": "PUMPKIN:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "PUMPKIN_GENERATOR_4"
+    }
+  ]
 }

@@ -17,15 +17,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Launch_Pad"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_SLIME_BALL:1",
-    "A2": "ENCHANTED_SLIME_BALL:1",
-    "A3": "ENCHANTED_SLIME_BALL:1",
-    "B1": "ENCHANTED_SLIME_BALL:1",
-    "B2": "ENCHANTED_REDSTONE:1",
-    "B3": "ENCHANTED_SLIME_BALL:1",
-    "C1": "ENCHANTED_SLIME_BALL:1",
-    "C2": "ENCHANTED_SLIME_BALL:1",
-    "C3": "ENCHANTED_SLIME_BALL:1"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_SLIME_BALL:1",
+      "A2": "ENCHANTED_SLIME_BALL:1",
+      "A3": "ENCHANTED_SLIME_BALL:1",
+      "B1": "ENCHANTED_SLIME_BALL:1",
+      "B2": "ENCHANTED_REDSTONE:1",
+      "B3": "ENCHANTED_SLIME_BALL:1",
+      "C1": "ENCHANTED_SLIME_BALL:1",
+      "C2": "ENCHANTED_SLIME_BALL:1",
+      "C3": "ENCHANTED_SLIME_BALL:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "LAUNCH_PAD"
+    }
+  ]
 }

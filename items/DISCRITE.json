@@ -32,15 +32,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Discrite"
   ],
-  "recipe": {
-    "A1": "OBSOLITE:64",
-    "A2": "TIMITE:64",
-    "A3": "OBSOLITE:64",
-    "B1": "TIMITE:64",
-    "B2": "YOUNGITE:64",
-    "B3": "TIMITE:64",
-    "C1": "OBSOLITE:64",
-    "C2": "TIMITE:64",
-    "C3": "OBSOLITE:64"
-  }
+  "recipes": [
+    {
+      "A1": "OBSOLITE:64",
+      "A2": "TIMITE:64",
+      "A3": "OBSOLITE:64",
+      "B1": "TIMITE:64",
+      "B2": "YOUNGITE:64",
+      "B3": "TIMITE:64",
+      "C1": "OBSOLITE:64",
+      "C2": "TIMITE:64",
+      "C3": "OBSOLITE:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DISCRITE"
+    }
+  ]
 }

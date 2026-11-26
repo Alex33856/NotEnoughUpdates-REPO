@@ -29,15 +29,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Bluertooth_Ring"
   ],
-  "recipe": {
-    "A1": "BLUE_RING:32",
-    "A2": "GOBLIN_EGG_BLUE:1",
-    "A3": "BLUE_RING:32",
-    "B1": "BLUE_SHARK_TOOTH:8",
-    "B2": "BLUETOOTH_RING:1",
-    "B3": "BLUE_SHARK_TOOTH:8",
-    "C1": "BLUE_RING:32",
-    "C2": "GOBLIN_EGG_BLUE:1",
-    "C3": "BLUE_RING:32"
-  }
+  "recipes": [
+    {
+      "A1": "BLUE_RING:32",
+      "A2": "GOBLIN_EGG_BLUE:1",
+      "A3": "BLUE_RING:32",
+      "B1": "BLUE_SHARK_TOOTH:8",
+      "B2": "BLUETOOTH_RING:1",
+      "B3": "BLUE_SHARK_TOOTH:8",
+      "C1": "BLUE_RING:32",
+      "C2": "GOBLIN_EGG_BLUE:1",
+      "C3": "BLUE_RING:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BLUERTOOTH_RING"
+    }
+  ]
 }

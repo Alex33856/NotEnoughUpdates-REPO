@@ -28,15 +28,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Weirder_Tuba"
   ],
-  "recipe": {
-    "A1": "METAL_HEART:4",
-    "A2": "",
-    "A3": "METAL_HEART:4",
-    "B1": "METAL_HEART:4",
-    "B2": "WEIRD_TUBA:1",
-    "B3": "METAL_HEART:4",
-    "C1": "",
-    "C2": "BLOODBADGE:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "METAL_HEART:4",
+      "A2": "",
+      "A3": "METAL_HEART:4",
+      "B1": "METAL_HEART:4",
+      "B2": "WEIRD_TUBA:1",
+      "B3": "METAL_HEART:4",
+      "C1": "",
+      "C2": "BLOODBADGE:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "WEIRDER_TUBA"
+    }
+  ]
 }

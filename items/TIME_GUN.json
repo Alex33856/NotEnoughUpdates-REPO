@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Time_Gun"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "YOUNGITE:8",
-    "A3": "YOUNGITE:8",
-    "B1": "YOUNGITE:8",
-    "B2": "BERBERIS_BLOWGUN:1",
-    "B3": "",
-    "C1": "YOUNGITE:8",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "YOUNGITE:8",
+      "A3": "YOUNGITE:8",
+      "B1": "YOUNGITE:8",
+      "B2": "BERBERIS_BLOWGUN:1",
+      "B3": "",
+      "C1": "YOUNGITE:8",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "TIME_GUN"
+    }
+  ]
 }

@@ -37,15 +37,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Life_Steal"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "",
-    "B1": "",
-    "B2": "PAPER:2",
-    "B3": "PAPER:2",
-    "C1": "",
-    "C2": "PAPER:2",
-    "C3": "GOLDEN_APPLE-1:2"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "PAPER:2",
+      "B3": "PAPER:2",
+      "C1": "",
+      "C2": "PAPER:2",
+      "C3": "GOLDEN_APPLE-1:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "LIFE_STEAL;2"
+    }
+  ]
 }

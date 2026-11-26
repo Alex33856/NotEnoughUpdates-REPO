@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Draconic_Talisman"
   ],
-  "recipe": {
-    "A1": "RITUAL_RESIDUE:1",
-    "A2": "MITE_GEL:16",
-    "A3": "MITE_GEL:16",
-    "B1": "MITE_GEL:16",
-    "B2": "ABSOLUTE_ENDER_PEARL:32",
-    "B3": "MITE_GEL:16",
-    "C1": "MITE_GEL:16",
-    "C2": "MITE_GEL:16",
-    "C3": "RITUAL_RESIDUE:1"
-  }
+  "recipes": [
+    {
+      "A1": "RITUAL_RESIDUE:1",
+      "A2": "MITE_GEL:16",
+      "A3": "MITE_GEL:16",
+      "B1": "MITE_GEL:16",
+      "B2": "ABSOLUTE_ENDER_PEARL:32",
+      "B3": "MITE_GEL:16",
+      "C1": "MITE_GEL:16",
+      "C2": "MITE_GEL:16",
+      "C3": "RITUAL_RESIDUE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DRACONIC_TALISMAN"
+    }
+  ]
 }

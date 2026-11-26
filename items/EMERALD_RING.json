@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Emerald_Ring"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_EMERALD:4",
-    "A2": "ENCHANTED_EMERALD:4",
-    "A3": "ENCHANTED_EMERALD:4",
-    "B1": "ENCHANTED_EMERALD:4",
-    "B2": "",
-    "B3": "ENCHANTED_EMERALD:4",
-    "C1": "ENCHANTED_EMERALD:4",
-    "C2": "ENCHANTED_EMERALD:4",
-    "C3": "ENCHANTED_EMERALD:4"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_EMERALD:4",
+      "A2": "ENCHANTED_EMERALD:4",
+      "A3": "ENCHANTED_EMERALD:4",
+      "B1": "ENCHANTED_EMERALD:4",
+      "B2": "",
+      "B3": "ENCHANTED_EMERALD:4",
+      "C1": "ENCHANTED_EMERALD:4",
+      "C2": "ENCHANTED_EMERALD:4",
+      "C3": "ENCHANTED_EMERALD:4",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "EMERALD_RING"
+    }
+  ]
 }

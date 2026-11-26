@@ -25,16 +25,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Red_Sand_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_RED_SAND:8",
-    "A2": "ENCHANTED_RED_SAND:8",
-    "A3": "ENCHANTED_RED_SAND:8",
-    "B1": "ENCHANTED_RED_SAND:8",
-    "B2": "RED_SAND_GENERATOR_5:1",
-    "B3": "ENCHANTED_RED_SAND:8",
-    "C1": "ENCHANTED_RED_SAND:8",
-    "C2": "ENCHANTED_RED_SAND:8",
-    "C3": "ENCHANTED_RED_SAND:8"
-  },
+  "recipes": [
+    {
+      "A1": "ENCHANTED_RED_SAND:8",
+      "A2": "ENCHANTED_RED_SAND:8",
+      "A3": "ENCHANTED_RED_SAND:8",
+      "B1": "ENCHANTED_RED_SAND:8",
+      "B2": "RED_SAND_GENERATOR_5:1",
+      "B3": "ENCHANTED_RED_SAND:8",
+      "C1": "ENCHANTED_RED_SAND:8",
+      "C2": "ENCHANTED_RED_SAND:8",
+      "C3": "ENCHANTED_RED_SAND:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "RED_SAND_GENERATOR_6"
+    }
+  ],
   "reputation_req": "BARBARIAN:4000"
 }

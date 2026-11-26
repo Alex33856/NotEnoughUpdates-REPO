@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sheep_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_MUTTON:32",
-    "A2": "ENCHANTED_MUTTON:32",
-    "A3": "ENCHANTED_MUTTON:32",
-    "B1": "ENCHANTED_MUTTON:32",
-    "B2": "SHEEP_GENERATOR_8:1",
-    "B3": "ENCHANTED_MUTTON:32",
-    "C1": "ENCHANTED_MUTTON:32",
-    "C2": "ENCHANTED_MUTTON:32",
-    "C3": "ENCHANTED_MUTTON:32"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_MUTTON:32",
+      "A2": "ENCHANTED_MUTTON:32",
+      "A3": "ENCHANTED_MUTTON:32",
+      "B1": "ENCHANTED_MUTTON:32",
+      "B2": "SHEEP_GENERATOR_8:1",
+      "B3": "ENCHANTED_MUTTON:32",
+      "C1": "ENCHANTED_MUTTON:32",
+      "C2": "ENCHANTED_MUTTON:32",
+      "C3": "ENCHANTED_MUTTON:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SHEEP_GENERATOR_9"
+    }
+  ]
 }

@@ -25,16 +25,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Destruction_Cloak"
   ],
-  "recipe": {
-    "A1": "WOOD_SINGULARITY:1",
-    "A2": "WOOD_SINGULARITY:1",
-    "A3": "WOOD_SINGULARITY:1",
-    "B1": "MOLTEN_POWDER:48",
-    "B2": "ENCHANTED_SULPHUR_CUBE:4",
-    "B3": "MOLTEN_POWDER:48",
-    "C1": "MOLTEN_POWDER:48",
-    "C2": "ENCHANTED_SULPHUR_CUBE:4",
-    "C3": "MOLTEN_POWDER:48"
-  },
+  "recipes": [
+    {
+      "A1": "WOOD_SINGULARITY:1",
+      "A2": "WOOD_SINGULARITY:1",
+      "A3": "WOOD_SINGULARITY:1",
+      "B1": "MOLTEN_POWDER:48",
+      "B2": "ENCHANTED_SULPHUR_CUBE:4",
+      "B3": "MOLTEN_POWDER:48",
+      "C1": "MOLTEN_POWDER:48",
+      "C2": "ENCHANTED_SULPHUR_CUBE:4",
+      "C3": "MOLTEN_POWDER:48",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DESTRUCTION_CLOAK"
+    }
+  ],
   "slayer_req": "BLAZE_5"
 }

@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Spider_Minion"
   ],
-  "recipe": {
-    "A1": "STRING:64",
-    "A2": "STRING:64",
-    "A3": "STRING:64",
-    "B1": "STRING:64",
-    "B2": "SPIDER_GENERATOR_3:1",
-    "B3": "STRING:64",
-    "C1": "STRING:64",
-    "C2": "STRING:64",
-    "C3": "STRING:64"
-  }
+  "recipes": [
+    {
+      "A1": "STRING:64",
+      "A2": "STRING:64",
+      "A3": "STRING:64",
+      "B1": "STRING:64",
+      "B2": "SPIDER_GENERATOR_3:1",
+      "B3": "STRING:64",
+      "C1": "STRING:64",
+      "C2": "STRING:64",
+      "C3": "STRING:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SPIDER_GENERATOR_4"
+    }
+  ]
 }

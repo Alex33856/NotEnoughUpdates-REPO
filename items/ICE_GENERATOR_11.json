@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Ice_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_ICE:64",
-    "A2": "ENCHANTED_ICE:64",
-    "A3": "ENCHANTED_ICE:64",
-    "B1": "ENCHANTED_ICE:64",
-    "B2": "ICE_GENERATOR_10:1",
-    "B3": "ENCHANTED_ICE:64",
-    "C1": "ENCHANTED_ICE:64",
-    "C2": "ENCHANTED_ICE:64",
-    "C3": "ENCHANTED_ICE:64"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_ICE:64",
+      "A2": "ENCHANTED_ICE:64",
+      "A3": "ENCHANTED_ICE:64",
+      "B1": "ENCHANTED_ICE:64",
+      "B2": "ICE_GENERATOR_10:1",
+      "B3": "ENCHANTED_ICE:64",
+      "C1": "ENCHANTED_ICE:64",
+      "C2": "ENCHANTED_ICE:64",
+      "C3": "ENCHANTED_ICE:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ICE_GENERATOR_11"
+    }
+  ]
 }

@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Shimmering_Light_Trousers"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_MYCELIUM_CUBE:1",
-    "A2": "Z:10",
-    "A3": "ENCHANTED_MYCELIUM_CUBE:1",
-    "B1": "Y:30",
-    "B2": "",
-    "B3": "Y:30",
-    "C1": "ENCHANTED_MYCELIUM_CUBE:1",
-    "C2": "",
-    "C3": "ENCHANTED_MYCELIUM_CUBE:1"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "A2": "Z:10",
+      "A3": "ENCHANTED_MYCELIUM_CUBE:1",
+      "B1": "Y:30",
+      "B2": "",
+      "B3": "Y:30",
+      "C1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C2": "",
+      "C3": "ENCHANTED_MYCELIUM_CUBE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SHIMMERING_LIGHT_TROUSERS"
+    }
+  ]
 }

@@ -13,16 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "DIRT:1",
-    "A2": "GRAVEL:1",
-    "A3": "",
-    "B1": "GRAVEL:1",
-    "B2": "DIRT:1",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": "",
-    "count": 4
-  }
+  "recipes": [
+    {
+      "A1": "DIRT:1",
+      "A2": "GRAVEL:1",
+      "A3": "",
+      "B1": "GRAVEL:1",
+      "B2": "DIRT:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "DIRT-1"
+    }
+  ]
 }

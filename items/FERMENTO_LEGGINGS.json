@@ -35,15 +35,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Fermento_Leggings"
   ],
-  "recipe": {
-    "A1": "CONDENSED_FERMENTO:1",
-    "A2": "ENCHANTED_SUGAR_CANE:32",
-    "A3": "CONDENSED_FERMENTO:1",
-    "B1": "ENCHANTED_HUGE_MUSHROOM_2:16",
-    "B2": "SQUASH_LEGGINGS:1",
-    "B3": "ENCHANTED_HUGE_MUSHROOM_1:16",
-    "C1": "MUTANT_NETHER_STALK:20",
-    "C2": "",
-    "C3": "MUTANT_NETHER_STALK:20"
-  }
+  "recipes": [
+    {
+      "A1": "CONDENSED_FERMENTO:1",
+      "A2": "ENCHANTED_SUGAR_CANE:32",
+      "A3": "CONDENSED_FERMENTO:1",
+      "B1": "ENCHANTED_HUGE_MUSHROOM_2:16",
+      "B2": "SQUASH_LEGGINGS:1",
+      "B3": "ENCHANTED_HUGE_MUSHROOM_1:16",
+      "C1": "MUTANT_NETHER_STALK:20",
+      "C2": "",
+      "C3": "MUTANT_NETHER_STALK:20",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FERMENTO_LEGGINGS"
+    }
+  ]
 }

@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Fishing_Minion"
   ],
-  "recipe": {
-    "A1": "RAW_FISH:8",
-    "A2": "RAW_FISH:8",
-    "A3": "RAW_FISH:8",
-    "B1": "RAW_FISH:8",
-    "B2": "FISHING_ROD:1",
-    "B3": "RAW_FISH:8",
-    "C1": "RAW_FISH:8",
-    "C2": "RAW_FISH:8",
-    "C3": "RAW_FISH:8"
-  }
+  "recipes": [
+    {
+      "A1": "RAW_FISH:8",
+      "A2": "RAW_FISH:8",
+      "A3": "RAW_FISH:8",
+      "B1": "RAW_FISH:8",
+      "B2": "FISHING_ROD:1",
+      "B3": "RAW_FISH:8",
+      "C1": "RAW_FISH:8",
+      "C2": "RAW_FISH:8",
+      "C3": "RAW_FISH:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FISHING_GENERATOR_1"
+    }
+  ]
 }

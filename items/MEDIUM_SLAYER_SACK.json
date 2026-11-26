@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Medium_Slayer_Sack"
   ],
-  "recipe": {
-    "A1": "TARANTULA_SILK:1",
-    "A2": "TARANTULA_SILK:1",
-    "A3": "TARANTULA_SILK:1",
-    "B1": "TARANTULA_SILK:1",
-    "B2": "SMALL_SLAYER_SACK:1",
-    "B3": "TARANTULA_SILK:1",
-    "C1": "TARANTULA_SILK:1",
-    "C2": "TARANTULA_SILK:1",
-    "C3": "TARANTULA_SILK:1"
-  }
+  "recipes": [
+    {
+      "A1": "TARANTULA_SILK:1",
+      "A2": "TARANTULA_SILK:1",
+      "A3": "TARANTULA_SILK:1",
+      "B1": "TARANTULA_SILK:1",
+      "B2": "SMALL_SLAYER_SACK:1",
+      "B3": "TARANTULA_SILK:1",
+      "C1": "TARANTULA_SILK:1",
+      "C2": "TARANTULA_SILK:1",
+      "C3": "TARANTULA_SILK:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MEDIUM_SLAYER_SACK"
+    }
+  ]
 }

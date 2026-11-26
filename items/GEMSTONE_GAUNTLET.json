@@ -35,15 +35,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Gemstone_Gauntlet"
   ],
-  "recipe": {
-    "A1": "FLAWLESS_RUBY_GEM:1",
-    "A2": "FLAWLESS_RUBY_GEM:1",
-    "A3": "FLAWLESS_RUBY_GEM:1",
-    "B1": "FLAWLESS_RUBY_GEM:1",
-    "B2": "ENCHANTED_GOLD_BLOCK:16",
-    "B3": "FLAWLESS_RUBY_GEM:1",
-    "C1": "FLAWLESS_RUBY_GEM:1",
-    "C2": "FLAWLESS_RUBY_GEM:1",
-    "C3": "FLAWLESS_RUBY_GEM:1"
-  }
+  "recipes": [
+    {
+      "A1": "FLAWLESS_RUBY_GEM:1",
+      "A2": "FLAWLESS_RUBY_GEM:1",
+      "A3": "FLAWLESS_RUBY_GEM:1",
+      "B1": "FLAWLESS_RUBY_GEM:1",
+      "B2": "ENCHANTED_GOLD_BLOCK:16",
+      "B3": "FLAWLESS_RUBY_GEM:1",
+      "C1": "FLAWLESS_RUBY_GEM:1",
+      "C2": "FLAWLESS_RUBY_GEM:1",
+      "C3": "FLAWLESS_RUBY_GEM:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GEMSTONE_GAUNTLET"
+    }
+  ]
 }

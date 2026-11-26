@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Reaper_Orb"
   ],
-  "recipe": {
-    "A1": "SCYTHE_BLADE:1",
-    "A2": "SCYTHE_BLADE:1",
-    "A3": "SCYTHE_BLADE:1",
-    "B1": "SCYTHE_BLADE:1",
-    "B2": "",
-    "B3": "SCYTHE_BLADE:1",
-    "C1": "SCYTHE_BLADE:1",
-    "C2": "SCYTHE_BLADE:1",
-    "C3": "SCYTHE_BLADE:1"
-  }
+  "recipes": [
+    {
+      "A1": "SCYTHE_BLADE:1",
+      "A2": "SCYTHE_BLADE:1",
+      "A3": "SCYTHE_BLADE:1",
+      "B1": "SCYTHE_BLADE:1",
+      "B2": "",
+      "B3": "SCYTHE_BLADE:1",
+      "C1": "SCYTHE_BLADE:1",
+      "C2": "SCYTHE_BLADE:1",
+      "C3": "SCYTHE_BLADE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "REAPER_ORB"
+    }
+  ]
 }

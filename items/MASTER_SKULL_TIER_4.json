@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Master_Skull_-_Tier_4"
   ],
-  "recipe": {
-    "A1": "MASTER_SKULL_TIER_3:1",
-    "A2": "MASTER_SKULL_TIER_3:1",
-    "A3": "",
-    "B1": "MASTER_SKULL_TIER_3:1",
-    "B2": "MASTER_SKULL_TIER_3:1",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "MASTER_SKULL_TIER_3:1",
+      "A2": "MASTER_SKULL_TIER_3:1",
+      "A3": "",
+      "B1": "MASTER_SKULL_TIER_3:1",
+      "B2": "MASTER_SKULL_TIER_3:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MASTER_SKULL_TIER_4"
+    }
+  ]
 }

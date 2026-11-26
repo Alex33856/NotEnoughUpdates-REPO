@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Potato_Minion"
   ],
-  "recipe": {
-    "A1": "POTATO_ITEM:64",
-    "A2": "POTATO_ITEM:64",
-    "A3": "POTATO_ITEM:64",
-    "B1": "POTATO_ITEM:64",
-    "B2": "POTATO_GENERATOR_2:1",
-    "B3": "POTATO_ITEM:64",
-    "C1": "POTATO_ITEM:64",
-    "C2": "POTATO_ITEM:64",
-    "C3": "POTATO_ITEM:64"
-  }
+  "recipes": [
+    {
+      "A1": "POTATO_ITEM:64",
+      "A2": "POTATO_ITEM:64",
+      "A3": "POTATO_ITEM:64",
+      "B1": "POTATO_ITEM:64",
+      "B2": "POTATO_GENERATOR_2:1",
+      "B3": "POTATO_ITEM:64",
+      "C1": "POTATO_ITEM:64",
+      "C2": "POTATO_ITEM:64",
+      "C3": "POTATO_ITEM:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "POTATO_GENERATOR_3"
+    }
+  ]
 }

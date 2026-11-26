@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Voidling_Minion"
   ],
-  "recipe": {
-    "A1": "NULL_SPHERE:40",
-    "A2": "NULL_SPHERE:40",
-    "A3": "NULL_SPHERE:40",
-    "B1": "NULL_SPHERE:40",
-    "B2": "VOIDLING_GENERATOR_2:1",
-    "B3": "NULL_SPHERE:40",
-    "C1": "NULL_SPHERE:40",
-    "C2": "ENDERMAN_GENERATOR_2:1",
-    "C3": "NULL_SPHERE:40"
-  }
+  "recipes": [
+    {
+      "A1": "NULL_SPHERE:40",
+      "A2": "NULL_SPHERE:40",
+      "A3": "NULL_SPHERE:40",
+      "B1": "NULL_SPHERE:40",
+      "B2": "VOIDLING_GENERATOR_2:1",
+      "B3": "NULL_SPHERE:40",
+      "C1": "NULL_SPHERE:40",
+      "C2": "ENDERMAN_GENERATOR_2:1",
+      "C3": "NULL_SPHERE:40",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "VOIDLING_GENERATOR_3"
+    }
+  ]
 }

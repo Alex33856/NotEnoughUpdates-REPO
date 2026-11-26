@@ -20,15 +20,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Agaricus_Cap_Cap"
   ],
-  "recipe": {
-    "A1": "AGARICUS_CAP:10",
-    "A2": "AGARICUS_CAP:10",
-    "A3": "AGARICUS_CAP:10",
-    "B1": "AGARICUS_CAP:10",
-    "B2": "NOT_DEADGEHOG_MASK:1",
-    "B3": "AGARICUS_CAP:10",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "AGARICUS_CAP:10",
+      "A2": "AGARICUS_CAP:10",
+      "A3": "AGARICUS_CAP:10",
+      "B1": "AGARICUS_CAP:10",
+      "B2": "NOT_DEADGEHOG_MASK:1",
+      "B3": "AGARICUS_CAP:10",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "AGARICUS_CAP_CAP"
+    }
+  ]
 }

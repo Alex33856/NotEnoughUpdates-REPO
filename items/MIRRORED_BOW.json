@@ -15,15 +15,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/woB"
   ],
-  "recipe": {
-    "A1": "MIRRORED_STRING:1",
-    "A2": "MIRRORED_STICK:1",
-    "A3": "",
-    "B1": "MIRRORED_STRING:1",
-    "B2": "",
-    "B3": "MIRRORED_STICK:1",
-    "C1": "MIRRORED_STRING:1",
-    "C2": "MIRRORED_STICK:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "MIRRORED_STRING:1",
+      "A2": "MIRRORED_STICK:1",
+      "A3": "",
+      "B1": "MIRRORED_STRING:1",
+      "B2": "",
+      "B3": "MIRRORED_STICK:1",
+      "C1": "MIRRORED_STRING:1",
+      "C2": "MIRRORED_STICK:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MIRRORED_BOW"
+    }
+  ]
 }

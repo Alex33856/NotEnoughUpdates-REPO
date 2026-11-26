@@ -30,15 +30,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Bouquet_of_Lies"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "FEL_ROSE:3",
-    "A3": "",
-    "B1": "FEL_ROSE:3",
-    "B2": "FLOWER_OF_TRUTH:1",
-    "B3": "FEL_ROSE:3",
-    "C1": "",
-    "C2": "FEL_ROSE:3",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "FEL_ROSE:3",
+      "A3": "",
+      "B1": "FEL_ROSE:3",
+      "B2": "FLOWER_OF_TRUTH:1",
+      "B3": "FEL_ROSE:3",
+      "C1": "",
+      "C2": "FEL_ROSE:3",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BOUQUET_OF_LIES"
+    }
+  ]
 }

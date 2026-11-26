@@ -22,15 +22,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Jasper_Power_Scroll"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "",
-    "B1": "",
-    "B2": "ENCHANTED_PAPER:16",
-    "B3": "ENCHANTED_PAPER:16",
-    "C1": "",
-    "C2": "ENCHANTED_PAPER:16",
-    "C3": "FINE_JASPER_GEM:16"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "ENCHANTED_PAPER:16",
+      "B3": "ENCHANTED_PAPER:16",
+      "C1": "",
+      "C2": "ENCHANTED_PAPER:16",
+      "C3": "FINE_JASPER_GEM:16",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "JASPER_POWER_SCROLL"
+    }
+  ]
 }

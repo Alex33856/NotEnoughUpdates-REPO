@@ -14,15 +14,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Brown_Mushroom_Block"
   ],
-  "recipe": {
-    "A1": "BROWN_MUSHROOM:1",
-    "A2": "BROWN_MUSHROOM:1",
-    "A3": "BROWN_MUSHROOM:1",
-    "B1": "BROWN_MUSHROOM:1",
-    "B2": "BROWN_MUSHROOM:1",
-    "B3": "BROWN_MUSHROOM:1",
-    "C1": "BROWN_MUSHROOM:1",
-    "C2": "BROWN_MUSHROOM:1",
-    "C3": "BROWN_MUSHROOM:1"
-  }
+  "recipes": [
+    {
+      "A1": "BROWN_MUSHROOM:1",
+      "A2": "BROWN_MUSHROOM:1",
+      "A3": "BROWN_MUSHROOM:1",
+      "B1": "BROWN_MUSHROOM:1",
+      "B2": "BROWN_MUSHROOM:1",
+      "B3": "BROWN_MUSHROOM:1",
+      "C1": "BROWN_MUSHROOM:1",
+      "C2": "BROWN_MUSHROOM:1",
+      "C3": "BROWN_MUSHROOM:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HUGE_MUSHROOM_1"
+    }
+  ]
 }

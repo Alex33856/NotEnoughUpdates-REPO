@@ -21,16 +21,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Ender_Relic"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_OBSIDIAN:32",
-    "A2": "ENCHANTED_EYE_OF_ENDER:32",
-    "A3": "ENCHANTED_OBSIDIAN:32",
-    "B1": "ENCHANTED_EYE_OF_ENDER:32",
-    "B2": "ENDER_ARTIFACT:1",
-    "B3": "ENCHANTED_EYE_OF_ENDER:32",
-    "C1": "ENCHANTED_OBSIDIAN:32",
-    "C2": "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER:1",
-    "C3": "ENCHANTED_OBSIDIAN:32"
-  },
+  "recipes": [
+    {
+      "A1": "ENCHANTED_OBSIDIAN:32",
+      "A2": "ENCHANTED_EYE_OF_ENDER:32",
+      "A3": "ENCHANTED_OBSIDIAN:32",
+      "B1": "ENCHANTED_EYE_OF_ENDER:32",
+      "B2": "ENDER_ARTIFACT:1",
+      "B3": "ENCHANTED_EYE_OF_ENDER:32",
+      "C1": "ENCHANTED_OBSIDIAN:32",
+      "C2": "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER:1",
+      "C3": "ENCHANTED_OBSIDIAN:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ENDER_RELIC"
+    }
+  ],
   "slayer_req": "EMAN_7"
 }

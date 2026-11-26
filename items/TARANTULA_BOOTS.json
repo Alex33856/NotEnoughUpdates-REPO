@@ -37,15 +37,20 @@
     "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Boots"
   ],
   "slayer_req": "SPIDER_4",
-  "recipe": {
-    "A1": "TARANTULA_SILK:1",
-    "A2": "SPIDER_CATALYST:1",
-    "A3": "TARANTULA_SILK:1",
-    "B1": "ENCHANTED_IRON:64",
-    "B2": "SPIDER_BOOTS:1",
-    "B3": "ENCHANTED_IRON:64",
-    "C1": "TARANTULA_SILK:1",
-    "C2": "ENCHANTED_IRON:64",
-    "C3": "TARANTULA_SILK:1"
-  }
+  "recipes": [
+    {
+      "A1": "TARANTULA_SILK:1",
+      "A2": "SPIDER_CATALYST:1",
+      "A3": "TARANTULA_SILK:1",
+      "B1": "ENCHANTED_IRON:64",
+      "B2": "SPIDER_BOOTS:1",
+      "B3": "ENCHANTED_IRON:64",
+      "C1": "TARANTULA_SILK:1",
+      "C2": "ENCHANTED_IRON:64",
+      "C3": "TARANTULA_SILK:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "TARANTULA_BOOTS"
+    }
+  ]
 }

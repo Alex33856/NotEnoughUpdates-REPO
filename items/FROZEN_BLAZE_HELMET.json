@@ -31,15 +31,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Frozen_Blaze_Helmet"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_PACKED_ICE:8",
-    "A2": "ENCHANTED_PACKED_ICE:8",
-    "A3": "ENCHANTED_PACKED_ICE:8",
-    "B1": "ENCHANTED_PACKED_ICE:8",
-    "B2": "BLAZE_HELMET:1",
-    "B3": "ENCHANTED_PACKED_ICE:8",
-    "C1": "ENCHANTED_PACKED_ICE:8",
-    "C2": "ENCHANTED_PACKED_ICE:8",
-    "C3": "ENCHANTED_PACKED_ICE:8"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_PACKED_ICE:8",
+      "A2": "ENCHANTED_PACKED_ICE:8",
+      "A3": "ENCHANTED_PACKED_ICE:8",
+      "B1": "ENCHANTED_PACKED_ICE:8",
+      "B2": "BLAZE_HELMET:1",
+      "B3": "ENCHANTED_PACKED_ICE:8",
+      "C1": "ENCHANTED_PACKED_ICE:8",
+      "C2": "ENCHANTED_PACKED_ICE:8",
+      "C3": "ENCHANTED_PACKED_ICE:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FROZEN_BLAZE_HELMET"
+    }
+  ]
 }

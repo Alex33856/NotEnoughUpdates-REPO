@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Prismarine_Bow"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "PRISMARINE_SHARD:16",
-    "A3": "STRING:1",
-    "B1": "PRISMARINE_SHARD:16",
-    "B2": "",
-    "B3": "STRING:1",
-    "C1": "",
-    "C2": "PRISMARINE_SHARD:16",
-    "C3": "STRING:1"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "PRISMARINE_SHARD:16",
+      "A3": "STRING:1",
+      "B1": "PRISMARINE_SHARD:16",
+      "B2": "",
+      "B3": "STRING:1",
+      "C1": "",
+      "C2": "PRISMARINE_SHARD:16",
+      "C3": "STRING:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "PRISMARINE_BOW"
+    }
+  ]
 }

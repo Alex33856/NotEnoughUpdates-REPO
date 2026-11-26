@@ -29,15 +29,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Shark_Scale_Chestplate"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_SHARK_FIN:1",
-    "A2": "SPONGE_CHESTPLATE:1",
-    "A3": "ENCHANTED_SHARK_FIN:1",
-    "B1": "",
-    "B2": "",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_SHARK_FIN:1",
+      "A2": "SPONGE_CHESTPLATE:1",
+      "A3": "ENCHANTED_SHARK_FIN:1",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SHARK_SCALE_CHESTPLATE"
+    }
+  ]
 }

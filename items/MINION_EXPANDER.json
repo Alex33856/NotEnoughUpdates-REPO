@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Minion_Expander"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_QUARTZ:2",
-    "A2": "ENCHANTED_QUARTZ:2",
-    "A3": "ENCHANTED_QUARTZ:2",
-    "B1": "ENCHANTED_QUARTZ:2",
-    "B2": "ENCHANTED_REDSTONE:2",
-    "B3": "ENCHANTED_QUARTZ:2",
-    "C1": "ENCHANTED_QUARTZ:2",
-    "C2": "ENCHANTED_QUARTZ:2",
-    "C3": "ENCHANTED_QUARTZ:2"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_QUARTZ:2",
+      "A2": "ENCHANTED_QUARTZ:2",
+      "A3": "ENCHANTED_QUARTZ:2",
+      "B1": "ENCHANTED_QUARTZ:2",
+      "B2": "ENCHANTED_REDSTONE:2",
+      "B3": "ENCHANTED_QUARTZ:2",
+      "C1": "ENCHANTED_QUARTZ:2",
+      "C2": "ENCHANTED_QUARTZ:2",
+      "C3": "ENCHANTED_QUARTZ:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MINION_EXPANDER"
+    }
+  ]
 }

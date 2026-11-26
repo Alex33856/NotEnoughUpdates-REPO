@@ -20,15 +20,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Lush_Ring"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_LUSH_BERBERIS:8",
-    "A2": "ENCHANTED_LUSH_BERBERIS:8",
-    "A3": "ENCHANTED_LUSH_BERBERIS:8",
-    "B1": "ENCHANTED_LUSH_BERBERIS:8",
-    "B2": "LUSH_TALISMAN:1",
-    "B3": "ENCHANTED_LUSH_BERBERIS:8",
-    "C1": "ENCHANTED_LUSH_BERBERIS:8",
-    "C2": "ENCHANTED_LUSH_BERBERIS:8",
-    "C3": "ENCHANTED_LUSH_BERBERIS:8"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_LUSH_BERBERIS:8",
+      "A2": "ENCHANTED_LUSH_BERBERIS:8",
+      "A3": "ENCHANTED_LUSH_BERBERIS:8",
+      "B1": "ENCHANTED_LUSH_BERBERIS:8",
+      "B2": "LUSH_TALISMAN:1",
+      "B3": "ENCHANTED_LUSH_BERBERIS:8",
+      "C1": "ENCHANTED_LUSH_BERBERIS:8",
+      "C2": "ENCHANTED_LUSH_BERBERIS:8",
+      "C3": "ENCHANTED_LUSH_BERBERIS:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "LUSH_RING"
+    }
+  ]
 }

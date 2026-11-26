@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Revenant_Minion"
   ],
-  "recipe": {
-    "A1": "REVENANT_VISCERA:64",
-    "A2": "REVENANT_VISCERA:64",
-    "A3": "REVENANT_VISCERA:64",
-    "B1": "REVENANT_VISCERA:64",
-    "B2": "REVENANT_GENERATOR_10:1",
-    "B3": "REVENANT_VISCERA:64",
-    "C1": "REVENANT_VISCERA:64",
-    "C2": "ZOMBIE_GENERATOR_10:1",
-    "C3": "REVENANT_VISCERA:64"
-  }
+  "recipes": [
+    {
+      "A1": "REVENANT_VISCERA:64",
+      "A2": "REVENANT_VISCERA:64",
+      "A3": "REVENANT_VISCERA:64",
+      "B1": "REVENANT_VISCERA:64",
+      "B2": "REVENANT_GENERATOR_10:1",
+      "B3": "REVENANT_VISCERA:64",
+      "C1": "REVENANT_VISCERA:64",
+      "C2": "ZOMBIE_GENERATOR_10:1",
+      "C3": "REVENANT_VISCERA:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "REVENANT_GENERATOR_11"
+    }
+  ]
 }

@@ -18,23 +18,25 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Silent_Pearl"
   ],
-  "recipe": {
-    "A1": "ENDER_STONE:1",
-    "A2": "ENDER_STONE:1",
-    "A3": "ENDER_STONE:1",
-    "B1": "ENDER_STONE:1",
-    "B2": "ENDER_PEARL:8",
-    "B3": "ENDER_STONE:1",
-    "C1": "ENDER_STONE:1",
-    "C2": "ENDER_STONE:1",
-    "C3": "ENDER_STONE:1",
-    "count": 8
-  },
   "recipes": [
     {
       "type": "trade",
       "cost": "EMERALD:6",
       "result": "SILENT_PEARL"
+    },
+    {
+      "A1": "ENDER_STONE:1",
+      "A2": "ENDER_STONE:1",
+      "A3": "ENDER_STONE:1",
+      "B1": "ENDER_STONE:1",
+      "B2": "ENDER_PEARL:8",
+      "B3": "ENDER_STONE:1",
+      "C1": "ENDER_STONE:1",
+      "C2": "ENDER_STONE:1",
+      "C3": "ENDER_STONE:1",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "SILENT_PEARL"
     }
   ]
 }

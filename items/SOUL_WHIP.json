@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Soul_Whip"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "ECTOPLASM:4",
-    "B1": "",
-    "B2": "ECTOPLASM:4",
-    "B3": "SOUL_FRAGMENT:4",
-    "C1": "ECTOPLASM:4",
-    "C2": "",
-    "C3": "SOUL_FRAGMENT:4"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "ECTOPLASM:4",
+      "B1": "",
+      "B2": "ECTOPLASM:4",
+      "B3": "SOUL_FRAGMENT:4",
+      "C1": "ECTOPLASM:4",
+      "C2": "",
+      "C3": "SOUL_FRAGMENT:4",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SOUL_WHIP"
+    }
+  ]
 }

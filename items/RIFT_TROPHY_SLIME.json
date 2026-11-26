@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Globulate_Timecharm"
   ],
-  "recipe": {
-    "A1": "BACTE_FRAGMENT:1",
-    "A2": "BACTE_FRAGMENT:1",
-    "A3": "BACTE_FRAGMENT:1",
-    "B1": "BACTE_FRAGMENT:1",
-    "B2": "SHAME_CRUX:20",
-    "B3": "BACTE_FRAGMENT:1",
-    "C1": "BACTE_FRAGMENT:1",
-    "C2": "BACTE_FRAGMENT:1",
-    "C3": "BACTE_FRAGMENT:1"
-  }
+  "recipes": [
+    {
+      "A1": "BACTE_FRAGMENT:1",
+      "A2": "BACTE_FRAGMENT:1",
+      "A3": "BACTE_FRAGMENT:1",
+      "B1": "BACTE_FRAGMENT:1",
+      "B2": "SHAME_CRUX:20",
+      "B3": "BACTE_FRAGMENT:1",
+      "C1": "BACTE_FRAGMENT:1",
+      "C2": "BACTE_FRAGMENT:1",
+      "C3": "BACTE_FRAGMENT:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "RIFT_TROPHY_SLIME"
+    }
+  ]
 }

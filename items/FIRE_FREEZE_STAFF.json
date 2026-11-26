@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Fire_Freeze_Staff"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "SPELL_POWDER:5",
-    "B1": "",
-    "B2": "WITHER_SOUL:20",
-    "B3": "",
-    "C1": "STICK:1",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "SPELL_POWDER:5",
+      "B1": "",
+      "B2": "WITHER_SOUL:20",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FIRE_FREEZE_STAFF"
+    }
+  ]
 }

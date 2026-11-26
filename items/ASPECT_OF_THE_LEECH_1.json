@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Aspect_of_the_Leech"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "LIL_PAD:64",
-    "A3": "",
-    "B1": "",
-    "B2": "LIL_PAD:64",
-    "B3": "",
-    "C1": "",
-    "C2": "LEECH_SUPREME_FRAGMENT:8",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "LIL_PAD:64",
+      "A3": "",
+      "B1": "",
+      "B2": "LIL_PAD:64",
+      "B3": "",
+      "C1": "",
+      "C2": "LEECH_SUPREME_FRAGMENT:8",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ASPECT_OF_THE_LEECH_1"
+    }
+  ]
 }

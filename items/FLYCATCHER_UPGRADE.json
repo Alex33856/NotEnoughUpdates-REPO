@@ -23,16 +23,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Flycatcher"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "TARANTULA_SILK:17",
-    "A3": "",
-    "B1": "TARANTULA_SILK:17",
-    "B2": "FLY_SWATTER:1",
-    "B3": "TARANTULA_SILK:17",
-    "C1": "TARANTULA_SILK:17",
-    "C2": "TARANTULA_SILK:17",
-    "C3": "TARANTULA_SILK:17"
-  },
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "TARANTULA_SILK:17",
+      "A3": "",
+      "B1": "TARANTULA_SILK:17",
+      "B2": "FLY_SWATTER:1",
+      "B3": "TARANTULA_SILK:17",
+      "C1": "TARANTULA_SILK:17",
+      "C2": "TARANTULA_SILK:17",
+      "C3": "TARANTULA_SILK:17",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FLYCATCHER_UPGRADE"
+    }
+  ],
   "slayer_req": "SPIDER_6"
 }

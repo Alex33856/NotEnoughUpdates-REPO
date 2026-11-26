@@ -13,15 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "CLAY_BRICK:1",
-    "A2": "",
-    "A3": "CLAY_BRICK:1",
-    "B1": "",
-    "B2": "CLAY_BRICK:1",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "CLAY_BRICK:1",
+      "A2": "",
+      "A3": "CLAY_BRICK:1",
+      "B1": "",
+      "B2": "CLAY_BRICK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FLOWER_POT_ITEM"
+    }
+  ]
 }

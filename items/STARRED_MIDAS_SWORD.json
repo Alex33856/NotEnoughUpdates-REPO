@@ -27,15 +27,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Midas%27_Sword"
   ],
-  "recipe": {
-    "A1": "GOLDEN_FRAGMENT:1",
-    "A2": "GOLDEN_FRAGMENT:1",
-    "A3": "GOLDEN_FRAGMENT:1",
-    "B1": "GOLDEN_FRAGMENT:1",
-    "B2": "MIDAS_SWORD:1",
-    "B3": "GOLDEN_FRAGMENT:1",
-    "C1": "GOLDEN_FRAGMENT:1",
-    "C2": "GOLDEN_FRAGMENT:1",
-    "C3": "GOLDEN_FRAGMENT:1"
-  }
+  "recipes": [
+    {
+      "A1": "GOLDEN_FRAGMENT:1",
+      "A2": "GOLDEN_FRAGMENT:1",
+      "A3": "GOLDEN_FRAGMENT:1",
+      "B1": "GOLDEN_FRAGMENT:1",
+      "B2": "MIDAS_SWORD:1",
+      "B3": "GOLDEN_FRAGMENT:1",
+      "C1": "GOLDEN_FRAGMENT:1",
+      "C2": "GOLDEN_FRAGMENT:1",
+      "C3": "GOLDEN_FRAGMENT:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "STARRED_MIDAS_SWORD"
+    }
+  ]
 }

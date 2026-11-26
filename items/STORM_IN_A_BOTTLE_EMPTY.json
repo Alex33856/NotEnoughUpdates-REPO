@@ -19,15 +19,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Empty_Storm_Bottle"
   ],
-  "recipe": {
-    "A1": "ORB_OF_ENERGY:4",
-    "A2": "ORB_OF_ENERGY:4",
-    "A3": "ORB_OF_ENERGY:4",
-    "B1": "ORB_OF_ENERGY:4",
-    "B2": "THUNDER_IN_A_BOTTLE_EMPTY:1",
-    "B3": "ORB_OF_ENERGY:4",
-    "C1": "ORB_OF_ENERGY:4",
-    "C2": "ORB_OF_ENERGY:4",
-    "C3": "ORB_OF_ENERGY:4"
-  }
+  "recipes": [
+    {
+      "A1": "ORB_OF_ENERGY:4",
+      "A2": "ORB_OF_ENERGY:4",
+      "A3": "ORB_OF_ENERGY:4",
+      "B1": "ORB_OF_ENERGY:4",
+      "B2": "THUNDER_IN_A_BOTTLE_EMPTY:1",
+      "B3": "ORB_OF_ENERGY:4",
+      "C1": "ORB_OF_ENERGY:4",
+      "C2": "ORB_OF_ENERGY:4",
+      "C3": "ORB_OF_ENERGY:4",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "STORM_IN_A_BOTTLE_EMPTY"
+    }
+  ]
 }

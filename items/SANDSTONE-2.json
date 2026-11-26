@@ -13,16 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "SANDSTONE:1",
-    "A2": "SANDSTONE:1",
-    "A3": "",
-    "B1": "SANDSTONE:1",
-    "B2": "SANDSTONE:1",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": "",
-    "count": 4
-  }
+  "recipes": [
+    {
+      "A1": "SANDSTONE:1",
+      "A2": "SANDSTONE:1",
+      "A3": "",
+      "B1": "SANDSTONE:1",
+      "B2": "SANDSTONE:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "SANDSTONE-2"
+    }
+  ]
 }

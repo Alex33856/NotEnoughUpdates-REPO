@@ -15,15 +15,20 @@
     "https://hypixelskyblock.minecraft.wiki/w/Brewing_Stand"
   ],
   "vanilla": true,
-  "recipe": {
-    "A1": "",
-    "A2": "BLAZE_ROD:1",
-    "A3": "",
-    "B1": "COBBLESTONE:1",
-    "B2": "COBBLESTONE:1",
-    "B3": "COBBLESTONE:1",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "BLAZE_ROD:1",
+      "A3": "",
+      "B1": "COBBLESTONE:1",
+      "B2": "COBBLESTONE:1",
+      "B3": "COBBLESTONE:1",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BREWING_STAND_ITEM"
+    }
+  ]
 }

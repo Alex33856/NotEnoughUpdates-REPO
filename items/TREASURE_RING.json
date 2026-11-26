@@ -22,15 +22,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Treasure_Ring"
   ],
-  "recipe": {
-    "A1": "TREASURE_TALISMAN:1",
-    "A2": "TREASURE_TALISMAN:1",
-    "A3": "TREASURE_TALISMAN:1",
-    "B1": "TREASURE_TALISMAN:1",
-    "B2": "",
-    "B3": "TREASURE_TALISMAN:1",
-    "C1": "TREASURE_TALISMAN:1",
-    "C2": "TREASURE_TALISMAN:1",
-    "C3": "TREASURE_TALISMAN:1"
-  }
+  "recipes": [
+    {
+      "A1": "TREASURE_TALISMAN:1",
+      "A2": "TREASURE_TALISMAN:1",
+      "A3": "TREASURE_TALISMAN:1",
+      "B1": "TREASURE_TALISMAN:1",
+      "B2": "",
+      "B3": "TREASURE_TALISMAN:1",
+      "C1": "TREASURE_TALISMAN:1",
+      "C2": "TREASURE_TALISMAN:1",
+      "C3": "TREASURE_TALISMAN:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "TREASURE_RING"
+    }
+  ]
 }

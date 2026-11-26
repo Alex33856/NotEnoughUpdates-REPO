@@ -16,15 +16,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Glistering_Melon_Slice"
   ],
-  "recipe": {
-    "A1": "SPECKLED_MELON:32",
-    "A2": "SPECKLED_MELON:32",
-    "A3": "SPECKLED_MELON:32",
-    "B1": "SPECKLED_MELON:32",
-    "B2": "",
-    "B3": "SPECKLED_MELON:32",
-    "C1": "SPECKLED_MELON:32",
-    "C2": "SPECKLED_MELON:32",
-    "C3": "SPECKLED_MELON:32"
-  }
+  "recipes": [
+    {
+      "A1": "SPECKLED_MELON:32",
+      "A2": "SPECKLED_MELON:32",
+      "A3": "SPECKLED_MELON:32",
+      "B1": "SPECKLED_MELON:32",
+      "B2": "",
+      "B3": "SPECKLED_MELON:32",
+      "C1": "SPECKLED_MELON:32",
+      "C2": "SPECKLED_MELON:32",
+      "C3": "SPECKLED_MELON:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ENCHANTED_GLISTERING_MELON"
+    }
+  ]
 }

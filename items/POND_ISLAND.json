@@ -17,15 +17,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Pond_Island"
   ],
-  "recipe": {
-    "A1": "WATER_BUCKET:1",
-    "A2": "WATER_BUCKET:1",
-    "A3": "WATER_BUCKET:1",
-    "B1": "SAND:5",
-    "B2": "SAND:5",
-    "B3": "SAND:5",
-    "C1": "PRISMARINE_CRYSTALS:20",
-    "C2": "PRISMARINE_CRYSTALS:20",
-    "C3": "PRISMARINE_CRYSTALS:20"
-  }
+  "recipes": [
+    {
+      "A1": "WATER_BUCKET:1",
+      "A2": "WATER_BUCKET:1",
+      "A3": "WATER_BUCKET:1",
+      "B1": "SAND:5",
+      "B2": "SAND:5",
+      "B3": "SAND:5",
+      "C1": "PRISMARINE_CRYSTALS:20",
+      "C2": "PRISMARINE_CRYSTALS:20",
+      "C3": "PRISMARINE_CRYSTALS:20",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "POND_ISLAND"
+    }
+  ]
 }

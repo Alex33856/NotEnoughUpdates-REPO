@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Werewolf_Boots"
   ],
-  "recipe": {
-    "A1": "WEREWOLF_SKIN:4",
-    "A2": "",
-    "A3": "WEREWOLF_SKIN:4",
-    "B1": "WEREWOLF_SKIN:4",
-    "B2": "",
-    "B3": "WEREWOLF_SKIN:4",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "WEREWOLF_SKIN:4",
+      "A2": "",
+      "A3": "WEREWOLF_SKIN:4",
+      "B1": "WEREWOLF_SKIN:4",
+      "B2": "",
+      "B3": "WEREWOLF_SKIN:4",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "WEREWOLF_BOOTS"
+    }
+  ]
 }

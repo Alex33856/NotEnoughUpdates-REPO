@@ -24,16 +24,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Aspect_of_the_Void"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "NULL_OVOID:8",
-    "A3": "",
-    "B1": "NULL_OVOID:8",
-    "B2": "ASPECT_OF_THE_END:1",
-    "B3": "NULL_OVOID:8",
-    "C1": "",
-    "C2": "NULL_OVOID:8",
-    "C3": ""
-  },
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "NULL_OVOID:8",
+      "A3": "",
+      "B1": "NULL_OVOID:8",
+      "B2": "ASPECT_OF_THE_END:1",
+      "B3": "NULL_OVOID:8",
+      "C1": "",
+      "C2": "NULL_OVOID:8",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ASPECT_OF_THE_VOID"
+    }
+  ],
   "slayer_req": "EMAN_6"
 }

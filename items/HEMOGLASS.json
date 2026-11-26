@@ -17,15 +17,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Hemoglass"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "HEMOVIBE:32",
-    "A3": "",
-    "B1": "HEMOVIBE:32",
-    "B2": "HEMOVIBE:32",
-    "B3": "HEMOVIBE:32",
-    "C1": "",
-    "C2": "HEMOVIBE:32",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "HEMOVIBE:32",
+      "A3": "",
+      "B1": "HEMOVIBE:32",
+      "B2": "HEMOVIBE:32",
+      "B3": "HEMOVIBE:32",
+      "C1": "",
+      "C2": "HEMOVIBE:32",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HEMOGLASS"
+    }
+  ]
 }

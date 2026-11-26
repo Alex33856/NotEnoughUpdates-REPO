@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Stone_Platform"
   ],
-  "recipe": {
-    "A1": "SMOOTH_BRICK:8",
-    "A2": "SMOOTH_BRICK:8",
-    "A3": "SMOOTH_BRICK:8",
-    "B1": "SMOOTH_BRICK:8",
-    "B2": "EGG:1",
-    "B3": "SMOOTH_BRICK:8",
-    "C1": "SMOOTH_BRICK:8",
-    "C2": "SMOOTH_BRICK:8",
-    "C3": "SMOOTH_BRICK:8"
-  }
+  "recipes": [
+    {
+      "A1": "SMOOTH_BRICK:8",
+      "A2": "SMOOTH_BRICK:8",
+      "A3": "SMOOTH_BRICK:8",
+      "B1": "SMOOTH_BRICK:8",
+      "B2": "EGG:1",
+      "B3": "SMOOTH_BRICK:8",
+      "C1": "SMOOTH_BRICK:8",
+      "C2": "SMOOTH_BRICK:8",
+      "C3": "SMOOTH_BRICK:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "STONE_BRIDGE"
+    }
+  ]
 }

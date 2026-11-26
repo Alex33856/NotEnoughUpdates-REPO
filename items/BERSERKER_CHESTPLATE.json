@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Berserker_Chestplate"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_RED_SAND_CUBE:1",
-    "A2": "",
-    "A3": "ENCHANTED_RED_SAND_CUBE:1",
-    "B1": "ENCHANTED_RED_SAND_CUBE:1",
-    "B2": "BURNING_EYE:50",
-    "B3": "ENCHANTED_RED_SAND_CUBE:1",
-    "C1": "MAGMA_CHUNK:20",
-    "C2": "ENCHANTED_RED_SAND_CUBE:1",
-    "C3": "MAGMA_CHUNK:20"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_RED_SAND_CUBE:1",
+      "A2": "",
+      "A3": "ENCHANTED_RED_SAND_CUBE:1",
+      "B1": "ENCHANTED_RED_SAND_CUBE:1",
+      "B2": "BURNING_EYE:50",
+      "B3": "ENCHANTED_RED_SAND_CUBE:1",
+      "C1": "MAGMA_CHUNK:20",
+      "C2": "ENCHANTED_RED_SAND_CUBE:1",
+      "C3": "MAGMA_CHUNK:20",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BERSERKER_CHESTPLATE"
+    }
+  ]
 }

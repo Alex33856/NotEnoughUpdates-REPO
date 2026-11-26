@@ -13,15 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "",
-    "A2": "GOLD_INGOT:1",
-    "A3": "",
-    "B1": "GOLD_INGOT:1",
-    "B2": "REDSTONE:1",
-    "B3": "GOLD_INGOT:1",
-    "C1": "",
-    "C2": "GOLD_INGOT:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "GOLD_INGOT:1",
+      "A3": "",
+      "B1": "GOLD_INGOT:1",
+      "B2": "REDSTONE:1",
+      "B3": "GOLD_INGOT:1",
+      "C1": "",
+      "C2": "GOLD_INGOT:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "WATCH"
+    }
+  ]
 }

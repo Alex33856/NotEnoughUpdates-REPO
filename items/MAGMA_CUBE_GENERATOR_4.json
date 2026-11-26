@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Magma_Cube_Minion"
   ],
-  "recipe": {
-    "A1": "MAGMA_CREAM:64",
-    "A2": "MAGMA_CREAM:64",
-    "A3": "MAGMA_CREAM:64",
-    "B1": "MAGMA_CREAM:64",
-    "B2": "MAGMA_CUBE_GENERATOR_3:1",
-    "B3": "MAGMA_CREAM:64",
-    "C1": "MAGMA_CREAM:64",
-    "C2": "MAGMA_CREAM:64",
-    "C3": "MAGMA_CREAM:64"
-  }
+  "recipes": [
+    {
+      "A1": "MAGMA_CREAM:64",
+      "A2": "MAGMA_CREAM:64",
+      "A3": "MAGMA_CREAM:64",
+      "B1": "MAGMA_CREAM:64",
+      "B2": "MAGMA_CUBE_GENERATOR_3:1",
+      "B3": "MAGMA_CREAM:64",
+      "C1": "MAGMA_CREAM:64",
+      "C2": "MAGMA_CREAM:64",
+      "C3": "MAGMA_CREAM:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MAGMA_CUBE_GENERATOR_4"
+    }
+  ]
 }

@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Ring_of_the_Century"
   ],
-  "recipe": {
-    "A1": "TOKEN_OF_THE_CENTURY:1",
-    "A2": "TOKEN_OF_THE_CENTURY:1",
-    "A3": "TOKEN_OF_THE_CENTURY:1",
-    "B1": "TOKEN_OF_THE_CENTURY:1",
-    "B2": "CENTURY_TALISMAN:1",
-    "B3": "TOKEN_OF_THE_CENTURY:1",
-    "C1": "TOKEN_OF_THE_CENTURY:1",
-    "C2": "TOKEN_OF_THE_CENTURY:1",
-    "C3": "TOKEN_OF_THE_CENTURY:1"
-  }
+  "recipes": [
+    {
+      "A1": "TOKEN_OF_THE_CENTURY:1",
+      "A2": "TOKEN_OF_THE_CENTURY:1",
+      "A3": "TOKEN_OF_THE_CENTURY:1",
+      "B1": "TOKEN_OF_THE_CENTURY:1",
+      "B2": "CENTURY_TALISMAN:1",
+      "B3": "TOKEN_OF_THE_CENTURY:1",
+      "C1": "TOKEN_OF_THE_CENTURY:1",
+      "C2": "TOKEN_OF_THE_CENTURY:1",
+      "C3": "TOKEN_OF_THE_CENTURY:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CENTURY_RING"
+    }
+  ]
 }

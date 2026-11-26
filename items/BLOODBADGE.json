@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Bloodbadge"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "COVEN_SEAL:16",
-    "A3": "BACTE_FRAGMENT:2",
-    "B1": "COVEN_SEAL:16",
-    "B2": "CRUXMOTION:2",
-    "B3": "COVEN_SEAL:16",
-    "C1": "LEECH_SUPREME_FRAGMENT:2",
-    "C2": "COVEN_SEAL:16",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "COVEN_SEAL:16",
+      "A3": "BACTE_FRAGMENT:2",
+      "B1": "COVEN_SEAL:16",
+      "B2": "CRUXMOTION:2",
+      "B3": "COVEN_SEAL:16",
+      "C1": "LEECH_SUPREME_FRAGMENT:2",
+      "C2": "COVEN_SEAL:16",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BLOODBADGE"
+    }
+  ]
 }

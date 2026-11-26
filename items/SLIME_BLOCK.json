@@ -13,15 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "SLIME_BALL:1",
-    "A2": "SLIME_BALL:1",
-    "A3": "SLIME_BALL:1",
-    "B1": "SLIME_BALL:1",
-    "B2": "SLIME_BALL:1",
-    "B3": "SLIME_BALL:1",
-    "C1": "SLIME_BALL:1",
-    "C2": "SLIME_BALL:1",
-    "C3": "SLIME_BALL:1"
-  }
+  "recipes": [
+    {
+      "A1": "SLIME_BALL:1",
+      "A2": "SLIME_BALL:1",
+      "A3": "SLIME_BALL:1",
+      "B1": "SLIME_BALL:1",
+      "B2": "SLIME_BALL:1",
+      "B3": "SLIME_BALL:1",
+      "C1": "SLIME_BALL:1",
+      "C2": "SLIME_BALL:1",
+      "C3": "SLIME_BALL:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SLIME_BLOCK"
+    }
+  ]
 }

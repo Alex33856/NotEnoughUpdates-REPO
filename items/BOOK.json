@@ -15,15 +15,20 @@
     "https://hypixelskyblock.minecraft.wiki/w/Book"
   ],
   "vanilla": true,
-  "recipe": {
-    "A1": "PAPER:1",
-    "A2": "PAPER:1",
-    "A3": "PAPER:1",
-    "B1": "LEATHER:1",
-    "B2": "",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "PAPER:1",
+      "A2": "PAPER:1",
+      "A3": "PAPER:1",
+      "B1": "LEATHER:1",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BOOK"
+    }
+  ]
 }

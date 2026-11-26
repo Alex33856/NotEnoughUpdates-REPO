@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Mixed_Mite_Gel"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "MITE_GEL:32",
-    "A3": "",
-    "B1": "MITE_GEL:32",
-    "B2": "MITE_GEL:32",
-    "B3": "MITE_GEL:32",
-    "C1": "",
-    "C2": "MITE_GEL:32",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "MITE_GEL:32",
+      "A3": "",
+      "B1": "MITE_GEL:32",
+      "B2": "MITE_GEL:32",
+      "B3": "MITE_GEL:32",
+      "C1": "",
+      "C2": "MITE_GEL:32",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MIXED_MITE_GEL"
+    }
+  ]
 }

@@ -19,15 +19,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Snake-in-a-Boot"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "",
-    "B1": "METAL_HEART:5",
-    "B2": "",
-    "B3": "METAL_HEART:5",
-    "C1": "METAL_HEART:5",
-    "C2": "",
-    "C3": "EXCEEDINGLY_COMFY_SNEAKERS:1"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "METAL_HEART:5",
+      "B2": "",
+      "B3": "METAL_HEART:5",
+      "C1": "METAL_HEART:5",
+      "C2": "",
+      "C3": "EXCEEDINGLY_COMFY_SNEAKERS:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SNAKE_IN_A_BOOT"
+    }
+  ]
 }

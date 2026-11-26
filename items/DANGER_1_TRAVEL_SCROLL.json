@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Spider%27s_Den"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_FLINT:16",
-    "A2": "ENCHANTED_FLINT:16",
-    "A3": "ENCHANTED_FLINT:16",
-    "B1": "ENCHANTED_FLINT:16",
-    "B2": "ENCHANTED_ENDER_PEARL:16",
-    "B3": "ENCHANTED_FLINT:16",
-    "C1": "ENCHANTED_FLINT:16",
-    "C2": "ENCHANTED_FLINT:16",
-    "C3": "ENCHANTED_FLINT:16"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_FLINT:16",
+      "A2": "ENCHANTED_FLINT:16",
+      "A3": "ENCHANTED_FLINT:16",
+      "B1": "ENCHANTED_FLINT:16",
+      "B2": "ENCHANTED_ENDER_PEARL:16",
+      "B3": "ENCHANTED_FLINT:16",
+      "C1": "ENCHANTED_FLINT:16",
+      "C2": "ENCHANTED_FLINT:16",
+      "C3": "ENCHANTED_FLINT:16",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DANGER_1_TRAVEL_SCROLL"
+    }
+  ]
 }

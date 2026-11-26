@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Silex"
   ],
-  "recipe": {
-    "A1": "CONCENTRATED_STONE:1",
-    "A2": "CONCENTRATED_STONE:1",
-    "A3": "CONCENTRATED_STONE:1",
-    "B1": "CONCENTRATED_STONE:1",
-    "B2": "CONCENTRATED_STONE:1",
-    "B3": "CONCENTRATED_STONE:1",
-    "C1": "CONCENTRATED_STONE:1",
-    "C2": "CONCENTRATED_STONE:1",
-    "C3": "CONCENTRATED_STONE:1"
-  }
+  "recipes": [
+    {
+      "A1": "CONCENTRATED_STONE:1",
+      "A2": "CONCENTRATED_STONE:1",
+      "A3": "CONCENTRATED_STONE:1",
+      "B1": "CONCENTRATED_STONE:1",
+      "B2": "CONCENTRATED_STONE:1",
+      "B3": "CONCENTRATED_STONE:1",
+      "C1": "CONCENTRATED_STONE:1",
+      "C2": "CONCENTRATED_STONE:1",
+      "C3": "CONCENTRATED_STONE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SIL_EX"
+    }
+  ]
 }

@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sand_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_SAND:8",
-    "A2": "ENCHANTED_SAND:8",
-    "A3": "ENCHANTED_SAND:8",
-    "B1": "ENCHANTED_SAND:8",
-    "B2": "SAND_GENERATOR_7:1",
-    "B3": "ENCHANTED_SAND:8",
-    "C1": "ENCHANTED_SAND:8",
-    "C2": "ENCHANTED_SAND:8",
-    "C3": "ENCHANTED_SAND:8"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_SAND:8",
+      "A2": "ENCHANTED_SAND:8",
+      "A3": "ENCHANTED_SAND:8",
+      "B1": "ENCHANTED_SAND:8",
+      "B2": "SAND_GENERATOR_7:1",
+      "B3": "ENCHANTED_SAND:8",
+      "C1": "ENCHANTED_SAND:8",
+      "C2": "ENCHANTED_SAND:8",
+      "C3": "ENCHANTED_SAND:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SAND_GENERATOR_8"
+    }
+  ]
 }

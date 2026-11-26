@@ -38,16 +38,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Kindlebane_Dagger"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "MAGMA_FISH_GOLD:1",
-    "A3": "",
-    "B1": "",
-    "B2": "MOLTEN_POWDER:8",
-    "B3": "",
-    "C1": "",
-    "C2": "FIREDUST_DAGGER:1",
-    "C3": ""
-  },
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "MAGMA_FISH_GOLD:1",
+      "A3": "",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:8",
+      "B3": "",
+      "C1": "",
+      "C2": "FIREDUST_DAGGER:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BURSTFIRE_DAGGER"
+    }
+  ],
   "slayer_req": "BLAZE_4"
 }

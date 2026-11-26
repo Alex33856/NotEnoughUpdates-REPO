@@ -20,15 +20,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Auto_Smelter"
   ],
-  "recipe": {
-    "A1": "COBBLESTONE:8",
-    "A2": "COBBLESTONE:8",
-    "A3": "COBBLESTONE:8",
-    "B1": "COBBLESTONE:8",
-    "B2": "COAL:1",
-    "B3": "COBBLESTONE:8",
-    "C1": "COBBLESTONE:8",
-    "C2": "COBBLESTONE:8",
-    "C3": "COBBLESTONE:8"
-  }
+  "recipes": [
+    {
+      "A1": "COBBLESTONE:8",
+      "A2": "COBBLESTONE:8",
+      "A3": "COBBLESTONE:8",
+      "B1": "COBBLESTONE:8",
+      "B2": "COAL:1",
+      "B3": "COBBLESTONE:8",
+      "C1": "COBBLESTONE:8",
+      "C2": "COBBLESTONE:8",
+      "C3": "COBBLESTONE:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "AUTO_SMELTER"
+    }
+  ]
 }

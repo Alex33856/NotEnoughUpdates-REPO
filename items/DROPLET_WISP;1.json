@@ -36,15 +36,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Droplet_Wisp_Pet"
   ],
-  "recipe": {
-    "A1": "DERELICT_ASHE:1",
-    "A2": "DERELICT_ASHE:1",
-    "A3": "DERELICT_ASHE:1",
-    "B1": "DERELICT_ASHE:1",
-    "B2": "OMEGA_EGG:1",
-    "B3": "DERELICT_ASHE:1",
-    "C1": "DERELICT_ASHE:1",
-    "C2": "DERELICT_ASHE:1",
-    "C3": "DERELICT_ASHE:1"
-  }
+  "recipes": [
+    {
+      "A1": "DERELICT_ASHE:1",
+      "A2": "DERELICT_ASHE:1",
+      "A3": "DERELICT_ASHE:1",
+      "B1": "DERELICT_ASHE:1",
+      "B2": "OMEGA_EGG:1",
+      "B3": "DERELICT_ASHE:1",
+      "C1": "DERELICT_ASHE:1",
+      "C2": "DERELICT_ASHE:1",
+      "C3": "DERELICT_ASHE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DROPLET_WISP;1"
+    }
+  ]
 }

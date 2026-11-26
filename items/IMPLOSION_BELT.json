@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Implosion_Belt"
   ],
-  "recipe": {
-    "A1": "MATCH_STICKS:32",
-    "A2": "ENCHANTED_SULPHUR_CUBE:1",
-    "A3": "MATCH_STICKS:32",
-    "B1": "ENCHANTED_SULPHUR_CUBE:1",
-    "B2": "",
-    "B3": "ENCHANTED_SULPHUR_CUBE:1",
-    "C1": "MATCH_STICKS:32",
-    "C2": "ENCHANTED_SULPHUR_CUBE:1",
-    "C3": "MATCH_STICKS:32"
-  }
+  "recipes": [
+    {
+      "A1": "MATCH_STICKS:32",
+      "A2": "ENCHANTED_SULPHUR_CUBE:1",
+      "A3": "MATCH_STICKS:32",
+      "B1": "ENCHANTED_SULPHUR_CUBE:1",
+      "B2": "",
+      "B3": "ENCHANTED_SULPHUR_CUBE:1",
+      "C1": "MATCH_STICKS:32",
+      "C2": "ENCHANTED_SULPHUR_CUBE:1",
+      "C3": "MATCH_STICKS:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "IMPLOSION_BELT"
+    }
+  ]
 }

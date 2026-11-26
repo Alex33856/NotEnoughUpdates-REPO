@@ -13,16 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "WOOL-4:1",
-    "A2": "WOOL-4:1",
-    "A3": "",
-    "B1": "",
-    "B2": "",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": "",
-    "count": 3
-  }
+  "recipes": [
+    {
+      "A1": "WOOL-4:1",
+      "A2": "WOOL-4:1",
+      "A3": "",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "CARPET-4"
+    }
+  ]
 }

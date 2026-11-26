@@ -34,15 +34,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Blaze_Wax"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_BLAZE_POWDER:10",
-    "A2": "ENCHANTED_BLAZE_POWDER:10",
-    "A3": "ENCHANTED_BLAZE_POWDER:10",
-    "B1": "ENCHANTED_BLAZE_POWDER:10",
-    "B2": "BEZOS:10",
-    "B3": "ENCHANTED_BLAZE_POWDER:10",
-    "C1": "ENCHANTED_BLAZE_POWDER:10",
-    "C2": "ENCHANTED_BLAZE_POWDER:10",
-    "C3": "ENCHANTED_BLAZE_POWDER:10"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_BLAZE_POWDER:10",
+      "A2": "ENCHANTED_BLAZE_POWDER:10",
+      "A3": "ENCHANTED_BLAZE_POWDER:10",
+      "B1": "ENCHANTED_BLAZE_POWDER:10",
+      "B2": "BEZOS:10",
+      "B3": "ENCHANTED_BLAZE_POWDER:10",
+      "C1": "ENCHANTED_BLAZE_POWDER:10",
+      "C2": "ENCHANTED_BLAZE_POWDER:10",
+      "C3": "ENCHANTED_BLAZE_POWDER:10",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BLAZE_WAX"
+    }
+  ]
 }

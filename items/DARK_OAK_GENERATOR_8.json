@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Dark_Oak_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_DARK_OAK_LOG:8",
-    "A2": "ENCHANTED_DARK_OAK_LOG:8",
-    "A3": "ENCHANTED_DARK_OAK_LOG:8",
-    "B1": "ENCHANTED_DARK_OAK_LOG:8",
-    "B2": "DARK_OAK_GENERATOR_7:1",
-    "B3": "ENCHANTED_DARK_OAK_LOG:8",
-    "C1": "ENCHANTED_DARK_OAK_LOG:8",
-    "C2": "ENCHANTED_DARK_OAK_LOG:8",
-    "C3": "ENCHANTED_DARK_OAK_LOG:8"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_DARK_OAK_LOG:8",
+      "A2": "ENCHANTED_DARK_OAK_LOG:8",
+      "A3": "ENCHANTED_DARK_OAK_LOG:8",
+      "B1": "ENCHANTED_DARK_OAK_LOG:8",
+      "B2": "DARK_OAK_GENERATOR_7:1",
+      "B3": "ENCHANTED_DARK_OAK_LOG:8",
+      "C1": "ENCHANTED_DARK_OAK_LOG:8",
+      "C2": "ENCHANTED_DARK_OAK_LOG:8",
+      "C3": "ENCHANTED_DARK_OAK_LOG:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DARK_OAK_GENERATOR_8"
+    }
+  ]
 }

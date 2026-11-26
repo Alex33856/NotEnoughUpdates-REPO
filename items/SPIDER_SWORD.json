@@ -20,15 +20,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Spider_Sword"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "SPIDER_EYE:1",
-    "A3": "",
-    "B1": "",
-    "B2": "SPIDER_EYE:1",
-    "B3": "",
-    "C1": "",
-    "C2": "STICK:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "SPIDER_EYE:1",
+      "A3": "",
+      "B1": "",
+      "B2": "SPIDER_EYE:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SPIDER_SWORD"
+    }
+  ]
 }

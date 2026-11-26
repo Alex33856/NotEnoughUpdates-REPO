@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Birch_Minion"
   ],
-  "recipe": {
-    "A1": "LOG-2:20",
-    "A2": "LOG-2:20",
-    "A3": "LOG-2:20",
-    "B1": "LOG-2:20",
-    "B2": "BIRCH_GENERATOR_1:1",
-    "B3": "LOG-2:20",
-    "C1": "LOG-2:20",
-    "C2": "LOG-2:20",
-    "C3": "LOG-2:20"
-  }
+  "recipes": [
+    {
+      "A1": "LOG-2:20",
+      "A2": "LOG-2:20",
+      "A3": "LOG-2:20",
+      "B1": "LOG-2:20",
+      "B2": "BIRCH_GENERATOR_1:1",
+      "B3": "LOG-2:20",
+      "C1": "LOG-2:20",
+      "C2": "LOG-2:20",
+      "C3": "LOG-2:20",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BIRCH_GENERATOR_2"
+    }
+  ]
 }

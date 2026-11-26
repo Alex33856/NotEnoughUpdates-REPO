@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Two_IQ_Points"
   ],
-  "recipe": {
-    "A1": "IQ_POINT:1",
-    "A2": "IQ_POINT:1",
-    "A3": "IQ_POINT:1",
-    "B1": "IQ_POINT:1",
-    "B2": "IQ_POINT:1",
-    "B3": "IQ_POINT:1",
-    "C1": "IQ_POINT:1",
-    "C2": "IQ_POINT:1",
-    "C3": "IQ_POINT:1"
-  }
+  "recipes": [
+    {
+      "A1": "IQ_POINT:1",
+      "A2": "IQ_POINT:1",
+      "A3": "IQ_POINT:1",
+      "B1": "IQ_POINT:1",
+      "B2": "IQ_POINT:1",
+      "B3": "IQ_POINT:1",
+      "C1": "IQ_POINT:1",
+      "C2": "IQ_POINT:1",
+      "C3": "IQ_POINT:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "TWO_IQ_POINT"
+    }
+  ]
 }

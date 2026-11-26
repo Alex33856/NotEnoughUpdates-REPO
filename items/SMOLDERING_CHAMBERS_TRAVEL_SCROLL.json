@@ -24,16 +24,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Smoldering_Tomb"
   ],
-  "recipe": {
-    "A1": "MOLTEN_POWDER:3",
-    "A2": "ENCHANTED_BLAZE_ROD:4",
-    "A3": "MOLTEN_POWDER:3",
-    "B1": "MAGMA_FISH_GOLD:2",
-    "B2": "INFERNO_VERTEX:1",
-    "B3": "MAGMA_FISH_GOLD:2",
-    "C1": "MOLTEN_POWDER:3",
-    "C2": "ENCHANTED_BLAZE_ROD:4",
-    "C3": "MOLTEN_POWDER:3"
-  },
+  "recipes": [
+    {
+      "A1": "MOLTEN_POWDER:3",
+      "A2": "ENCHANTED_BLAZE_ROD:4",
+      "A3": "MOLTEN_POWDER:3",
+      "B1": "MAGMA_FISH_GOLD:2",
+      "B2": "INFERNO_VERTEX:1",
+      "B3": "MAGMA_FISH_GOLD:2",
+      "C1": "MOLTEN_POWDER:3",
+      "C2": "ENCHANTED_BLAZE_ROD:4",
+      "C3": "MOLTEN_POWDER:3",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SMOLDERING_CHAMBERS_TRAVEL_SCROLL"
+    }
+  ],
   "slayer_req": "BLAZE_4"
 }

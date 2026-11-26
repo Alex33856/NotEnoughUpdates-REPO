@@ -27,15 +27,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel"
   ],
-  "recipe": {
-    "A1": "BLAZE_ROD_DISTILLATE:1",
-    "A2": "INFERNO_FUEL_BLOCK:1",
-    "A3": "BLAZE_ROD_DISTILLATE:1",
-    "B1": "BLAZE_ROD_DISTILLATE:1",
-    "B2": "FUEL_GABAGOOL:1",
-    "B3": "BLAZE_ROD_DISTILLATE:1",
-    "C1": "BLAZE_ROD_DISTILLATE:1",
-    "C2": "INFERNO_FUEL_BLOCK:1",
-    "C3": "BLAZE_ROD_DISTILLATE:1"
-  }
+  "recipes": [
+    {
+      "A1": "BLAZE_ROD_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "BLAZE_ROD_DISTILLATE:1",
+      "B1": "BLAZE_ROD_DISTILLATE:1",
+      "B2": "FUEL_GABAGOOL:1",
+      "B3": "BLAZE_ROD_DISTILLATE:1",
+      "C1": "BLAZE_ROD_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "BLAZE_ROD_DISTILLATE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "INFERNO_FUEL_BLAZE_ROD"
+    }
+  ]
 }

@@ -13,15 +13,20 @@
   "infoType": "WIKI_URL",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "WHEAT:1",
-    "A2": "WHEAT:1",
-    "A3": "WHEAT:1",
-    "B1": "WHEAT:1",
-    "B2": "WHEAT:1",
-    "B3": "WHEAT:1",
-    "C1": "WHEAT:1",
-    "C2": "WHEAT:1",
-    "C3": "WHEAT:1"
-  }
+  "recipes": [
+    {
+      "A1": "WHEAT:1",
+      "A2": "WHEAT:1",
+      "A3": "WHEAT:1",
+      "B1": "WHEAT:1",
+      "B2": "WHEAT:1",
+      "B3": "WHEAT:1",
+      "C1": "WHEAT:1",
+      "C2": "WHEAT:1",
+      "C3": "WHEAT:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HAY_BLOCK"
+    }
+  ]
 }

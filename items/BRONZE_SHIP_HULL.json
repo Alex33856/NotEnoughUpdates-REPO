@@ -22,15 +22,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Bronze_Ship_Hull"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "",
-    "B1": "TORN_CLOTH:1",
-    "B2": "TORN_CLOTH:1",
-    "B3": "TORN_CLOTH:1",
-    "C1": "BRONZE_BOWL:1",
-    "C2": "BRONZE_BOWL:1",
-    "C3": "BRONZE_BOWL:1"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "TORN_CLOTH:1",
+      "B2": "TORN_CLOTH:1",
+      "B3": "TORN_CLOTH:1",
+      "C1": "BRONZE_BOWL:1",
+      "C2": "BRONZE_BOWL:1",
+      "C3": "BRONZE_BOWL:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BRONZE_SHIP_HULL"
+    }
+  ]
 }

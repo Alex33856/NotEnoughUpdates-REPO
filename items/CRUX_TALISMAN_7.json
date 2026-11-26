@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Celestial_Starstone"
   ],
-  "recipe": {
-    "A1": "PUFF_CRUX:16",
-    "A2": "PUFF_CRUX:16",
-    "A3": "PUFF_CRUX:16",
-    "B1": "PUFF_CRUX:16",
-    "B2": "CRUX_TALISMAN_6:1",
-    "B3": "PUFF_CRUX:16",
-    "C1": "PUFF_CRUX:16",
-    "C2": "PUFF_CRUX:16",
-    "C3": "PUFF_CRUX:16"
-  }
+  "recipes": [
+    {
+      "A1": "PUFF_CRUX:16",
+      "A2": "PUFF_CRUX:16",
+      "A3": "PUFF_CRUX:16",
+      "B1": "PUFF_CRUX:16",
+      "B2": "CRUX_TALISMAN_6:1",
+      "B3": "PUFF_CRUX:16",
+      "C1": "PUFF_CRUX:16",
+      "C2": "PUFF_CRUX:16",
+      "C3": "PUFF_CRUX:16",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CRUX_TALISMAN_7"
+    }
+  ]
 }

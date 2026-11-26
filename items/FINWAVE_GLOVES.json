@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Finwave_Gloves"
   ],
-  "recipe": {
-    "A1": "GREAT_WHITE_TOOTH_MEAL:1",
-    "A2": "ICHTHYIC_GLOVES:1",
-    "A3": "GREAT_WHITE_TOOTH_MEAL:1",
-    "B1": "TIGER_SHARK_TOOTH:6",
-    "B2": "TIGER_SHARK_TOOTH:6",
-    "B3": "TIGER_SHARK_TOOTH:6",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "GREAT_WHITE_TOOTH_MEAL:1",
+      "A2": "ICHTHYIC_GLOVES:1",
+      "A3": "GREAT_WHITE_TOOTH_MEAL:1",
+      "B1": "TIGER_SHARK_TOOTH:6",
+      "B2": "TIGER_SHARK_TOOTH:6",
+      "B3": "TIGER_SHARK_TOOTH:6",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FINWAVE_GLOVES"
+    }
+  ]
 }

@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Wheat_Minion"
   ],
-  "recipe": {
-    "A1": "WHEAT:10",
-    "A2": "WHEAT:10",
-    "A3": "WHEAT:10",
-    "B1": "WHEAT:10",
-    "B2": "WOOD_HOE:1",
-    "B3": "WHEAT:10",
-    "C1": "WHEAT:10",
-    "C2": "WHEAT:10",
-    "C3": "WHEAT:10"
-  }
+  "recipes": [
+    {
+      "A1": "WHEAT:10",
+      "A2": "WHEAT:10",
+      "A3": "WHEAT:10",
+      "B1": "WHEAT:10",
+      "B2": "WOOD_HOE:1",
+      "B3": "WHEAT:10",
+      "C1": "WHEAT:10",
+      "C2": "WHEAT:10",
+      "C3": "WHEAT:10",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "WHEAT_GENERATOR_1"
+    }
+  ]
 }

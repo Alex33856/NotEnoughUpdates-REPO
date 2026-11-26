@@ -33,16 +33,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Alert_Flare"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "ENCHANTED_SULPHUR:32",
-    "A3": "INFERNO_VERTEX:8",
-    "B1": "",
-    "B2": "MOLTEN_POWDER:64",
-    "B3": "",
-    "C1": "INFERNO_VERTEX:8",
-    "C2": "WARNING_FLARE:1",
-    "C3": ""
-  },
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "ENCHANTED_SULPHUR:32",
+      "A3": "INFERNO_VERTEX:8",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:64",
+      "B3": "",
+      "C1": "INFERNO_VERTEX:8",
+      "C2": "WARNING_FLARE:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ALERT_FLARE"
+    }
+  ],
   "slayer_req": "BLAZE_6"
 }

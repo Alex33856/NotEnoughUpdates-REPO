@@ -13,16 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "STAINED_GLASS-8:1",
-    "A2": "STAINED_GLASS-8:1",
-    "A3": "STAINED_GLASS-8:1",
-    "B1": "STAINED_GLASS-8:1",
-    "B2": "STAINED_GLASS-8:1",
-    "B3": "STAINED_GLASS-8:1",
-    "C1": "",
-    "C2": "",
-    "C3": "",
-    "count": 16
-  }
+  "recipes": [
+    {
+      "A1": "STAINED_GLASS-8:1",
+      "A2": "STAINED_GLASS-8:1",
+      "A3": "STAINED_GLASS-8:1",
+      "B1": "STAINED_GLASS-8:1",
+      "B2": "STAINED_GLASS-8:1",
+      "B3": "STAINED_GLASS-8:1",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "STAINED_GLASS_PANE-8"
+    }
+  ]
 }

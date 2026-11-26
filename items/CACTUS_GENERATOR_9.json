@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Cactus_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_CACTUS_GREEN:64",
-    "A2": "ENCHANTED_CACTUS_GREEN:64",
-    "A3": "ENCHANTED_CACTUS_GREEN:64",
-    "B1": "ENCHANTED_CACTUS_GREEN:64",
-    "B2": "CACTUS_GENERATOR_8:1",
-    "B3": "ENCHANTED_CACTUS_GREEN:64",
-    "C1": "ENCHANTED_CACTUS_GREEN:64",
-    "C2": "ENCHANTED_CACTUS_GREEN:64",
-    "C3": "ENCHANTED_CACTUS_GREEN:64"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_CACTUS_GREEN:64",
+      "A2": "ENCHANTED_CACTUS_GREEN:64",
+      "A3": "ENCHANTED_CACTUS_GREEN:64",
+      "B1": "ENCHANTED_CACTUS_GREEN:64",
+      "B2": "CACTUS_GENERATOR_8:1",
+      "B3": "ENCHANTED_CACTUS_GREEN:64",
+      "C1": "ENCHANTED_CACTUS_GREEN:64",
+      "C2": "ENCHANTED_CACTUS_GREEN:64",
+      "C3": "ENCHANTED_CACTUS_GREEN:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CACTUS_GENERATOR_9"
+    }
+  ]
 }

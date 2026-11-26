@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Leggings_of_Growth"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_DARK_OAK_LOG:64",
-    "A2": "ENCHANTED_DARK_OAK_LOG:64",
-    "A3": "ENCHANTED_DARK_OAK_LOG:64",
-    "B1": "ENCHANTED_DARK_OAK_LOG:64",
-    "B2": "",
-    "B3": "ENCHANTED_DARK_OAK_LOG:64",
-    "C1": "ENCHANTED_DARK_OAK_LOG:64",
-    "C2": "",
-    "C3": "ENCHANTED_DARK_OAK_LOG:64"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_DARK_OAK_LOG:64",
+      "A2": "ENCHANTED_DARK_OAK_LOG:64",
+      "A3": "ENCHANTED_DARK_OAK_LOG:64",
+      "B1": "ENCHANTED_DARK_OAK_LOG:64",
+      "B2": "",
+      "B3": "ENCHANTED_DARK_OAK_LOG:64",
+      "C1": "ENCHANTED_DARK_OAK_LOG:64",
+      "C2": "",
+      "C3": "ENCHANTED_DARK_OAK_LOG:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GROWTH_LEGGINGS"
+    }
+  ]
 }

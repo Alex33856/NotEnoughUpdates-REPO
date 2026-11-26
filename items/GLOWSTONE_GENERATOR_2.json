@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Glowstone_Minion"
   ],
-  "recipe": {
-    "A1": "GLOWSTONE_DUST:32",
-    "A2": "GLOWSTONE_DUST:32",
-    "A3": "GLOWSTONE_DUST:32",
-    "B1": "GLOWSTONE_DUST:32",
-    "B2": "GLOWSTONE_GENERATOR_1:1",
-    "B3": "GLOWSTONE_DUST:32",
-    "C1": "GLOWSTONE_DUST:32",
-    "C2": "GLOWSTONE_DUST:32",
-    "C3": "GLOWSTONE_DUST:32"
-  }
+  "recipes": [
+    {
+      "A1": "GLOWSTONE_DUST:32",
+      "A2": "GLOWSTONE_DUST:32",
+      "A3": "GLOWSTONE_DUST:32",
+      "B1": "GLOWSTONE_DUST:32",
+      "B2": "GLOWSTONE_GENERATOR_1:1",
+      "B3": "GLOWSTONE_DUST:32",
+      "C1": "GLOWSTONE_DUST:32",
+      "C2": "GLOWSTONE_DUST:32",
+      "C3": "GLOWSTONE_DUST:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GLOWSTONE_GENERATOR_2"
+    }
+  ]
 }

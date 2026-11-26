@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Vampire_Minion"
   ],
-  "recipe": {
-    "A1": "HEMOVIBE:20",
-    "A2": "HEMOVIBE:20",
-    "A3": "HEMOVIBE:20",
-    "B1": "HEMOVIBE:20",
-    "B2": "VAMPIRE_GENERATOR_1:1",
-    "B3": "HEMOVIBE:20",
-    "C1": "HEMOVIBE:20",
-    "C2": "HEMOVIBE:20",
-    "C3": "HEMOVIBE:20"
-  }
+  "recipes": [
+    {
+      "A1": "HEMOVIBE:20",
+      "A2": "HEMOVIBE:20",
+      "A3": "HEMOVIBE:20",
+      "B1": "HEMOVIBE:20",
+      "B2": "VAMPIRE_GENERATOR_1:1",
+      "B3": "HEMOVIBE:20",
+      "C1": "HEMOVIBE:20",
+      "C2": "HEMOVIBE:20",
+      "C3": "HEMOVIBE:20",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "VAMPIRE_GENERATOR_2"
+    }
+  ]
 }

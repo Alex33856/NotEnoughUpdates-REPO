@@ -14,15 +14,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Red_Mushroom_Block"
   ],
-  "recipe": {
-    "A1": "RED_MUSHROOM:1",
-    "A2": "RED_MUSHROOM:1",
-    "A3": "RED_MUSHROOM:1",
-    "B1": "RED_MUSHROOM:1",
-    "B2": "RED_MUSHROOM:1",
-    "B3": "RED_MUSHROOM:1",
-    "C1": "RED_MUSHROOM:1",
-    "C2": "RED_MUSHROOM:1",
-    "C3": "RED_MUSHROOM:1"
-  }
+  "recipes": [
+    {
+      "A1": "RED_MUSHROOM:1",
+      "A2": "RED_MUSHROOM:1",
+      "A3": "RED_MUSHROOM:1",
+      "B1": "RED_MUSHROOM:1",
+      "B2": "RED_MUSHROOM:1",
+      "B3": "RED_MUSHROOM:1",
+      "C1": "RED_MUSHROOM:1",
+      "C2": "RED_MUSHROOM:1",
+      "C3": "RED_MUSHROOM:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HUGE_MUSHROOM_2"
+    }
+  ]
 }

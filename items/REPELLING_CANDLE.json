@@ -19,15 +19,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Repelling_Candle"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "ENCHANTED_COAL:1",
-    "A3": "",
-    "B1": "ENCHANTED_ACACIA_LOG:1",
-    "B2": "ENCHANTED_ACACIA_LOG:1",
-    "B3": "ENCHANTED_ACACIA_LOG:1",
-    "C1": "ENCHANTED_ACACIA_LOG:1",
-    "C2": "ENCHANTED_ACACIA_LOG:1",
-    "C3": "ENCHANTED_ACACIA_LOG:1"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "ENCHANTED_COAL:1",
+      "A3": "",
+      "B1": "ENCHANTED_ACACIA_LOG:1",
+      "B2": "ENCHANTED_ACACIA_LOG:1",
+      "B3": "ENCHANTED_ACACIA_LOG:1",
+      "C1": "ENCHANTED_ACACIA_LOG:1",
+      "C2": "ENCHANTED_ACACIA_LOG:1",
+      "C3": "ENCHANTED_ACACIA_LOG:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "REPELLING_CANDLE"
+    }
+  ]
 }

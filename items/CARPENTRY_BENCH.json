@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Carpentry_Table"
   ],
-  "recipe": {
-    "A1": "WOOD:2",
-    "A2": "WORKBENCH:2",
-    "A3": "WOOD:2",
-    "B1": "WOOD:2",
-    "B2": "WOOD:2",
-    "B3": "WOOD:2",
-    "C1": "STICK:2",
-    "C2": "",
-    "C3": "STICK:2"
-  }
+  "recipes": [
+    {
+      "A1": "WOOD:2",
+      "A2": "WORKBENCH:2",
+      "A3": "WOOD:2",
+      "B1": "WOOD:2",
+      "B2": "WOOD:2",
+      "B3": "WOOD:2",
+      "C1": "STICK:2",
+      "C2": "",
+      "C3": "STICK:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CARPENTRY_BENCH"
+    }
+  ]
 }

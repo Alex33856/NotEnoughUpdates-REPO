@@ -19,15 +19,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Promising_Shovel"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "IRON_BLOCK:1",
-    "A3": "",
-    "B1": "",
-    "B2": "STICK:1",
-    "B3": "",
-    "C1": "",
-    "C2": "STICK:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "IRON_BLOCK:1",
+      "A3": "",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "PROMISING_SPADE"
+    }
+  ]
 }

@@ -13,16 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "LOG-2:1",
-    "A2": "",
-    "A3": "",
-    "B1": "",
-    "B2": "",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": "",
-    "count": 4
-  }
+  "recipes": [
+    {
+      "A1": "LOG-2:1",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "WOOD-2"
+    }
+  ]
 }

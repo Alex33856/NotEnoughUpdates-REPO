@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Spider%27s_Boots"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_STRING:64",
-    "A2": "",
-    "A3": "ENCHANTED_STRING:64",
-    "B1": "ENCHANTED_STRING:64",
-    "B2": "",
-    "B3": "ENCHANTED_STRING:64",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_STRING:64",
+      "A2": "",
+      "A3": "ENCHANTED_STRING:64",
+      "B1": "ENCHANTED_STRING:64",
+      "B2": "",
+      "B3": "ENCHANTED_STRING:64",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SPIDER_BOOTS"
+    }
+  ]
 }

@@ -34,16 +34,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Vorpal_Katana"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "NULL_EDGE:1",
-    "A3": "",
-    "B1": "",
-    "B2": "NULL_OVOID:8",
-    "B3": "",
-    "C1": "REFINED_MITHRIL:4",
-    "C2": "VOIDEDGE_KATANA:1",
-    "C3": "REFINED_MITHRIL:4"
-  },
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "NULL_EDGE:1",
+      "A3": "",
+      "B1": "",
+      "B2": "NULL_OVOID:8",
+      "B3": "",
+      "C1": "REFINED_MITHRIL:4",
+      "C2": "VOIDEDGE_KATANA:1",
+      "C3": "REFINED_MITHRIL:4",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "VORPAL_KATANA"
+    }
+  ],
   "slayer_req": "EMAN_5"
 }

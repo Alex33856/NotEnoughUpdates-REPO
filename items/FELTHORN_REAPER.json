@@ -28,15 +28,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Felthorn_Reaper"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "FEL_ROSE:1",
-    "A3": "FEL_ROSE:1",
-    "B1": "FEL_ROSE:1",
-    "B2": "FEL_SKULL:1",
-    "B3": "FEL_ROSE:1",
-    "C1": "BONE_REAVER:1",
-    "C2": "FEL_ROSE:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "FEL_ROSE:1",
+      "A3": "FEL_ROSE:1",
+      "B1": "FEL_ROSE:1",
+      "B2": "FEL_SKULL:1",
+      "B3": "FEL_ROSE:1",
+      "C1": "BONE_REAVER:1",
+      "C2": "FEL_ROSE:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FELTHORN_REAPER"
+    }
+  ]
 }

@@ -21,16 +21,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Zombie_Artifact"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_IRON:8",
-    "A2": "ENCHANTED_DIAMOND:8",
-    "A3": "ENCHANTED_IRON:8",
-    "B1": "REVENANT_VISCERA:24",
-    "B2": "ZOMBIE_RING:1",
-    "B3": "REVENANT_VISCERA:24",
-    "C1": "ENCHANTED_IRON:8",
-    "C2": "ENCHANTED_DIAMOND:8",
-    "C3": "ENCHANTED_IRON:8"
-  },
+  "recipes": [
+    {
+      "A1": "ENCHANTED_IRON:8",
+      "A2": "ENCHANTED_DIAMOND:8",
+      "A3": "ENCHANTED_IRON:8",
+      "B1": "REVENANT_VISCERA:24",
+      "B2": "ZOMBIE_RING:1",
+      "B3": "REVENANT_VISCERA:24",
+      "C1": "ENCHANTED_IRON:8",
+      "C2": "ENCHANTED_DIAMOND:8",
+      "C3": "ENCHANTED_IRON:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ZOMBIE_ARTIFACT"
+    }
+  ],
   "slayer_req": "ZOMBIE_7"
 }

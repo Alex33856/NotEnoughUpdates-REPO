@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Jumbo_Backpack"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "JUMBO_BACKPACK_UPGRADE:1",
-    "A3": "",
-    "B1": "",
-    "B2": "GREATER_BACKPACK:1",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "JUMBO_BACKPACK_UPGRADE:1",
+      "A3": "",
+      "B1": "",
+      "B2": "GREATER_BACKPACK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "JUMBO_BACKPACK"
+    }
+  ]
 }

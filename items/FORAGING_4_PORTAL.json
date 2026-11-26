@@ -22,15 +22,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Portal_to_Savanna_Woodland"
   ],
-  "recipe": {
-    "A1": "LOG_2:16",
-    "A2": "LOG_2:16",
-    "A3": "LOG_2:16",
-    "B1": "LOG_2:16",
-    "B2": "ENDER_PEARL:16",
-    "B3": "LOG_2:16",
-    "C1": "LOG_2:16",
-    "C2": "LOG_2:16",
-    "C3": "LOG_2:16"
-  }
+  "recipes": [
+    {
+      "A1": "LOG_2:16",
+      "A2": "LOG_2:16",
+      "A3": "LOG_2:16",
+      "B1": "LOG_2:16",
+      "B2": "ENDER_PEARL:16",
+      "B3": "LOG_2:16",
+      "C1": "LOG_2:16",
+      "C2": "LOG_2:16",
+      "C3": "LOG_2:16",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FORAGING_4_PORTAL"
+    }
+  ]
 }

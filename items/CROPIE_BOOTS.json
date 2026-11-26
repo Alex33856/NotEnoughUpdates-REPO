@@ -34,15 +34,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Cropie_Boots"
   ],
-  "recipe": {
-    "A1": "CROPIE:10",
-    "A2": "",
-    "A3": "CROPIE:10",
-    "B1": "ENCHANTED_HAY_BALE:8",
-    "B2": "MELON_BOOTS:1",
-    "B3": "ENCHANTED_HAY_BALE:8",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "CROPIE:10",
+      "A2": "",
+      "A3": "CROPIE:10",
+      "B1": "ENCHANTED_HAY_BALE:8",
+      "B2": "MELON_BOOTS:1",
+      "B3": "ENCHANTED_HAY_BALE:8",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CROPIE_BOOTS"
+    }
+  ]
 }

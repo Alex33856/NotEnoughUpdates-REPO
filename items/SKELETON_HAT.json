@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Hat"
   ],
-  "recipe": {
-    "A1": "BONE:1",
-    "A2": "BONE:1",
-    "A3": "BONE:1",
-    "B1": "BONE:1",
-    "B2": "",
-    "B3": "BONE:1",
-    "C1": "BONE:1",
-    "C2": "BONE:1",
-    "C3": "BONE:1"
-  }
+  "recipes": [
+    {
+      "A1": "BONE:1",
+      "A2": "BONE:1",
+      "A3": "BONE:1",
+      "B1": "BONE:1",
+      "B2": "",
+      "B3": "BONE:1",
+      "C1": "BONE:1",
+      "C2": "BONE:1",
+      "C3": "BONE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SKELETON_HAT"
+    }
+  ]
 }

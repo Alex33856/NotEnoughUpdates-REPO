@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sheep_Minion"
   ],
-  "recipe": {
-    "A1": "MUTTON:8",
-    "A2": "MUTTON:8",
-    "A3": "MUTTON:8",
-    "B1": "MUTTON:8",
-    "B2": "WOOD_SWORD:1",
-    "B3": "MUTTON:8",
-    "C1": "MUTTON:8",
-    "C2": "MUTTON:8",
-    "C3": "MUTTON:8"
-  }
+  "recipes": [
+    {
+      "A1": "MUTTON:8",
+      "A2": "MUTTON:8",
+      "A3": "MUTTON:8",
+      "B1": "MUTTON:8",
+      "B2": "WOOD_SWORD:1",
+      "B3": "MUTTON:8",
+      "C1": "MUTTON:8",
+      "C2": "MUTTON:8",
+      "C3": "MUTTON:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SHEEP_GENERATOR_1"
+    }
+  ]
 }

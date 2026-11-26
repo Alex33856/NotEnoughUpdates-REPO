@@ -17,16 +17,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Arrows"
   ],
-  "recipe": {
-    "A1": "FLINT:1",
-    "A2": "",
-    "A3": "",
-    "B1": "STICK:1",
-    "B2": "",
-    "B3": "",
-    "C1": "FEATHER:1",
-    "C2": "",
-    "C3": ""
-  },
+  "recipes": [
+    {
+      "A1": "FLINT:1",
+      "A2": "",
+      "A3": "",
+      "B1": "STICK:1",
+      "B2": "",
+      "B3": "",
+      "C1": "FEATHER:1",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ARROW"
+    }
+  ],
   "vanilla": true
 }

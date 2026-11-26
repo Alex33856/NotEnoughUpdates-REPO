@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Purple_Jerry_Talisman"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "JERRY_TALISMAN_BLUE:1",
-    "A3": "",
-    "B1": "JERRY_TALISMAN_BLUE:1",
-    "B2": "JERRY_TALISMAN_BLUE:1",
-    "B3": "JERRY_TALISMAN_BLUE:1",
-    "C1": "",
-    "C2": "JERRY_TALISMAN_BLUE:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "JERRY_TALISMAN_BLUE:1",
+      "A3": "",
+      "B1": "JERRY_TALISMAN_BLUE:1",
+      "B2": "JERRY_TALISMAN_BLUE:1",
+      "B3": "JERRY_TALISMAN_BLUE:1",
+      "C1": "",
+      "C2": "JERRY_TALISMAN_BLUE:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "JERRY_TALISMAN_PURPLE"
+    }
+  ]
 }

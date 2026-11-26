@@ -27,15 +27,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Wizardman_Leggings"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "TIGHT_PANTS_FRAGMENT:1",
-    "A3": "",
-    "B1": "TIGHT_PANTS_FRAGMENT:1",
-    "B2": "LEGGINGS_OF_THE_COVEN:1",
-    "B3": "TIGHT_PANTS_FRAGMENT:1",
-    "C1": "",
-    "C2": "TIGHT_PANTS_FRAGMENT:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "TIGHT_PANTS_FRAGMENT:1",
+      "A3": "",
+      "B1": "TIGHT_PANTS_FRAGMENT:1",
+      "B2": "LEGGINGS_OF_THE_COVEN:1",
+      "B3": "TIGHT_PANTS_FRAGMENT:1",
+      "C1": "",
+      "C2": "TIGHT_PANTS_FRAGMENT:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "WIZARDMAN_LEGGINGS"
+    }
+  ]
 }

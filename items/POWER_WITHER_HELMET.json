@@ -33,15 +33,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Necron%27s_Helmet"
   ],
-  "recipe": {
-    "A1": "GIANT_FRAGMENT_DIAMOND:1",
-    "A2": "GIANT_FRAGMENT_DIAMOND:1",
-    "A3": "GIANT_FRAGMENT_DIAMOND:1",
-    "B1": "GIANT_FRAGMENT_DIAMOND:1",
-    "B2": "WITHER_HELMET:1",
-    "B3": "GIANT_FRAGMENT_DIAMOND:1",
-    "C1": "GIANT_FRAGMENT_DIAMOND:1",
-    "C2": "GIANT_FRAGMENT_DIAMOND:1",
-    "C3": "GIANT_FRAGMENT_DIAMOND:1"
-  }
+  "recipes": [
+    {
+      "A1": "GIANT_FRAGMENT_DIAMOND:1",
+      "A2": "GIANT_FRAGMENT_DIAMOND:1",
+      "A3": "GIANT_FRAGMENT_DIAMOND:1",
+      "B1": "GIANT_FRAGMENT_DIAMOND:1",
+      "B2": "WITHER_HELMET:1",
+      "B3": "GIANT_FRAGMENT_DIAMOND:1",
+      "C1": "GIANT_FRAGMENT_DIAMOND:1",
+      "C2": "GIANT_FRAGMENT_DIAMOND:1",
+      "C3": "GIANT_FRAGMENT_DIAMOND:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "POWER_WITHER_HELMET"
+    }
+  ]
 }

@@ -27,15 +27,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Vanquished_Glowstone_Gauntlet"
   ],
-  "recipe": {
-    "A1": "CORRUPTED_NETHER_STAR:1",
-    "A2": "CORRUPTED_NETHER_STAR:1",
-    "A3": "CORRUPTED_NETHER_STAR:1",
-    "B1": "ENCHANTED_GLOWSTONE:1",
-    "B2": "GLOWSTONE_GAUNTLET:1",
-    "B3": "ENCHANTED_GLOWSTONE:1",
-    "C1": "ENCHANTED_GLOWSTONE:1",
-    "C2": "",
-    "C3": "ENCHANTED_GLOWSTONE:1"
-  }
+  "recipes": [
+    {
+      "A1": "CORRUPTED_NETHER_STAR:1",
+      "A2": "CORRUPTED_NETHER_STAR:1",
+      "A3": "CORRUPTED_NETHER_STAR:1",
+      "B1": "ENCHANTED_GLOWSTONE:1",
+      "B2": "GLOWSTONE_GAUNTLET:1",
+      "B3": "ENCHANTED_GLOWSTONE:1",
+      "C1": "ENCHANTED_GLOWSTONE:1",
+      "C2": "",
+      "C3": "ENCHANTED_GLOWSTONE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "VANQUISHED_GLOWSTONE_GAUNTLET"
+    }
+  ]
 }

@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Bat_Person_Ring"
   ],
-  "recipe": {
-    "A1": "SPOOKY_SHARD:1",
-    "A2": "ECTOPLASM:8",
-    "A3": "SPOOKY_SHARD:1",
-    "B1": "ECTOPLASM:8",
-    "B2": "BAT_PERSON_TALISMAN:1",
-    "B3": "ECTOPLASM:8",
-    "C1": "SPOOKY_SHARD:1",
-    "C2": "ECTOPLASM:8",
-    "C3": "SPOOKY_SHARD:1"
-  }
+  "recipes": [
+    {
+      "A1": "SPOOKY_SHARD:1",
+      "A2": "ECTOPLASM:8",
+      "A3": "SPOOKY_SHARD:1",
+      "B1": "ECTOPLASM:8",
+      "B2": "BAT_PERSON_TALISMAN:1",
+      "B3": "ECTOPLASM:8",
+      "C1": "SPOOKY_SHARD:1",
+      "C2": "ECTOPLASM:8",
+      "C3": "SPOOKY_SHARD:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BAT_PERSON_RING"
+    }
+  ]
 }

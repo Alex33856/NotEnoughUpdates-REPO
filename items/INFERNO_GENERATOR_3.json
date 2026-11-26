@@ -28,15 +28,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion"
   ],
-  "recipe": {
-    "A1": "MOLTEN_POWDER:1",
-    "A2": "MOLTEN_POWDER:1",
-    "A3": "MOLTEN_POWDER:1",
-    "B1": "MOLTEN_POWDER:1",
-    "B2": "INFERNO_GENERATOR_2:1",
-    "B3": "MOLTEN_POWDER:1",
-    "C1": "MOLTEN_POWDER:1",
-    "C2": "MOLTEN_POWDER:1",
-    "C3": "MOLTEN_POWDER:1"
-  }
+  "recipes": [
+    {
+      "A1": "MOLTEN_POWDER:1",
+      "A2": "MOLTEN_POWDER:1",
+      "A3": "MOLTEN_POWDER:1",
+      "B1": "MOLTEN_POWDER:1",
+      "B2": "INFERNO_GENERATOR_2:1",
+      "B3": "MOLTEN_POWDER:1",
+      "C1": "MOLTEN_POWDER:1",
+      "C2": "MOLTEN_POWDER:1",
+      "C3": "MOLTEN_POWDER:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "INFERNO_GENERATOR_3"
+    }
+  ]
 }

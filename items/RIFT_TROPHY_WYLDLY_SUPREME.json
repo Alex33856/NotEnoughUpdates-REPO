@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Supreme_Timecharm"
   ],
-  "recipe": {
-    "A1": "BOTTLED_ODONATA:1",
-    "A2": "LIL_PAD:16",
-    "A3": "BOTTLED_ODONATA:1",
-    "B1": "DEADGEHOG_SPINE:12",
-    "B2": "LEECH_SUPREME_FRAGMENT:4",
-    "B3": "DEADGEHOG_SPINE:12",
-    "C1": "BOTTLED_ODONATA:1",
-    "C2": "LIL_PAD:16",
-    "C3": "BOTTLED_ODONATA:1"
-  }
+  "recipes": [
+    {
+      "A1": "BOTTLED_ODONATA:1",
+      "A2": "LIL_PAD:16",
+      "A3": "BOTTLED_ODONATA:1",
+      "B1": "DEADGEHOG_SPINE:12",
+      "B2": "LEECH_SUPREME_FRAGMENT:4",
+      "B3": "DEADGEHOG_SPINE:12",
+      "C1": "BOTTLED_ODONATA:1",
+      "C2": "LIL_PAD:16",
+      "C3": "BOTTLED_ODONATA:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "RIFT_TROPHY_WYLDLY_SUPREME"
+    }
+  ]
 }

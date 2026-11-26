@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Gillsplash_Cloak"
   ],
-  "recipe": {
-    "A1": "MAGMA_FISH_DIAMOND:1",
-    "A2": "FINWAVE_CLOAK:1",
-    "A3": "MAGMA_FISH_DIAMOND:1",
-    "B1": "LAVA_SHELL:1",
-    "B2": "",
-    "B3": "LAVA_SHELL:1",
-    "C1": "LAVA_SHELL:1",
-    "C2": "",
-    "C3": "LAVA_SHELL:1"
-  }
+  "recipes": [
+    {
+      "A1": "MAGMA_FISH_DIAMOND:1",
+      "A2": "FINWAVE_CLOAK:1",
+      "A3": "MAGMA_FISH_DIAMOND:1",
+      "B1": "LAVA_SHELL:1",
+      "B2": "",
+      "B3": "LAVA_SHELL:1",
+      "C1": "LAVA_SHELL:1",
+      "C2": "",
+      "C3": "LAVA_SHELL:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GILLSPLASH_CLOAK"
+    }
+  ]
 }

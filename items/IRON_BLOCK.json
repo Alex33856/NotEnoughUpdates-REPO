@@ -13,15 +13,20 @@
   "infoType": "WIKI_URL",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "IRON_INGOT:1",
-    "A2": "IRON_INGOT:1",
-    "A3": "IRON_INGOT:1",
-    "B1": "IRON_INGOT:1",
-    "B2": "IRON_INGOT:1",
-    "B3": "IRON_INGOT:1",
-    "C1": "IRON_INGOT:1",
-    "C2": "IRON_INGOT:1",
-    "C3": "IRON_INGOT:1"
-  }
+  "recipes": [
+    {
+      "A1": "IRON_INGOT:1",
+      "A2": "IRON_INGOT:1",
+      "A3": "IRON_INGOT:1",
+      "B1": "IRON_INGOT:1",
+      "B2": "IRON_INGOT:1",
+      "B3": "IRON_INGOT:1",
+      "C1": "IRON_INGOT:1",
+      "C2": "IRON_INGOT:1",
+      "C3": "IRON_INGOT:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "IRON_BLOCK"
+    }
+  ]
 }

@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Vampiric_Timecharm"
   ],
-  "recipe": {
-    "A1": "BLOODBADGE:1",
-    "A2": "WILTED_BERBERIS_BUNCH:1",
-    "A3": "BLOODBADGE:1",
-    "B1": "BLOODBADGE:1",
-    "B2": "WILTED_BERBERIS_BUNCH:1",
-    "B3": "BLOODBADGE:1",
-    "C1": "BLOODBADGE:1",
-    "C2": "WILTED_BERBERIS_BUNCH:1",
-    "C3": "BLOODBADGE:1"
-  }
+  "recipes": [
+    {
+      "A1": "BLOODBADGE:1",
+      "A2": "WILTED_BERBERIS_BUNCH:1",
+      "A3": "BLOODBADGE:1",
+      "B1": "BLOODBADGE:1",
+      "B2": "WILTED_BERBERIS_BUNCH:1",
+      "B3": "BLOODBADGE:1",
+      "C1": "BLOODBADGE:1",
+      "C2": "WILTED_BERBERIS_BUNCH:1",
+      "C3": "BLOODBADGE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "RIFT_TROPHY_VAMPIRIC"
+    }
+  ]
 }

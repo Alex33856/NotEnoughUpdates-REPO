@@ -23,16 +23,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Zombie_Ring"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "",
-    "B1": "REVENANT_FLESH:32",
-    "B2": "ZOMBIE_TALISMAN:1",
-    "B3": "REVENANT_FLESH:32",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  },
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "REVENANT_FLESH:32",
+      "B2": "ZOMBIE_TALISMAN:1",
+      "B3": "REVENANT_FLESH:32",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ZOMBIE_RING"
+    }
+  ],
   "slayer_req": "ZOMBIE_2"
 }

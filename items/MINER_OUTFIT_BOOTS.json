@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Prospecting_Boots"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "",
-    "B1": "IRON_BLOCK:1",
-    "B2": "",
-    "B3": "IRON_BLOCK:1",
-    "C1": "IRON_BLOCK:1",
-    "C2": "",
-    "C3": "IRON_BLOCK:1"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "IRON_BLOCK:1",
+      "B2": "",
+      "B3": "IRON_BLOCK:1",
+      "C1": "IRON_BLOCK:1",
+      "C2": "",
+      "C3": "IRON_BLOCK:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MINER_OUTFIT_BOOTS"
+    }
+  ]
 }

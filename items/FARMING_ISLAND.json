@@ -17,15 +17,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Farming_Island"
   ],
-  "recipe": {
-    "A1": "WHEAT:32",
-    "A2": "WHEAT:32",
-    "A3": "WHEAT:32",
-    "B1": "DIRT:5",
-    "B2": "DIRT:5",
-    "B3": "DIRT:5",
-    "C1": "DIRT:5",
-    "C2": "DIRT:5",
-    "C3": "DIRT:5"
-  }
+  "recipes": [
+    {
+      "A1": "WHEAT:32",
+      "A2": "WHEAT:32",
+      "A3": "WHEAT:32",
+      "B1": "DIRT:5",
+      "B2": "DIRT:5",
+      "B3": "DIRT:5",
+      "C1": "DIRT:5",
+      "C2": "DIRT:5",
+      "C3": "DIRT:5",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FARMING_ISLAND"
+    }
+  ]
 }

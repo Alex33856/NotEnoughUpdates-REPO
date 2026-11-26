@@ -22,15 +22,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Shark_Tooth_Ring"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "NURSE_SHARK_TOOTH:1",
-    "A3": "",
-    "B1": "NURSE_SHARK_TOOTH:1",
-    "B2": "RAGGEDY_SHARK_TOOTH_NECKLACE:1",
-    "B3": "NURSE_SHARK_TOOTH:1",
-    "C1": "",
-    "C2": "NURSE_SHARK_TOOTH:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "NURSE_SHARK_TOOTH:1",
+      "A3": "",
+      "B1": "NURSE_SHARK_TOOTH:1",
+      "B2": "RAGGEDY_SHARK_TOOTH_NECKLACE:1",
+      "B3": "NURSE_SHARK_TOOTH:1",
+      "C1": "",
+      "C2": "NURSE_SHARK_TOOTH:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DULL_SHARK_TOOTH_NECKLACE"
+    }
+  ]
 }

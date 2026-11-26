@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Beastmaster_Crest"
   ],
-  "recipe": {
-    "A1": "GRIFFIN_FEATHER:1",
-    "A2": "ANCIENT_CLAW:10",
-    "A3": "GRIFFIN_FEATHER:1",
-    "B1": "ANCIENT_CLAW:10",
-    "B2": "MILK_BUCKET:1",
-    "B3": "ANCIENT_CLAW:10",
-    "C1": "GRIFFIN_FEATHER:1",
-    "C2": "ANCIENT_CLAW:10",
-    "C3": "GRIFFIN_FEATHER:1"
-  }
+  "recipes": [
+    {
+      "A1": "GRIFFIN_FEATHER:1",
+      "A2": "ANCIENT_CLAW:10",
+      "A3": "GRIFFIN_FEATHER:1",
+      "B1": "ANCIENT_CLAW:10",
+      "B2": "MILK_BUCKET:1",
+      "B3": "ANCIENT_CLAW:10",
+      "C1": "GRIFFIN_FEATHER:1",
+      "C2": "ANCIENT_CLAW:10",
+      "C3": "GRIFFIN_FEATHER:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BEASTMASTER_CREST_COMMON"
+    }
+  ]
 }

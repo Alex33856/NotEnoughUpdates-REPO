@@ -31,16 +31,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Soulflow_Supercell"
   ],
-  "recipe": {
-    "A1": "NULL_OVOID:32",
-    "A2": "NULL_OVOID:32",
-    "A3": "NULL_OVOID:32",
-    "B1": "NULL_ATOM:1",
-    "B2": "SOULFLOW_BATTERY:1",
-    "B3": "NULL_ATOM:1",
-    "C1": "NULL_OVOID:32",
-    "C2": "NULL_OVOID:32",
-    "C3": "NULL_OVOID:32"
-  },
+  "recipes": [
+    {
+      "A1": "NULL_OVOID:32",
+      "A2": "NULL_OVOID:32",
+      "A3": "NULL_OVOID:32",
+      "B1": "NULL_ATOM:1",
+      "B2": "SOULFLOW_BATTERY:1",
+      "B3": "NULL_ATOM:1",
+      "C1": "NULL_OVOID:32",
+      "C2": "NULL_OVOID:32",
+      "C3": "NULL_OVOID:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SOULFLOW_SUPERCELL"
+    }
+  ],
   "slayer_req": "EMAN_7"
 }

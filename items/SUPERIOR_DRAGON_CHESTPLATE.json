@@ -30,15 +30,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Superior_Dragon_Chestplate"
   ],
-  "recipe": {
-    "A1": "SUPERIOR_FRAGMENT:10",
-    "A2": "",
-    "A3": "SUPERIOR_FRAGMENT:10",
-    "B1": "SUPERIOR_FRAGMENT:10",
-    "B2": "SUPERIOR_FRAGMENT:10",
-    "B3": "SUPERIOR_FRAGMENT:10",
-    "C1": "SUPERIOR_FRAGMENT:10",
-    "C2": "SUPERIOR_FRAGMENT:10",
-    "C3": "SUPERIOR_FRAGMENT:10"
-  }
+  "recipes": [
+    {
+      "A1": "SUPERIOR_FRAGMENT:10",
+      "A2": "",
+      "A3": "SUPERIOR_FRAGMENT:10",
+      "B1": "SUPERIOR_FRAGMENT:10",
+      "B2": "SUPERIOR_FRAGMENT:10",
+      "B3": "SUPERIOR_FRAGMENT:10",
+      "C1": "SUPERIOR_FRAGMENT:10",
+      "C2": "SUPERIOR_FRAGMENT:10",
+      "C3": "SUPERIOR_FRAGMENT:10",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SUPERIOR_DRAGON_CHESTPLATE"
+    }
+  ]
 }

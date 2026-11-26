@@ -30,15 +30,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sorrow_Boots"
   ],
-  "recipe": {
-    "A1": "SORROW:3",
-    "A2": "",
-    "A3": "SORROW:3",
-    "B1": "SORROW:3",
-    "B2": "",
-    "B3": "SORROW:3",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "SORROW:3",
+      "A2": "",
+      "A3": "SORROW:3",
+      "B1": "SORROW:3",
+      "B2": "",
+      "B3": "SORROW:3",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SORROW_BOOTS"
+    }
+  ]
 }

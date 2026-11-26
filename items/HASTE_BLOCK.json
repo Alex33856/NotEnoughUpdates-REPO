@@ -17,15 +17,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Haste_Block"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_ENDSTONE:1",
-    "A2": "ENCHANTED_ENDSTONE:1",
-    "A3": "ENCHANTED_ENDSTONE:1",
-    "B1": "ENCHANTED_ENDSTONE:1",
-    "B2": "ENCHANTED_FEATHER:1",
-    "B3": "ENCHANTED_ENDSTONE:1",
-    "C1": "ENCHANTED_ENDSTONE:1",
-    "C2": "ENCHANTED_ENDSTONE:1",
-    "C3": "ENCHANTED_ENDSTONE:1"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_ENDSTONE:1",
+      "A2": "ENCHANTED_ENDSTONE:1",
+      "A3": "ENCHANTED_ENDSTONE:1",
+      "B1": "ENCHANTED_ENDSTONE:1",
+      "B2": "ENCHANTED_FEATHER:1",
+      "B3": "ENCHANTED_ENDSTONE:1",
+      "C1": "ENCHANTED_ENDSTONE:1",
+      "C2": "ENCHANTED_ENDSTONE:1",
+      "C3": "ENCHANTED_ENDSTONE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HASTE_BLOCK"
+    }
+  ]
 }

@@ -27,15 +27,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Crux_Heirloom"
   ],
-  "recipe": {
-    "A1": "FROSTY_CRUX:3",
-    "A2": "FROSTY_CRUX:3",
-    "A3": "FROSTY_CRUX:3",
-    "B1": "FROSTY_CRUX:3",
-    "B2": "CRUX_TALISMAN_4:1",
-    "B3": "FROSTY_CRUX:3",
-    "C1": "FROSTY_CRUX:3",
-    "C2": "FROSTY_CRUX:3",
-    "C3": "FROSTY_CRUX:3"
-  }
+  "recipes": [
+    {
+      "A1": "FROSTY_CRUX:3",
+      "A2": "FROSTY_CRUX:3",
+      "A3": "FROSTY_CRUX:3",
+      "B1": "FROSTY_CRUX:3",
+      "B2": "CRUX_TALISMAN_4:1",
+      "B3": "FROSTY_CRUX:3",
+      "C1": "FROSTY_CRUX:3",
+      "C2": "FROSTY_CRUX:3",
+      "C3": "FROSTY_CRUX:3",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CRUX_TALISMAN_5"
+    }
+  ]
 }

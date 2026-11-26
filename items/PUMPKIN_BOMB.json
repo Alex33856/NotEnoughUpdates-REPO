@@ -18,16 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Blast_o%27_Lantern"
   ],
-  "recipe": {
-    "A1": "GREEN_CANDY:1",
-    "A2": "GREEN_CANDY:1",
-    "A3": "GREEN_CANDY:1",
-    "B1": "GREEN_CANDY:1",
-    "B2": "PUMPKIN_GUTS:1",
-    "B3": "GREEN_CANDY:1",
-    "C1": "GREEN_CANDY:1",
-    "C2": "GREEN_CANDY:1",
-    "C3": "GREEN_CANDY:1",
-    "count": 32
-  }
+  "recipes": [
+    {
+      "A1": "GREEN_CANDY:1",
+      "A2": "GREEN_CANDY:1",
+      "A3": "GREEN_CANDY:1",
+      "B1": "GREEN_CANDY:1",
+      "B2": "PUMPKIN_GUTS:1",
+      "B3": "GREEN_CANDY:1",
+      "C1": "GREEN_CANDY:1",
+      "C2": "GREEN_CANDY:1",
+      "C3": "GREEN_CANDY:1",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "PUMPKIN_BOMB"
+    }
+  ]
 }

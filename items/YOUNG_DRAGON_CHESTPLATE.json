@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Young_Dragon_Chestplate"
   ],
-  "recipe": {
-    "A1": "YOUNG_FRAGMENT:10",
-    "A2": "",
-    "A3": "YOUNG_FRAGMENT:10",
-    "B1": "YOUNG_FRAGMENT:10",
-    "B2": "YOUNG_FRAGMENT:10",
-    "B3": "YOUNG_FRAGMENT:10",
-    "C1": "YOUNG_FRAGMENT:10",
-    "C2": "YOUNG_FRAGMENT:10",
-    "C3": "YOUNG_FRAGMENT:10"
-  }
+  "recipes": [
+    {
+      "A1": "YOUNG_FRAGMENT:10",
+      "A2": "",
+      "A3": "YOUNG_FRAGMENT:10",
+      "B1": "YOUNG_FRAGMENT:10",
+      "B2": "YOUNG_FRAGMENT:10",
+      "B3": "YOUNG_FRAGMENT:10",
+      "C1": "YOUNG_FRAGMENT:10",
+      "C2": "YOUNG_FRAGMENT:10",
+      "C3": "YOUNG_FRAGMENT:10",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "YOUNG_DRAGON_CHESTPLATE"
+    }
+  ]
 }

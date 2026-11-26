@@ -14,15 +14,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Poisonous_Potato"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "POISONOUS_POTATO:32",
-    "A3": "",
-    "B1": "POISONOUS_POTATO:32",
-    "B2": "POISONOUS_POTATO:32",
-    "B3": "POISONOUS_POTATO:32",
-    "C1": "",
-    "C2": "POISONOUS_POTATO:32",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "POISONOUS_POTATO:32",
+      "A3": "",
+      "B1": "POISONOUS_POTATO:32",
+      "B2": "POISONOUS_POTATO:32",
+      "B3": "POISONOUS_POTATO:32",
+      "C1": "",
+      "C2": "POISONOUS_POTATO:32",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ENCHANTED_POISONOUS_POTATO"
+    }
+  ]
 }

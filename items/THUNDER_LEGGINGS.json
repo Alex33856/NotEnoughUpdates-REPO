@@ -35,15 +35,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Thunder_Leggings"
   ],
-  "recipe": {
-    "A1": "THUNDER_SHARDS:1",
-    "A2": "THUNDER_SHARDS:1",
-    "A3": "THUNDER_SHARDS:1",
-    "B1": "THUNDER_SHARDS:1",
-    "B2": "",
-    "B3": "THUNDER_SHARDS:1",
-    "C1": "THUNDER_SHARDS:1",
-    "C2": "",
-    "C3": "THUNDER_SHARDS:1"
-  }
+  "recipes": [
+    {
+      "A1": "THUNDER_SHARDS:1",
+      "A2": "THUNDER_SHARDS:1",
+      "A3": "THUNDER_SHARDS:1",
+      "B1": "THUNDER_SHARDS:1",
+      "B2": "",
+      "B3": "THUNDER_SHARDS:1",
+      "C1": "THUNDER_SHARDS:1",
+      "C2": "",
+      "C3": "THUNDER_SHARDS:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "THUNDER_LEGGINGS"
+    }
+  ]
 }

@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Salmon_Hat"
   ],
-  "recipe": {
-    "A1": "RAW_FISH-1:1",
-    "A2": "RAW_FISH-1:1",
-    "A3": "RAW_FISH-1:1",
-    "B1": "RAW_FISH-1:1",
-    "B2": "",
-    "B3": "RAW_FISH-1:1",
-    "C1": "RAW_FISH-1:1",
-    "C2": "RAW_FISH-1:1",
-    "C3": "RAW_FISH-1:1"
-  }
+  "recipes": [
+    {
+      "A1": "RAW_FISH-1:1",
+      "A2": "RAW_FISH-1:1",
+      "A3": "RAW_FISH-1:1",
+      "B1": "RAW_FISH-1:1",
+      "B2": "",
+      "B3": "RAW_FISH-1:1",
+      "C1": "RAW_FISH-1:1",
+      "C2": "RAW_FISH-1:1",
+      "C3": "RAW_FISH-1:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SALMON_HAT"
+    }
+  ]
 }

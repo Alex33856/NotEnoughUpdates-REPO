@@ -17,15 +17,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Sugar_Cane"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_SUGAR:32",
-    "A2": "ENCHANTED_SUGAR:32",
-    "A3": "ENCHANTED_SUGAR:32",
-    "B1": "ENCHANTED_SUGAR:32",
-    "B2": "ENCHANTED_SUGAR:32",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_SUGAR:32",
+      "A2": "ENCHANTED_SUGAR:32",
+      "A3": "ENCHANTED_SUGAR:32",
+      "B1": "ENCHANTED_SUGAR:32",
+      "B2": "ENCHANTED_SUGAR:32",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ENCHANTED_SUGAR_CANE"
+    }
+  ]
 }

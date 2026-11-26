@@ -30,15 +30,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Vanquished_Blaze_Belt"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "",
-    "B1": "ENCHANTED_BLAZE_ROD:1",
-    "B2": "BLAZE_BELT:1",
-    "B3": "ENCHANTED_BLAZE_ROD:1",
-    "C1": "CORRUPTED_NETHER_STAR:1",
-    "C2": "CORRUPTED_NETHER_STAR:1",
-    "C3": "CORRUPTED_NETHER_STAR:1"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_BLAZE_ROD:1",
+      "B2": "BLAZE_BELT:1",
+      "B3": "ENCHANTED_BLAZE_ROD:1",
+      "C1": "CORRUPTED_NETHER_STAR:1",
+      "C2": "CORRUPTED_NETHER_STAR:1",
+      "C3": "CORRUPTED_NETHER_STAR:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "VANQUISHED_BLAZE_BELT"
+    }
+  ]
 }

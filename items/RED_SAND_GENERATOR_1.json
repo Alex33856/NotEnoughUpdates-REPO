@@ -25,16 +25,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Red_Sand_Minion"
   ],
-  "recipe": {
-    "A1": "SAND-1:10",
-    "A2": "SAND-1:10",
-    "A3": "SAND-1:10",
-    "B1": "SAND-1:10",
-    "B2": "WOOD_SPADE:1",
-    "B3": "SAND-1:10",
-    "C1": "SAND-1:10",
-    "C2": "SAND-1:10",
-    "C3": "SAND-1:10"
-  },
+  "recipes": [
+    {
+      "A1": "SAND-1:10",
+      "A2": "SAND-1:10",
+      "A3": "SAND-1:10",
+      "B1": "SAND-1:10",
+      "B2": "WOOD_SPADE:1",
+      "B3": "SAND-1:10",
+      "C1": "SAND-1:10",
+      "C2": "SAND-1:10",
+      "C3": "SAND-1:10",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "RED_SAND_GENERATOR_1"
+    }
+  ],
   "reputation_req": "BARBARIAN:500"
 }

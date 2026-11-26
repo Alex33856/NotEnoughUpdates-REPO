@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Blaze_Talisman"
   ],
-  "recipe": {
-    "A1": "MILLENIA_OLD_BLAZE_ASHES:1",
-    "A2": "MILLENIA_OLD_BLAZE_ASHES:1",
-    "A3": "MILLENIA_OLD_BLAZE_ASHES:1",
-    "B1": "MILLENIA_OLD_BLAZE_ASHES:1",
-    "B2": "ENCHANTED_BLAZE_ROD:8",
-    "B3": "MILLENIA_OLD_BLAZE_ASHES:1",
-    "C1": "MILLENIA_OLD_BLAZE_ASHES:1",
-    "C2": "MILLENIA_OLD_BLAZE_ASHES:1",
-    "C3": "MILLENIA_OLD_BLAZE_ASHES:1"
-  }
+  "recipes": [
+    {
+      "A1": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "A2": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "A3": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "B1": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "B2": "ENCHANTED_BLAZE_ROD:8",
+      "B3": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "C1": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "C2": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "C3": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BLAZE_TALISMAN"
+    }
+  ]
 }

@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Obsidian_Minion"
   ],
-  "recipe": {
-    "A1": "OBSIDIAN:10",
-    "A2": "OBSIDIAN:10",
-    "A3": "OBSIDIAN:10",
-    "B1": "OBSIDIAN:10",
-    "B2": "WOOD_PICKAXE:1",
-    "B3": "OBSIDIAN:10",
-    "C1": "OBSIDIAN:10",
-    "C2": "OBSIDIAN:10",
-    "C3": "OBSIDIAN:10"
-  }
+  "recipes": [
+    {
+      "A1": "OBSIDIAN:10",
+      "A2": "OBSIDIAN:10",
+      "A3": "OBSIDIAN:10",
+      "B1": "OBSIDIAN:10",
+      "B2": "WOOD_PICKAXE:1",
+      "B3": "OBSIDIAN:10",
+      "C1": "OBSIDIAN:10",
+      "C2": "OBSIDIAN:10",
+      "C3": "OBSIDIAN:10",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "OBSIDIAN_GENERATOR_1"
+    }
+  ]
 }

@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Shark_Fin"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "SHARK_FIN:32",
-    "A3": "",
-    "B1": "SHARK_FIN:32",
-    "B2": "SHARK_FIN:32",
-    "B3": "SHARK_FIN:32",
-    "C1": "",
-    "C2": "SHARK_FIN:32",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "SHARK_FIN:32",
+      "A3": "",
+      "B1": "SHARK_FIN:32",
+      "B2": "SHARK_FIN:32",
+      "B3": "SHARK_FIN:32",
+      "C1": "",
+      "C2": "SHARK_FIN:32",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ENCHANTED_SHARK_FIN"
+    }
+  ]
 }

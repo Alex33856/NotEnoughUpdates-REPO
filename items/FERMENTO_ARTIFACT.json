@@ -29,15 +29,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Fermento_Artifact"
   ],
-  "recipe": {
-    "A1": "CONDENSED_FERMENTO:1",
-    "A2": "CONDENSED_FERMENTO:1",
-    "A3": "CONDENSED_FERMENTO:1",
-    "B1": "CONDENSED_FERMENTO:1",
-    "B2": "SQUASH_RING:1",
-    "B3": "CONDENSED_FERMENTO:1",
-    "C1": "CONDENSED_FERMENTO:1",
-    "C2": "CONDENSED_FERMENTO:1",
-    "C3": "CONDENSED_FERMENTO:1"
-  }
+  "recipes": [
+    {
+      "A1": "CONDENSED_FERMENTO:1",
+      "A2": "CONDENSED_FERMENTO:1",
+      "A3": "CONDENSED_FERMENTO:1",
+      "B1": "CONDENSED_FERMENTO:1",
+      "B2": "SQUASH_RING:1",
+      "B3": "CONDENSED_FERMENTO:1",
+      "C1": "CONDENSED_FERMENTO:1",
+      "C2": "CONDENSED_FERMENTO:1",
+      "C3": "CONDENSED_FERMENTO:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FERMENTO_ARTIFACT"
+    }
+  ]
 }

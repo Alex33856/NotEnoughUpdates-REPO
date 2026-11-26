@@ -20,15 +20,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Agarimoo_Talisman"
   ],
-  "recipe": {
-    "A1": "AGARIMOO_TONGUE:1",
-    "A2": "AGARIMOO_TONGUE:1",
-    "A3": "AGARIMOO_TONGUE:1",
-    "B1": "AGARIMOO_TONGUE:1",
-    "B2": "AGARIMOO_TONGUE:1",
-    "B3": "AGARIMOO_TONGUE:1",
-    "C1": "AGARIMOO_TONGUE:1",
-    "C2": "AGARIMOO_TONGUE:1",
-    "C3": "AGARIMOO_TONGUE:1"
-  }
+  "recipes": [
+    {
+      "A1": "AGARIMOO_TONGUE:1",
+      "A2": "AGARIMOO_TONGUE:1",
+      "A3": "AGARIMOO_TONGUE:1",
+      "B1": "AGARIMOO_TONGUE:1",
+      "B2": "AGARIMOO_TONGUE:1",
+      "B3": "AGARIMOO_TONGUE:1",
+      "C1": "AGARIMOO_TONGUE:1",
+      "C2": "AGARIMOO_TONGUE:1",
+      "C3": "AGARIMOO_TONGUE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "AGARIMOO_TALISMAN"
+    }
+  ]
 }

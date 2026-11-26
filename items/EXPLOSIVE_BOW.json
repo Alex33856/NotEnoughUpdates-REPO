@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Explosive_Bow"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "ENCHANTED_FIREWORK_ROCKET:1",
-    "A3": "STRING:1",
-    "B1": "ENCHANTED_FIREWORK_ROCKET:1",
-    "B2": "",
-    "B3": "STRING:1",
-    "C1": "",
-    "C2": "ENCHANTED_FIREWORK_ROCKET:1",
-    "C3": "STRING:1"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "ENCHANTED_FIREWORK_ROCKET:1",
+      "A3": "STRING:1",
+      "B1": "ENCHANTED_FIREWORK_ROCKET:1",
+      "B2": "",
+      "B3": "STRING:1",
+      "C1": "",
+      "C2": "ENCHANTED_FIREWORK_ROCKET:1",
+      "C3": "STRING:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "EXPLOSIVE_BOW"
+    }
+  ]
 }

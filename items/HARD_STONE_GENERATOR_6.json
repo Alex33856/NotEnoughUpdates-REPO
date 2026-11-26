@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Hard_Stone_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_HARD_STONE:8",
-    "A2": "ENCHANTED_HARD_STONE:8",
-    "A3": "ENCHANTED_HARD_STONE:8",
-    "B1": "ENCHANTED_HARD_STONE:8",
-    "B2": "HARD_STONE_GENERATOR_5:1",
-    "B3": "ENCHANTED_HARD_STONE:8",
-    "C1": "ENCHANTED_HARD_STONE:8",
-    "C2": "ENCHANTED_HARD_STONE:8",
-    "C3": "ENCHANTED_HARD_STONE:8"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_HARD_STONE:8",
+      "A2": "ENCHANTED_HARD_STONE:8",
+      "A3": "ENCHANTED_HARD_STONE:8",
+      "B1": "ENCHANTED_HARD_STONE:8",
+      "B2": "HARD_STONE_GENERATOR_5:1",
+      "B3": "ENCHANTED_HARD_STONE:8",
+      "C1": "ENCHANTED_HARD_STONE:8",
+      "C2": "ENCHANTED_HARD_STONE:8",
+      "C3": "ENCHANTED_HARD_STONE:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HARD_STONE_GENERATOR_6"
+    }
+  ]
 }

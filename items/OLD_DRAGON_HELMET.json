@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Old_Dragon_Helmet"
   ],
-  "recipe": {
-    "A1": "OLD_FRAGMENT:10",
-    "A2": "OLD_FRAGMENT:10",
-    "A3": "OLD_FRAGMENT:10",
-    "B1": "OLD_FRAGMENT:10",
-    "B2": "",
-    "B3": "OLD_FRAGMENT:10",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "OLD_FRAGMENT:10",
+      "A2": "OLD_FRAGMENT:10",
+      "A3": "OLD_FRAGMENT:10",
+      "B1": "OLD_FRAGMENT:10",
+      "B2": "",
+      "B3": "OLD_FRAGMENT:10",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "OLD_DRAGON_HELMET"
+    }
+  ]
 }

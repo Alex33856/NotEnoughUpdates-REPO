@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Wise_Dragon_Chestplate"
   ],
-  "recipe": {
-    "A1": "WISE_FRAGMENT:10",
-    "A2": "",
-    "A3": "WISE_FRAGMENT:10",
-    "B1": "WISE_FRAGMENT:10",
-    "B2": "WISE_FRAGMENT:10",
-    "B3": "WISE_FRAGMENT:10",
-    "C1": "WISE_FRAGMENT:10",
-    "C2": "WISE_FRAGMENT:10",
-    "C3": "WISE_FRAGMENT:10"
-  }
+  "recipes": [
+    {
+      "A1": "WISE_FRAGMENT:10",
+      "A2": "",
+      "A3": "WISE_FRAGMENT:10",
+      "B1": "WISE_FRAGMENT:10",
+      "B2": "WISE_FRAGMENT:10",
+      "B3": "WISE_FRAGMENT:10",
+      "C1": "WISE_FRAGMENT:10",
+      "C2": "WISE_FRAGMENT:10",
+      "C3": "WISE_FRAGMENT:10",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "WISE_DRAGON_CHESTPLATE"
+    }
+  ]
 }

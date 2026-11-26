@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Stuffed_Chili_Pepper"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "CHILI_PEPPER:32",
-    "A3": "",
-    "B1": "CHILI_PEPPER:32",
-    "B2": "CHILI_PEPPER:32",
-    "B3": "CHILI_PEPPER:32",
-    "C1": "",
-    "C2": "CHILI_PEPPER:32",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "CHILI_PEPPER:32",
+      "A3": "",
+      "B1": "CHILI_PEPPER:32",
+      "B2": "CHILI_PEPPER:32",
+      "B3": "CHILI_PEPPER:32",
+      "C1": "",
+      "C2": "CHILI_PEPPER:32",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "STUFFED_CHILI_PEPPER"
+    }
+  ]
 }

@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Vampire_Minion"
   ],
-  "recipe": {
-    "A1": "HEMOGLASS:2",
-    "A2": "HEMOGLASS:2",
-    "A3": "HEMOGLASS:2",
-    "B1": "HEMOGLASS:2",
-    "B2": "VAMPIRE_GENERATOR_5:1",
-    "B3": "HEMOGLASS:2",
-    "C1": "HEMOGLASS:2",
-    "C2": "HEMOGLASS:2",
-    "C3": "HEMOGLASS:2"
-  }
+  "recipes": [
+    {
+      "A1": "HEMOGLASS:2",
+      "A2": "HEMOGLASS:2",
+      "A3": "HEMOGLASS:2",
+      "B1": "HEMOGLASS:2",
+      "B2": "VAMPIRE_GENERATOR_5:1",
+      "B3": "HEMOGLASS:2",
+      "C1": "HEMOGLASS:2",
+      "C2": "HEMOGLASS:2",
+      "C3": "HEMOGLASS:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "VAMPIRE_GENERATOR_6"
+    }
+  ]
 }

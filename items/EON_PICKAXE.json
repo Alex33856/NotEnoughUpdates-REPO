@@ -22,15 +22,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Eon_Pickaxe"
   ],
-  "recipe": {
-    "A1": "YOUNGITE:8",
-    "A2": "ANTI_SENTIENT_PICKAXE:1",
-    "A3": "YOUNGITE:8",
-    "B1": "",
-    "B2": "YOUNGITE:8",
-    "B3": "",
-    "C1": "",
-    "C2": "YOUNGITE:8",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "YOUNGITE:8",
+      "A2": "ANTI_SENTIENT_PICKAXE:1",
+      "A3": "YOUNGITE:8",
+      "B1": "",
+      "B2": "YOUNGITE:8",
+      "B3": "",
+      "C1": "",
+      "C2": "YOUNGITE:8",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "EON_PICKAXE"
+    }
+  ]
 }

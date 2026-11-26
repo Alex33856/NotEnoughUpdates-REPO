@@ -36,15 +36,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Magma_Lord_Helmet"
   ],
-  "recipe": {
-    "A1": "MAGMA_LORD_FRAGMENT:1",
-    "A2": "MAGMA_LORD_FRAGMENT:1",
-    "A3": "MAGMA_LORD_FRAGMENT:1",
-    "B1": "MAGMA_LORD_FRAGMENT:1",
-    "B2": "",
-    "B3": "MAGMA_LORD_FRAGMENT:1",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "MAGMA_LORD_FRAGMENT:1",
+      "A2": "MAGMA_LORD_FRAGMENT:1",
+      "A3": "MAGMA_LORD_FRAGMENT:1",
+      "B1": "MAGMA_LORD_FRAGMENT:1",
+      "B2": "",
+      "B3": "MAGMA_LORD_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MAGMA_LORD_HELMET"
+    }
+  ]
 }

@@ -27,15 +27,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Super_Sharp_%27n_Stabby_Steak_Stake"
   ],
-  "recipe": {
-    "A1": "CRUXMOTION:1",
-    "A2": "CRUXMOTION:1",
-    "A3": "CRUXMOTION:1",
-    "B1": "CRUXMOTION:1",
-    "B2": "STEAK_STAKE:1",
-    "B3": "CRUXMOTION:1",
-    "C1": "CRUXMOTION:1",
-    "C2": "CRUXMOTION:1",
-    "C3": "CRUXMOTION:1"
-  }
+  "recipes": [
+    {
+      "A1": "CRUXMOTION:1",
+      "A2": "CRUXMOTION:1",
+      "A3": "CRUXMOTION:1",
+      "B1": "CRUXMOTION:1",
+      "B2": "STEAK_STAKE:1",
+      "B3": "CRUXMOTION:1",
+      "C1": "CRUXMOTION:1",
+      "C2": "CRUXMOTION:1",
+      "C3": "CRUXMOTION:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SHARP_STEAK_STAKE"
+    }
+  ]
 }

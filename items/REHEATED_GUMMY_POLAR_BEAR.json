@@ -28,15 +28,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Re-heated_Gummy_Polar_Bear"
   ],
-  "recipe": {
-    "A1": "CHILI_PEPPER:1",
-    "A2": "ENCHANTED_SLIME_BALL:1",
-    "A3": "CHILI_PEPPER:1",
-    "B1": "ENCHANTED_SLIME_BALL:1",
-    "B2": "ENCHANTED_SNOW_BLOCK:4",
-    "B3": "ENCHANTED_SLIME_BALL:1",
-    "C1": "CHILI_PEPPER:1",
-    "C2": "ENCHANTED_SLIME_BALL:1",
-    "C3": "CHILI_PEPPER:1"
-  }
+  "recipes": [
+    {
+      "A1": "CHILI_PEPPER:1",
+      "A2": "ENCHANTED_SLIME_BALL:1",
+      "A3": "CHILI_PEPPER:1",
+      "B1": "ENCHANTED_SLIME_BALL:1",
+      "B2": "ENCHANTED_SNOW_BLOCK:4",
+      "B3": "ENCHANTED_SLIME_BALL:1",
+      "C1": "CHILI_PEPPER:1",
+      "C2": "ENCHANTED_SLIME_BALL:1",
+      "C3": "CHILI_PEPPER:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "REHEATED_GUMMY_POLAR_BEAR"
+    }
+  ]
 }

@@ -28,15 +28,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Acacia_Birdhouse"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "ENCHANTED_ACACIA_LOG:64",
-    "A3": "",
-    "B1": "ENCHANTED_ACACIA_LOG:64",
-    "B2": "",
-    "B3": "ENCHANTED_ACACIA_LOG:64",
-    "C1": "ENCHANTED_ACACIA_LOG:64",
-    "C2": "ENCHANTED_ACACIA_LOG:64",
-    "C3": "ENCHANTED_ACACIA_LOG:64"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "ENCHANTED_ACACIA_LOG:64",
+      "A3": "",
+      "B1": "ENCHANTED_ACACIA_LOG:64",
+      "B2": "",
+      "B3": "ENCHANTED_ACACIA_LOG:64",
+      "C1": "ENCHANTED_ACACIA_LOG:64",
+      "C2": "ENCHANTED_ACACIA_LOG:64",
+      "C3": "ENCHANTED_ACACIA_LOG:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ACACIA_BIRDHOUSE"
+    }
+  ]
 }

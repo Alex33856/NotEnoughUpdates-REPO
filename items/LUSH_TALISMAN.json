@@ -20,15 +20,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Lush_Talisman"
   ],
-  "recipe": {
-    "A1": "LUSH_BERBERIS:64",
-    "A2": "LUSH_BERBERIS:64",
-    "A3": "LUSH_BERBERIS:64",
-    "B1": "LUSH_BERBERIS:64",
-    "B2": "LUSH_BERBERIS:64",
-    "B3": "LUSH_BERBERIS:64",
-    "C1": "LUSH_BERBERIS:64",
-    "C2": "LUSH_BERBERIS:64",
-    "C3": "LUSH_BERBERIS:64"
-  }
+  "recipes": [
+    {
+      "A1": "LUSH_BERBERIS:64",
+      "A2": "LUSH_BERBERIS:64",
+      "A3": "LUSH_BERBERIS:64",
+      "B1": "LUSH_BERBERIS:64",
+      "B2": "LUSH_BERBERIS:64",
+      "B3": "LUSH_BERBERIS:64",
+      "C1": "LUSH_BERBERIS:64",
+      "C2": "LUSH_BERBERIS:64",
+      "C3": "LUSH_BERBERIS:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "LUSH_TALISMAN"
+    }
+  ]
 }

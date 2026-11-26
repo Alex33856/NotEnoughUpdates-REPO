@@ -22,15 +22,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Gemstone"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "FINE_TOPAZ_GEM:16",
-    "A3": "",
-    "B1": "FINE_TOPAZ_GEM:16",
-    "B2": "FINE_TOPAZ_GEM:16",
-    "B3": "FINE_TOPAZ_GEM:16",
-    "C1": "",
-    "C2": "FINE_TOPAZ_GEM:16",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "FINE_TOPAZ_GEM:16",
+      "A3": "",
+      "B1": "FINE_TOPAZ_GEM:16",
+      "B2": "FINE_TOPAZ_GEM:16",
+      "B3": "FINE_TOPAZ_GEM:16",
+      "C1": "",
+      "C2": "FINE_TOPAZ_GEM:16",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FLAWLESS_TOPAZ_GEM"
+    }
+  ]
 }

@@ -13,15 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "PRISMARINE_SHARD:1",
-    "A2": "PRISMARINE_SHARD:1",
-    "A3": "PRISMARINE_SHARD:1",
-    "B1": "PRISMARINE_SHARD:1",
-    "B2": "PRISMARINE_SHARD:1",
-    "B3": "PRISMARINE_SHARD:1",
-    "C1": "PRISMARINE_SHARD:1",
-    "C2": "PRISMARINE_SHARD:1",
-    "C3": "PRISMARINE_SHARD:1"
-  }
+  "recipes": [
+    {
+      "A1": "PRISMARINE_SHARD:1",
+      "A2": "PRISMARINE_SHARD:1",
+      "A3": "PRISMARINE_SHARD:1",
+      "B1": "PRISMARINE_SHARD:1",
+      "B2": "PRISMARINE_SHARD:1",
+      "B3": "PRISMARINE_SHARD:1",
+      "C1": "PRISMARINE_SHARD:1",
+      "C2": "PRISMARINE_SHARD:1",
+      "C3": "PRISMARINE_SHARD:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "PRISMARINE-1"
+    }
+  ]
 }

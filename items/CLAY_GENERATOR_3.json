@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Clay_Minion"
   ],
-  "recipe": {
-    "A1": "CLAY_BALL:40",
-    "A2": "CLAY_BALL:40",
-    "A3": "CLAY_BALL:40",
-    "B1": "CLAY_BALL:40",
-    "B2": "CLAY_GENERATOR_2:1",
-    "B3": "CLAY_BALL:40",
-    "C1": "CLAY_BALL:40",
-    "C2": "CLAY_BALL:40",
-    "C3": "CLAY_BALL:40"
-  }
+  "recipes": [
+    {
+      "A1": "CLAY_BALL:40",
+      "A2": "CLAY_BALL:40",
+      "A3": "CLAY_BALL:40",
+      "B1": "CLAY_BALL:40",
+      "B2": "CLAY_GENERATOR_2:1",
+      "B3": "CLAY_BALL:40",
+      "C1": "CLAY_BALL:40",
+      "C2": "CLAY_BALL:40",
+      "C3": "CLAY_BALL:40",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CLAY_GENERATOR_3"
+    }
+  ]
 }

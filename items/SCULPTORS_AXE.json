@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sculptor%27s_Axe"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "LOG-2:64",
-    "A3": "LOG-2:64",
-    "B1": "",
-    "B2": "STICK:1",
-    "B3": "LOG-2:64",
-    "C1": "STICK:1",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "LOG-2:64",
+      "A3": "LOG-2:64",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "LOG-2:64",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SCULPTORS_AXE"
+    }
+  ]
 }

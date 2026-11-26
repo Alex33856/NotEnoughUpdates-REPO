@@ -19,15 +19,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Empty_Hurricane_Bottle"
   ],
-  "recipe": {
-    "A1": "ORB_OF_ENERGY:40",
-    "A2": "ORB_OF_ENERGY:40",
-    "A3": "ORB_OF_ENERGY:40",
-    "B1": "ORB_OF_ENERGY:40",
-    "B2": "STORM_IN_A_BOTTLE_EMPTY:1",
-    "B3": "ORB_OF_ENERGY:40",
-    "C1": "ORB_OF_ENERGY:40",
-    "C2": "ORB_OF_ENERGY:40",
-    "C3": "ORB_OF_ENERGY:40"
-  }
+  "recipes": [
+    {
+      "A1": "ORB_OF_ENERGY:40",
+      "A2": "ORB_OF_ENERGY:40",
+      "A3": "ORB_OF_ENERGY:40",
+      "B1": "ORB_OF_ENERGY:40",
+      "B2": "STORM_IN_A_BOTTLE_EMPTY:1",
+      "B3": "ORB_OF_ENERGY:40",
+      "C1": "ORB_OF_ENERGY:40",
+      "C2": "ORB_OF_ENERGY:40",
+      "C3": "ORB_OF_ENERGY:40",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HURRICANE_IN_A_BOTTLE_EMPTY"
+    }
+  ]
 }

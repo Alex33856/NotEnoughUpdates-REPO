@@ -19,16 +19,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Capsaicin_Eyedrops"
   ],
-  "recipe": {
-    "A1": "CHILI_PEPPER:1",
-    "A2": "EXPORTABLE_CARROTS:64",
-    "A3": "CHILI_PEPPER:1",
-    "B1": "ENCHANTED_CARROT:64",
-    "B2": "WATER_HYDRA_HEAD:1",
-    "B3": "ENCHANTED_CARROT:64",
-    "C1": "CHILI_PEPPER:1",
-    "C2": "EXPORTABLE_CARROTS:64",
-    "C3": "CHILI_PEPPER:1",
-    "count": 3
-  }
+  "recipes": [
+    {
+      "A1": "CHILI_PEPPER:1",
+      "A2": "EXPORTABLE_CARROTS:64",
+      "A3": "CHILI_PEPPER:1",
+      "B1": "ENCHANTED_CARROT:64",
+      "B2": "WATER_HYDRA_HEAD:1",
+      "B3": "ENCHANTED_CARROT:64",
+      "C1": "CHILI_PEPPER:1",
+      "C2": "EXPORTABLE_CARROTS:64",
+      "C3": "CHILI_PEPPER:1",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "CAPSAICIN_EYEDROPS_NO_CHARGES"
+    }
+  ]
 }

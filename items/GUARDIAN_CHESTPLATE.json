@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Guardian_Chestplate"
   ],
-  "recipe": {
-    "A1": "PRISMARINE_SHARD:64",
-    "A2": "",
-    "A3": "PRISMARINE_SHARD:64",
-    "B1": "PRISMARINE_SHARD:64",
-    "B2": "PRISMARINE_CRYSTALS:64",
-    "B3": "PRISMARINE_SHARD:64",
-    "C1": "PRISMARINE_CRYSTALS:64",
-    "C2": "PRISMARINE_CRYSTALS:64",
-    "C3": "PRISMARINE_CRYSTALS:64"
-  }
+  "recipes": [
+    {
+      "A1": "PRISMARINE_SHARD:64",
+      "A2": "",
+      "A3": "PRISMARINE_SHARD:64",
+      "B1": "PRISMARINE_SHARD:64",
+      "B2": "PRISMARINE_CRYSTALS:64",
+      "B3": "PRISMARINE_SHARD:64",
+      "C1": "PRISMARINE_CRYSTALS:64",
+      "C2": "PRISMARINE_CRYSTALS:64",
+      "C3": "PRISMARINE_CRYSTALS:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GUARDIAN_CHESTPLATE"
+    }
+  ]
 }

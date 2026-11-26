@@ -18,16 +18,20 @@
     "https://hypixelskyblock.minecraft.wiki/w/Redstone_Dust"
   ],
   "vanilla": true,
-  "recipe": {
-    "A1": "REDSTONE_BLOCK:1",
-    "A2": "",
-    "A3": "",
-    "B1": "",
-    "B2": "",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": "",
-    "count": 9
-  }
+  "recipes": [
+    {
+      "A1": "REDSTONE_BLOCK:1",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "REDSTONE"
+    }
+  ]
 }

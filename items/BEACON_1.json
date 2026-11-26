@@ -27,15 +27,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Beacon_I"
   ],
-  "recipe": {
-    "A1": "GLASS:1",
-    "A2": "GLASS:1",
-    "A3": "GLASS:1",
-    "B1": "GLASS:1",
-    "B2": "STARFALL:64",
-    "B3": "GLASS:1",
-    "C1": "ENCHANTED_MITHRIL:64",
-    "C2": "ENCHANTED_MITHRIL:64",
-    "C3": "ENCHANTED_MITHRIL:64"
-  }
+  "recipes": [
+    {
+      "A1": "GLASS:1",
+      "A2": "GLASS:1",
+      "A3": "GLASS:1",
+      "B1": "GLASS:1",
+      "B2": "STARFALL:64",
+      "B3": "GLASS:1",
+      "C1": "ENCHANTED_MITHRIL:64",
+      "C2": "ENCHANTED_MITHRIL:64",
+      "C3": "ENCHANTED_MITHRIL:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BEACON_1"
+    }
+  ]
 }

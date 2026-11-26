@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sulphur_Bow"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_STRING:50",
-    "A2": "ENCHANTED_SULPHUR:50",
-    "A3": "",
-    "B1": "ENCHANTED_STRING:50",
-    "B2": "",
-    "B3": "BEZOS:50",
-    "C1": "ENCHANTED_STRING:50",
-    "C2": "ENCHANTED_SULPHUR:50",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_STRING:50",
+      "A2": "ENCHANTED_SULPHUR:50",
+      "A3": "",
+      "B1": "ENCHANTED_STRING:50",
+      "B2": "",
+      "B3": "BEZOS:50",
+      "C1": "ENCHANTED_STRING:50",
+      "C2": "ENCHANTED_SULPHUR:50",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SULPHUR_BOW"
+    }
+  ]
 }

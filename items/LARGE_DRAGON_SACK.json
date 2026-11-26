@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Large_Dragon_Sack"
   ],
-  "recipe": {
-    "A1": "CRYSTAL_FRAGMENT:8",
-    "A2": "DRAGON_HORN:1",
-    "A3": "CRYSTAL_FRAGMENT:8",
-    "B1": "DRAGON_HORN:1",
-    "B2": "MEDIUM_DRAGON_SACK:1",
-    "B3": "DRAGON_HORN:1",
-    "C1": "CRYSTAL_FRAGMENT:8",
-    "C2": "DRAGON_HORN:1",
-    "C3": "CRYSTAL_FRAGMENT:8"
-  }
+  "recipes": [
+    {
+      "A1": "CRYSTAL_FRAGMENT:8",
+      "A2": "DRAGON_HORN:1",
+      "A3": "CRYSTAL_FRAGMENT:8",
+      "B1": "DRAGON_HORN:1",
+      "B2": "MEDIUM_DRAGON_SACK:1",
+      "B3": "DRAGON_HORN:1",
+      "C1": "CRYSTAL_FRAGMENT:8",
+      "C2": "DRAGON_HORN:1",
+      "C3": "CRYSTAL_FRAGMENT:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "LARGE_DRAGON_SACK"
+    }
+  ]
 }

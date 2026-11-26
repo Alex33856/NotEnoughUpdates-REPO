@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Glossy_Mineral_Helmet"
   ],
-  "recipe": {
-    "A1": "GLOSSY_GEMSTONE:2",
-    "A2": "GLOSSY_GEMSTONE:2",
-    "A3": "GLOSSY_GEMSTONE:2",
-    "B1": "GLOSSY_GEMSTONE:2",
-    "B2": "MINERAL_HELMET:1",
-    "B3": "GLOSSY_GEMSTONE:2",
-    "C1": "GLOSSY_GEMSTONE:2",
-    "C2": "GLOSSY_GEMSTONE:2",
-    "C3": "GLOSSY_GEMSTONE:2"
-  }
+  "recipes": [
+    {
+      "A1": "GLOSSY_GEMSTONE:2",
+      "A2": "GLOSSY_GEMSTONE:2",
+      "A3": "GLOSSY_GEMSTONE:2",
+      "B1": "GLOSSY_GEMSTONE:2",
+      "B2": "MINERAL_HELMET:1",
+      "B3": "GLOSSY_GEMSTONE:2",
+      "C1": "GLOSSY_GEMSTONE:2",
+      "C2": "GLOSSY_GEMSTONE:2",
+      "C3": "GLOSSY_GEMSTONE:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GLOSSY_MINERAL_HELMET"
+    }
+  ]
 }

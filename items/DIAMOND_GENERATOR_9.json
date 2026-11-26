@@ -24,15 +24,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Diamond_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_DIAMOND:32",
-    "A2": "ENCHANTED_DIAMOND:32",
-    "A3": "ENCHANTED_DIAMOND:32",
-    "B1": "ENCHANTED_DIAMOND:32",
-    "B2": "DIAMOND_GENERATOR_8:1",
-    "B3": "ENCHANTED_DIAMOND:32",
-    "C1": "ENCHANTED_DIAMOND:32",
-    "C2": "ENCHANTED_DIAMOND:32",
-    "C3": "ENCHANTED_DIAMOND:32"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_DIAMOND:32",
+      "A2": "ENCHANTED_DIAMOND:32",
+      "A3": "ENCHANTED_DIAMOND:32",
+      "B1": "ENCHANTED_DIAMOND:32",
+      "B2": "DIAMOND_GENERATOR_8:1",
+      "B3": "ENCHANTED_DIAMOND:32",
+      "C1": "ENCHANTED_DIAMOND:32",
+      "C2": "ENCHANTED_DIAMOND:32",
+      "C3": "ENCHANTED_DIAMOND:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DIAMOND_GENERATOR_9"
+    }
+  ]
 }

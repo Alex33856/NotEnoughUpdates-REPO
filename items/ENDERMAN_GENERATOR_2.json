@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Enderman_Minion"
   ],
-  "recipe": {
-    "A1": "ENDER_PEARL:16",
-    "A2": "ENDER_PEARL:16",
-    "A3": "ENDER_PEARL:16",
-    "B1": "ENDER_PEARL:16",
-    "B2": "ENDERMAN_GENERATOR_1:1",
-    "B3": "ENDER_PEARL:16",
-    "C1": "ENDER_PEARL:16",
-    "C2": "ENDER_PEARL:16",
-    "C3": "ENDER_PEARL:16"
-  }
+  "recipes": [
+    {
+      "A1": "ENDER_PEARL:16",
+      "A2": "ENDER_PEARL:16",
+      "A3": "ENDER_PEARL:16",
+      "B1": "ENDER_PEARL:16",
+      "B2": "ENDERMAN_GENERATOR_1:1",
+      "B3": "ENDER_PEARL:16",
+      "C1": "ENDER_PEARL:16",
+      "C2": "ENDER_PEARL:16",
+      "C3": "ENDER_PEARL:16",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ENDERMAN_GENERATOR_2"
+    }
+  ]
 }

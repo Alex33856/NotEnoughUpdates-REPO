@@ -13,15 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "STICK:1",
-    "A2": "WOOD-3:1",
-    "A3": "STICK:1",
-    "B1": "STICK:1",
-    "B2": "WOOD-3:1",
-    "B3": "STICK:1",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "STICK:1",
+      "A2": "WOOD-3:1",
+      "A3": "STICK:1",
+      "B1": "STICK:1",
+      "B2": "WOOD-3:1",
+      "B3": "STICK:1",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "JUNGLE_FENCE_GATE"
+    }
+  ]
 }

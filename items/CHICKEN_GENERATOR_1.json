@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Chicken_Minion"
   ],
-  "recipe": {
-    "A1": "RAW_CHICKEN:8",
-    "A2": "RAW_CHICKEN:8",
-    "A3": "RAW_CHICKEN:8",
-    "B1": "RAW_CHICKEN:8",
-    "B2": "WOOD_SWORD:1",
-    "B3": "RAW_CHICKEN:8",
-    "C1": "RAW_CHICKEN:8",
-    "C2": "RAW_CHICKEN:8",
-    "C3": "RAW_CHICKEN:8"
-  }
+  "recipes": [
+    {
+      "A1": "RAW_CHICKEN:8",
+      "A2": "RAW_CHICKEN:8",
+      "A3": "RAW_CHICKEN:8",
+      "B1": "RAW_CHICKEN:8",
+      "B2": "WOOD_SWORD:1",
+      "B3": "RAW_CHICKEN:8",
+      "C1": "RAW_CHICKEN:8",
+      "C2": "RAW_CHICKEN:8",
+      "C3": "RAW_CHICKEN:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CHICKEN_GENERATOR_1"
+    }
+  ]
 }

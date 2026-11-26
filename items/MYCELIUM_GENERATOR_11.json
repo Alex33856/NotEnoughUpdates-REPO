@@ -25,16 +25,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Mycelium_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_MYCELIUM_CUBE:2",
-    "A2": "ENCHANTED_MYCELIUM_CUBE:2",
-    "A3": "ENCHANTED_MYCELIUM_CUBE:2",
-    "B1": "ENCHANTED_MYCELIUM_CUBE:2",
-    "B2": "MYCELIUM_GENERATOR_10:1",
-    "B3": "ENCHANTED_MYCELIUM_CUBE:2",
-    "C1": "ENCHANTED_MYCELIUM_CUBE:2",
-    "C2": "ENCHANTED_MYCELIUM_CUBE:2",
-    "C3": "ENCHANTED_MYCELIUM_CUBE:2"
-  },
+  "recipes": [
+    {
+      "A1": "ENCHANTED_MYCELIUM_CUBE:2",
+      "A2": "ENCHANTED_MYCELIUM_CUBE:2",
+      "A3": "ENCHANTED_MYCELIUM_CUBE:2",
+      "B1": "ENCHANTED_MYCELIUM_CUBE:2",
+      "B2": "MYCELIUM_GENERATOR_10:1",
+      "B3": "ENCHANTED_MYCELIUM_CUBE:2",
+      "C1": "ENCHANTED_MYCELIUM_CUBE:2",
+      "C2": "ENCHANTED_MYCELIUM_CUBE:2",
+      "C3": "ENCHANTED_MYCELIUM_CUBE:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MYCELIUM_GENERATOR_11"
+    }
+  ],
   "reputation_req": "MAGE:10000"
 }

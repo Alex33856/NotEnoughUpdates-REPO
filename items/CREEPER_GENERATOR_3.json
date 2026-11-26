@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Creeper_Minion"
   ],
-  "recipe": {
-    "A1": "SULPHUR:40",
-    "A2": "SULPHUR:40",
-    "A3": "SULPHUR:40",
-    "B1": "SULPHUR:40",
-    "B2": "CREEPER_GENERATOR_2:1",
-    "B3": "SULPHUR:40",
-    "C1": "SULPHUR:40",
-    "C2": "SULPHUR:40",
-    "C3": "SULPHUR:40"
-  }
+  "recipes": [
+    {
+      "A1": "SULPHUR:40",
+      "A2": "SULPHUR:40",
+      "A3": "SULPHUR:40",
+      "B1": "SULPHUR:40",
+      "B2": "CREEPER_GENERATOR_2:1",
+      "B3": "SULPHUR:40",
+      "C1": "SULPHUR:40",
+      "C2": "SULPHUR:40",
+      "C3": "SULPHUR:40",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CREEPER_GENERATOR_3"
+    }
+  ]
 }

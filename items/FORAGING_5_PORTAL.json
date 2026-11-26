@@ -22,15 +22,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Portal_to_Dark_Thicket"
   ],
-  "recipe": {
-    "A1": "LOG_2-1:16",
-    "A2": "LOG_2-1:16",
-    "A3": "LOG_2-1:16",
-    "B1": "LOG_2-1:16",
-    "B2": "ENDER_PEARL:16",
-    "B3": "LOG_2-1:16",
-    "C1": "LOG_2-1:16",
-    "C2": "LOG_2-1:16",
-    "C3": "LOG_2-1:16"
-  }
+  "recipes": [
+    {
+      "A1": "LOG_2-1:16",
+      "A2": "LOG_2-1:16",
+      "A3": "LOG_2-1:16",
+      "B1": "LOG_2-1:16",
+      "B2": "ENDER_PEARL:16",
+      "B3": "LOG_2-1:16",
+      "C1": "LOG_2-1:16",
+      "C2": "LOG_2-1:16",
+      "C3": "LOG_2-1:16",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FORAGING_5_PORTAL"
+    }
+  ]
 }

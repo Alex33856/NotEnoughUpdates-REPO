@@ -22,15 +22,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Zog_Anvil"
   ],
-  "recipe": {
-    "A1": "ANCIENT_CLAW:16",
-    "A2": "ANCIENT_CLAW:16",
-    "A3": "ANCIENT_CLAW:16",
-    "B1": "",
-    "B2": "GRIFFIN_FEATHER:16",
-    "B3": "",
-    "C1": "ANCIENT_CLAW:16",
-    "C2": "ANCIENT_CLAW:16",
-    "C3": "ANCIENT_CLAW:16"
-  }
+  "recipes": [
+    {
+      "A1": "ANCIENT_CLAW:16",
+      "A2": "ANCIENT_CLAW:16",
+      "A3": "ANCIENT_CLAW:16",
+      "B1": "",
+      "B2": "GRIFFIN_FEATHER:16",
+      "B3": "",
+      "C1": "ANCIENT_CLAW:16",
+      "C2": "ANCIENT_CLAW:16",
+      "C3": "ANCIENT_CLAW:16",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ZOG_ANVIL"
+    }
+  ]
 }

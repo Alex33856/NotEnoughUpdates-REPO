@@ -13,16 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "NETHER_BRICK:1",
-    "A2": "",
-    "A3": "",
-    "B1": "NETHER_BRICK:1",
-    "B2": "NETHER_BRICK:1",
-    "B3": "",
-    "C1": "NETHER_BRICK:1",
-    "C2": "NETHER_BRICK:1",
-    "C3": "NETHER_BRICK:1",
-    "count": 4
-  }
+  "recipes": [
+    {
+      "A1": "NETHER_BRICK:1",
+      "A2": "",
+      "A3": "",
+      "B1": "NETHER_BRICK:1",
+      "B2": "NETHER_BRICK:1",
+      "B3": "",
+      "C1": "NETHER_BRICK:1",
+      "C2": "NETHER_BRICK:1",
+      "C3": "NETHER_BRICK:1",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "NETHER_BRICK_STAIRS"
+    }
+  ]
 }

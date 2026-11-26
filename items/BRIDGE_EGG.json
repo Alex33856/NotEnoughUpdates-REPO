@@ -17,15 +17,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Bridge_Egg"
   ],
-  "recipe": {
-    "A1": "STONE:1",
-    "A2": "STONE:1",
-    "A3": "STONE:1",
-    "B1": "STONE:1",
-    "B2": "EGG:5",
-    "B3": "STONE:1",
-    "C1": "STONE:1",
-    "C2": "STONE:1",
-    "C3": "STONE:1"
-  }
+  "recipes": [
+    {
+      "A1": "STONE:1",
+      "A2": "STONE:1",
+      "A3": "STONE:1",
+      "B1": "STONE:1",
+      "B2": "EGG:5",
+      "B3": "STONE:1",
+      "C1": "STONE:1",
+      "C2": "STONE:1",
+      "C3": "STONE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BRIDGE_EGG"
+    }
+  ]
 }

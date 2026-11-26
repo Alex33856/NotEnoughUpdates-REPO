@@ -14,15 +14,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/daeL"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "MIRRORED_STRING:1",
-    "A3": "MIRRORED_STRING:1",
-    "B1": "",
-    "B2": "SLIME_BALL:1",
-    "B3": "MIRRORED_STRING:1",
-    "C1": "MIRRORED_STRING:1",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "MIRRORED_STRING:1",
+      "A3": "MIRRORED_STRING:1",
+      "B1": "",
+      "B2": "SLIME_BALL:1",
+      "B3": "MIRRORED_STRING:1",
+      "C1": "MIRRORED_STRING:1",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MIRRORED_LEASH"
+    }
+  ]
 }

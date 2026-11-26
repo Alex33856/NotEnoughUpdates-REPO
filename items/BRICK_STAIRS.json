@@ -13,16 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "BRICK:1",
-    "A2": "",
-    "A3": "",
-    "B1": "BRICK:1",
-    "B2": "BRICK:1",
-    "B3": "",
-    "C1": "BRICK:1",
-    "C2": "BRICK:1",
-    "C3": "BRICK:1",
-    "count": 4
-  }
+  "recipes": [
+    {
+      "A1": "BRICK:1",
+      "A2": "",
+      "A3": "",
+      "B1": "BRICK:1",
+      "B2": "BRICK:1",
+      "B3": "",
+      "C1": "BRICK:1",
+      "C2": "BRICK:1",
+      "C3": "BRICK:1",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "BRICK_STAIRS"
+    }
+  ]
 }

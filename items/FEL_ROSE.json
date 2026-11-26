@@ -16,15 +16,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Fel_Rose"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "FEL_PEARL:4",
-    "A3": "",
-    "B1": "FEL_PEARL:4",
-    "B2": "GOLEM_POPPY:3",
-    "B3": "FEL_PEARL:4",
-    "C1": "",
-    "C2": "FEL_PEARL:4",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "FEL_PEARL:4",
+      "A3": "",
+      "B1": "FEL_PEARL:4",
+      "B2": "GOLEM_POPPY:3",
+      "B3": "FEL_PEARL:4",
+      "C1": "",
+      "C2": "FEL_PEARL:4",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FEL_ROSE"
+    }
+  ]
 }

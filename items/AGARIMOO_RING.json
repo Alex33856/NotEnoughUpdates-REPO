@@ -21,15 +21,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Agarimoo_Ring"
   ],
-  "recipe": {
-    "A1": "AGARIMOO_TONGUE:12",
-    "A2": "AGARIMOO_TONGUE:12",
-    "A3": "AGARIMOO_TONGUE:12",
-    "B1": "AGARIMOO_TONGUE:12",
-    "B2": "AGARIMOO_TALISMAN:1",
-    "B3": "AGARIMOO_TONGUE:12",
-    "C1": "AGARIMOO_TONGUE:12",
-    "C2": "AGARIMOO_TONGUE:12",
-    "C3": "AGARIMOO_TONGUE:12"
-  }
+  "recipes": [
+    {
+      "A1": "AGARIMOO_TONGUE:12",
+      "A2": "AGARIMOO_TONGUE:12",
+      "A3": "AGARIMOO_TONGUE:12",
+      "B1": "AGARIMOO_TONGUE:12",
+      "B2": "AGARIMOO_TALISMAN:1",
+      "B3": "AGARIMOO_TONGUE:12",
+      "C1": "AGARIMOO_TONGUE:12",
+      "C2": "AGARIMOO_TONGUE:12",
+      "C3": "AGARIMOO_TONGUE:12",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "AGARIMOO_RING"
+    }
+  ]
 }

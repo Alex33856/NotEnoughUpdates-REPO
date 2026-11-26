@@ -36,16 +36,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Final_Destination_Boots"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "",
-    "B1": "ENCHANTED_REDSTONE:64",
-    "B2": "",
-    "B3": "ENCHANTED_REDSTONE:64",
-    "C1": "NULL_OVOID:1",
-    "C2": "",
-    "C3": "NULL_OVOID:1"
-  },
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_REDSTONE:64",
+      "B2": "",
+      "B3": "ENCHANTED_REDSTONE:64",
+      "C1": "NULL_OVOID:1",
+      "C2": "",
+      "C3": "NULL_OVOID:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FINAL_DESTINATION_BOOTS"
+    }
+  ],
   "slayer_req": "EMAN_4"
 }

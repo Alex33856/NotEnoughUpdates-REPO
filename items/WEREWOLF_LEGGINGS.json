@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Werewolf_Leggings"
   ],
-  "recipe": {
-    "A1": "WEREWOLF_SKIN:4",
-    "A2": "WEREWOLF_SKIN:4",
-    "A3": "WEREWOLF_SKIN:4",
-    "B1": "WEREWOLF_SKIN:4",
-    "B2": "",
-    "B3": "WEREWOLF_SKIN:4",
-    "C1": "WEREWOLF_SKIN:4",
-    "C2": "",
-    "C3": "WEREWOLF_SKIN:4"
-  }
+  "recipes": [
+    {
+      "A1": "WEREWOLF_SKIN:4",
+      "A2": "WEREWOLF_SKIN:4",
+      "A3": "WEREWOLF_SKIN:4",
+      "B1": "WEREWOLF_SKIN:4",
+      "B2": "",
+      "B3": "WEREWOLF_SKIN:4",
+      "C1": "WEREWOLF_SKIN:4",
+      "C2": "",
+      "C3": "WEREWOLF_SKIN:4",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "WEREWOLF_LEGGINGS"
+    }
+  ]
 }

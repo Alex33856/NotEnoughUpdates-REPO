@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sea_Creature_Ring"
   ],
-  "recipe": {
-    "A1": "SPONGE:1",
-    "A2": "ENCHANTED_SPONGE:1",
-    "A3": "SPONGE:1",
-    "B1": "SPONGE:1",
-    "B2": "SEA_CREATURE_TALISMAN:1",
-    "B3": "SPONGE:1",
-    "C1": "SPONGE:1",
-    "C2": "ENCHANTED_SPONGE:1",
-    "C3": "SPONGE:1"
-  }
+  "recipes": [
+    {
+      "A1": "SPONGE:1",
+      "A2": "ENCHANTED_SPONGE:1",
+      "A3": "SPONGE:1",
+      "B1": "SPONGE:1",
+      "B2": "SEA_CREATURE_TALISMAN:1",
+      "B3": "SPONGE:1",
+      "C1": "SPONGE:1",
+      "C2": "ENCHANTED_SPONGE:1",
+      "C3": "SPONGE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SEA_CREATURE_RING"
+    }
+  ]
 }

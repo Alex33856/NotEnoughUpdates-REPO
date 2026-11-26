@@ -17,16 +17,20 @@
     "https://hypixelskyblock.minecraft.wiki/w/Blaze_Powder"
   ],
   "vanilla": true,
-  "recipe": {
-    "A1": "BLAZE_ROD:1",
-    "A2": "",
-    "A3": "",
-    "B1": "",
-    "B2": "",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": "",
-    "count": 2
-  }
+  "recipes": [
+    {
+      "A1": "BLAZE_ROD:1",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "BLAZE_POWDER"
+    }
+  ]
 }

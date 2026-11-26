@@ -17,15 +17,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Hard_Glass"
   ],
-  "recipe": {
-    "A1": "COAL:1",
-    "A2": "COAL:1",
-    "A3": "COAL:1",
-    "B1": "COAL:1",
-    "B2": "ENCHANTED_SAND:1",
-    "B3": "COAL:1",
-    "C1": "COAL:1",
-    "C2": "COAL:1",
-    "C3": "COAL:1"
-  }
+  "recipes": [
+    {
+      "A1": "COAL:1",
+      "A2": "COAL:1",
+      "A3": "COAL:1",
+      "B1": "COAL:1",
+      "B2": "ENCHANTED_SAND:1",
+      "B3": "COAL:1",
+      "C1": "COAL:1",
+      "C2": "COAL:1",
+      "C3": "COAL:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HARD_GLASS"
+    }
+  ]
 }

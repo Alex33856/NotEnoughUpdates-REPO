@@ -29,15 +29,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Synthesizer_v3"
   ],
-  "recipe": {
-    "A1": "Z:64",
-    "A2": "Z:64",
-    "A3": "Z:64",
-    "B1": "Z:64",
-    "B2": "SYNTHESIZER_V2:1",
-    "B3": "Z:64",
-    "C1": "Z:64",
-    "C2": "Z:64",
-    "C3": "Z:64"
-  }
+  "recipes": [
+    {
+      "A1": "Z:64",
+      "A2": "Z:64",
+      "A3": "Z:64",
+      "B1": "Z:64",
+      "B2": "SYNTHESIZER_V2:1",
+      "B3": "Z:64",
+      "C1": "Z:64",
+      "C2": "Z:64",
+      "C3": "Z:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SYNTHESIZER_V3"
+    }
+  ]
 }

@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Berserker_Helmet"
   ],
-  "recipe": {
-    "A1": "MAGMA_CHUNK:20",
-    "A2": "BURNING_EYE:50",
-    "A3": "MAGMA_CHUNK:20",
-    "B1": "ENCHANTED_RED_SAND_CUBE:1",
-    "B2": "",
-    "B3": "ENCHANTED_RED_SAND_CUBE:1",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "MAGMA_CHUNK:20",
+      "A2": "BURNING_EYE:50",
+      "A3": "MAGMA_CHUNK:20",
+      "B1": "ENCHANTED_RED_SAND_CUBE:1",
+      "B2": "",
+      "B3": "ENCHANTED_RED_SAND_CUBE:1",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BERSERKER_HELMET"
+    }
+  ]
 }

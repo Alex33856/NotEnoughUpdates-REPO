@@ -16,15 +16,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Hyper_Furnace"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_COBBLESTONE:8",
-    "A2": "ENCHANTED_COBBLESTONE:8",
-    "A3": "ENCHANTED_COBBLESTONE:8",
-    "B1": "ENCHANTED_COBBLESTONE:8",
-    "B2": "ENCHANTED_COAL:8",
-    "B3": "ENCHANTED_COBBLESTONE:8",
-    "C1": "ENCHANTED_COBBLESTONE:8",
-    "C2": "ENCHANTED_COBBLESTONE:8",
-    "C3": "ENCHANTED_COBBLESTONE:8"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_COBBLESTONE:8",
+      "A2": "ENCHANTED_COBBLESTONE:8",
+      "A3": "ENCHANTED_COBBLESTONE:8",
+      "B1": "ENCHANTED_COBBLESTONE:8",
+      "B2": "ENCHANTED_COAL:8",
+      "B3": "ENCHANTED_COBBLESTONE:8",
+      "C1": "ENCHANTED_COBBLESTONE:8",
+      "C2": "ENCHANTED_COBBLESTONE:8",
+      "C3": "ENCHANTED_COBBLESTONE:8",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HYPER_FURNACE"
+    }
+  ]
 }

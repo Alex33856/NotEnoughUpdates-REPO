@@ -26,16 +26,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Burststopper_Talisman"
   ],
-  "recipe": {
-    "A1": "WHIPPED_MAGMA_CREAM:1",
-    "A2": "MOLTEN_POWDER:32",
-    "A3": "WHIPPED_MAGMA_CREAM:1",
-    "B1": "MOLTEN_POWDER:32",
-    "B2": "REFINED_TITANIUM:6",
-    "B3": "MOLTEN_POWDER:32",
-    "C1": "WHIPPED_MAGMA_CREAM:1",
-    "C2": "MOLTEN_POWDER:32",
-    "C3": "WHIPPED_MAGMA_CREAM:1"
-  },
+  "recipes": [
+    {
+      "A1": "WHIPPED_MAGMA_CREAM:1",
+      "A2": "MOLTEN_POWDER:32",
+      "A3": "WHIPPED_MAGMA_CREAM:1",
+      "B1": "MOLTEN_POWDER:32",
+      "B2": "REFINED_TITANIUM:6",
+      "B3": "MOLTEN_POWDER:32",
+      "C1": "WHIPPED_MAGMA_CREAM:1",
+      "C2": "MOLTEN_POWDER:32",
+      "C3": "WHIPPED_MAGMA_CREAM:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BURSTSTOPPER_TALISMAN"
+    }
+  ],
   "slayer_req": "BLAZE_3"
 }

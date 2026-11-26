@@ -24,16 +24,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Burststopper_Artifact"
   ],
-  "recipe": {
-    "A1": "MOLTEN_POWDER:32",
-    "A2": "WHIPPED_MAGMA_CREAM:20",
-    "A3": "MOLTEN_POWDER:32",
-    "B1": "WHIPPED_MAGMA_CREAM:20",
-    "B2": "BURSTSTOPPER_TALISMAN:1",
-    "B3": "WHIPPED_MAGMA_CREAM:20",
-    "C1": "MOLTEN_POWDER:32",
-    "C2": "WHIPPED_MAGMA_CREAM:20",
-    "C3": "MOLTEN_POWDER:32"
-  },
+  "recipes": [
+    {
+      "A1": "MOLTEN_POWDER:32",
+      "A2": "WHIPPED_MAGMA_CREAM:20",
+      "A3": "MOLTEN_POWDER:32",
+      "B1": "WHIPPED_MAGMA_CREAM:20",
+      "B2": "BURSTSTOPPER_TALISMAN:1",
+      "B3": "WHIPPED_MAGMA_CREAM:20",
+      "C1": "MOLTEN_POWDER:32",
+      "C2": "WHIPPED_MAGMA_CREAM:20",
+      "C3": "MOLTEN_POWDER:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BURSTSTOPPER_ARTIFACT"
+    }
+  ],
   "slayer_req": "BLAZE_7"
 }

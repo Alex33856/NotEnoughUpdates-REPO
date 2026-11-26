@@ -20,16 +20,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Hyper_Catalyst"
   ],
-  "recipe": {
-    "A1": "CATALYST:1",
-    "A2": "CATALYST:1",
-    "A3": "CATALYST:1",
-    "B1": "CATALYST:1",
-    "B2": "HYPER_CATALYST_UPGRADE:1",
-    "B3": "CATALYST:1",
-    "C1": "CATALYST:1",
-    "C2": "CATALYST:1",
-    "C3": "CATALYST:1",
-    "count": 8
-  }
+  "recipes": [
+    {
+      "A1": "CATALYST:1",
+      "A2": "CATALYST:1",
+      "A3": "CATALYST:1",
+      "B1": "CATALYST:1",
+      "B2": "HYPER_CATALYST_UPGRADE:1",
+      "B3": "CATALYST:1",
+      "C1": "CATALYST:1",
+      "C2": "CATALYST:1",
+      "C3": "CATALYST:1",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "HYPER_CATALYST"
+    }
+  ]
 }

@@ -31,15 +31,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Adaptive_Belt"
   ],
-  "recipe": {
-    "A1": "SCARF_FRAGMENT:1",
-    "A2": "SCARF_FRAGMENT:1",
-    "A3": "SCARF_FRAGMENT:1",
-    "B1": "SCARF_FRAGMENT:1",
-    "B2": "ADAPTIVE_BELT:1",
-    "B3": "SCARF_FRAGMENT:1",
-    "C1": "SCARF_FRAGMENT:1",
-    "C2": "SCARF_FRAGMENT:1",
-    "C3": "SCARF_FRAGMENT:1"
-  }
+  "recipes": [
+    {
+      "A1": "SCARF_FRAGMENT:1",
+      "A2": "SCARF_FRAGMENT:1",
+      "A3": "SCARF_FRAGMENT:1",
+      "B1": "SCARF_FRAGMENT:1",
+      "B2": "ADAPTIVE_BELT:1",
+      "B3": "SCARF_FRAGMENT:1",
+      "C1": "SCARF_FRAGMENT:1",
+      "C2": "SCARF_FRAGMENT:1",
+      "C3": "SCARF_FRAGMENT:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "STARRED_ADAPTIVE_BELT"
+    }
+  ]
 }

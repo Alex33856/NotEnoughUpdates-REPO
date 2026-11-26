@@ -13,15 +13,20 @@
   "infoType": "WIKI_URL",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "PAPER:1",
-    "A2": "PAPER:1",
-    "A3": "PAPER:1",
-    "B1": "PAPER:1",
-    "B2": "COMPASS:1",
-    "B3": "PAPER:1",
-    "C1": "PAPER:1",
-    "C2": "PAPER:1",
-    "C3": "PAPER:1"
-  }
+  "recipes": [
+    {
+      "A1": "PAPER:1",
+      "A2": "PAPER:1",
+      "A3": "PAPER:1",
+      "B1": "PAPER:1",
+      "B2": "COMPASS:1",
+      "B3": "PAPER:1",
+      "C1": "PAPER:1",
+      "C2": "PAPER:1",
+      "C3": "PAPER:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MAP"
+    }
+  ]
 }

@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Florid_Zombie_Sword"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "HEALING_TISSUE:12",
-    "A3": "",
-    "B1": "",
-    "B2": "HEALING_TISSUE:12",
-    "B3": "",
-    "C1": "",
-    "C2": "ORNATE_ZOMBIE_SWORD:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "HEALING_TISSUE:12",
+      "A3": "",
+      "B1": "",
+      "B2": "HEALING_TISSUE:12",
+      "B3": "",
+      "C1": "",
+      "C2": "ORNATE_ZOMBIE_SWORD:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FLORID_ZOMBIE_SWORD"
+    }
+  ]
 }

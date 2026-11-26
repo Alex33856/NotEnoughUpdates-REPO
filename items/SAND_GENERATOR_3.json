@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sand_Minion"
   ],
-  "recipe": {
-    "A1": "SAND:40",
-    "A2": "SAND:40",
-    "A3": "SAND:40",
-    "B1": "SAND:40",
-    "B2": "SAND_GENERATOR_2:1",
-    "B3": "SAND:40",
-    "C1": "SAND:40",
-    "C2": "SAND:40",
-    "C3": "SAND:40"
-  }
+  "recipes": [
+    {
+      "A1": "SAND:40",
+      "A2": "SAND:40",
+      "A3": "SAND:40",
+      "B1": "SAND:40",
+      "B2": "SAND_GENERATOR_2:1",
+      "B3": "SAND:40",
+      "C1": "SAND:40",
+      "C2": "SAND:40",
+      "C3": "SAND:40",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SAND_GENERATOR_3"
+    }
+  ]
 }

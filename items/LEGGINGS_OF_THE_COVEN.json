@@ -28,15 +28,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Leggings_of_the_Coven"
   ],
-  "recipe": {
-    "A1": "FEMURGROWTH_LEGGINGS:1",
-    "A2": "BLOODBADGE:1",
-    "A3": "LEGGINGS_OF_THE_PACK:1",
-    "B1": "METAL_HEART:6",
-    "B2": "",
-    "B3": "METAL_HEART:6",
-    "C1": "METAL_HEART:6",
-    "C2": "",
-    "C3": "METAL_HEART:6"
-  }
+  "recipes": [
+    {
+      "A1": "FEMURGROWTH_LEGGINGS:1",
+      "A2": "BLOODBADGE:1",
+      "A3": "LEGGINGS_OF_THE_PACK:1",
+      "B1": "METAL_HEART:6",
+      "B2": "",
+      "B3": "METAL_HEART:6",
+      "C1": "METAL_HEART:6",
+      "C2": "",
+      "C3": "METAL_HEART:6",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "LEGGINGS_OF_THE_COVEN"
+    }
+  ]
 }

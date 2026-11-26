@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
   ],
-  "recipe": {
-    "A1": "RABBIT:64",
-    "A2": "RABBIT:64",
-    "A3": "RABBIT:64",
-    "B1": "RABBIT:64",
-    "B2": "RABBIT_GENERATOR_3:1",
-    "B3": "RABBIT:64",
-    "C1": "RABBIT:64",
-    "C2": "RABBIT:64",
-    "C3": "RABBIT:64"
-  }
+  "recipes": [
+    {
+      "A1": "RABBIT:64",
+      "A2": "RABBIT:64",
+      "A3": "RABBIT:64",
+      "B1": "RABBIT:64",
+      "B2": "RABBIT_GENERATOR_3:1",
+      "B3": "RABBIT:64",
+      "C1": "RABBIT:64",
+      "C2": "RABBIT:64",
+      "C3": "RABBIT:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "RABBIT_GENERATOR_4"
+    }
+  ]
 }

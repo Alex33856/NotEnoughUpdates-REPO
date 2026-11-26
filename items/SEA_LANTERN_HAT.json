@@ -20,15 +20,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sea_Lantern_Hat"
   ],
-  "recipe": {
-    "A1": "PRISMARINE_CRYSTALS:1",
-    "A2": "PRISMARINE_CRYSTALS:1",
-    "A3": "PRISMARINE_CRYSTALS:1",
-    "B1": "PRISMARINE_CRYSTALS:1",
-    "B2": "",
-    "B3": "PRISMARINE_CRYSTALS:1",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "PRISMARINE_CRYSTALS:1",
+      "A2": "PRISMARINE_CRYSTALS:1",
+      "A3": "PRISMARINE_CRYSTALS:1",
+      "B1": "PRISMARINE_CRYSTALS:1",
+      "B2": "",
+      "B3": "PRISMARINE_CRYSTALS:1",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SEA_LANTERN_HAT"
+    }
+  ]
 }

@@ -17,22 +17,25 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Desert_Island"
   ],
-  "recipe": {
-    "A1": "CACTUS:5",
-    "A2": "SUGAR_CANE:5",
-    "A3": "CACTUS:5",
-    "B1": "SAND:5",
-    "B2": "SAND:5",
-    "B3": "SAND:5",
-    "C1": "SAND:5",
-    "C2": "SAND:5",
-    "C3": "SAND:5"
-  },
   "recipes": [
     {
       "type": "trade",
       "cost": "EMERALD:25",
       "result": "DESERT_ISLAND"
+    },
+    {
+      "A1": "CACTUS:5",
+      "A2": "SUGAR_CANE:5",
+      "A3": "CACTUS:5",
+      "B1": "SAND:5",
+      "B2": "SAND:5",
+      "B3": "SAND:5",
+      "C1": "SAND:5",
+      "C2": "SAND:5",
+      "C3": "SAND:5",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DESERT_ISLAND"
     }
   ]
 }

@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Poisoned_Candy"
   ],
-  "recipe": {
-    "A1": "TUTTI_FRUTTI_POISON:1",
-    "A2": "ENCHANTED_POISONOUS_POTATO:1",
-    "A3": "TUTTI_FRUTTI_POISON:1",
-    "B1": "ENCHANTED_POISONOUS_POTATO:1",
-    "B2": "SIMPLE_CARROT_CANDY:1",
-    "B3": "ENCHANTED_POISONOUS_POTATO:1",
-    "C1": "TUTTI_FRUTTI_POISON:1",
-    "C2": "ENCHANTED_POISONOUS_POTATO:1",
-    "C3": "TUTTI_FRUTTI_POISON:1"
-  }
+  "recipes": [
+    {
+      "A1": "TUTTI_FRUTTI_POISON:1",
+      "A2": "ENCHANTED_POISONOUS_POTATO:1",
+      "A3": "TUTTI_FRUTTI_POISON:1",
+      "B1": "ENCHANTED_POISONOUS_POTATO:1",
+      "B2": "SIMPLE_CARROT_CANDY:1",
+      "B3": "ENCHANTED_POISONOUS_POTATO:1",
+      "C1": "TUTTI_FRUTTI_POISON:1",
+      "C2": "ENCHANTED_POISONOUS_POTATO:1",
+      "C3": "TUTTI_FRUTTI_POISON:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "POISONED_CANDY"
+    }
+  ]
 }

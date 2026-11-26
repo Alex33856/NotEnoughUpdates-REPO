@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Mineral_Helmet"
   ],
-  "recipe": {
-    "A1": "REFINED_MINERAL:1",
-    "A2": "REFINED_MINERAL:1",
-    "A3": "REFINED_MINERAL:1",
-    "B1": "REFINED_MINERAL:1",
-    "B2": "HARDENED_DIAMOND_HELMET:1",
-    "B3": "REFINED_MINERAL:1",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "REFINED_MINERAL:1",
+      "A2": "REFINED_MINERAL:1",
+      "A3": "REFINED_MINERAL:1",
+      "B1": "REFINED_MINERAL:1",
+      "B2": "HARDENED_DIAMOND_HELMET:1",
+      "B3": "REFINED_MINERAL:1",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MINERAL_HELMET"
+    }
+  ]
 }

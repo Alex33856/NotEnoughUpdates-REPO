@@ -17,16 +17,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Mycelium_Dust"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "SPECTRE_DUST:1",
-    "A3": "",
-    "B1": "BLAZE_ASHES:1",
-    "B2": "ENCHANTED_MYCELIUM:1",
-    "B3": "BLAZE_ASHES:1",
-    "C1": "",
-    "C2": "SPECTRE_DUST:1",
-    "C3": "",
-    "count": 32
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "SPECTRE_DUST:1",
+      "A3": "",
+      "B1": "BLAZE_ASHES:1",
+      "B2": "ENCHANTED_MYCELIUM:1",
+      "B3": "BLAZE_ASHES:1",
+      "C1": "",
+      "C2": "SPECTRE_DUST:1",
+      "C3": "",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "MYCELIUM_DUST"
+    }
+  ]
 }

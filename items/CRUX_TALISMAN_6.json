@@ -27,15 +27,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Crux_Chronomicon"
   ],
-  "recipe": {
-    "A1": "SPLATTER_CRUX:4",
-    "A2": "SPLATTER_CRUX:4",
-    "A3": "SPLATTER_CRUX:4",
-    "B1": "SPLATTER_CRUX:4",
-    "B2": "CRUX_TALISMAN_5:1",
-    "B3": "SPLATTER_CRUX:4",
-    "C1": "SPLATTER_CRUX:4",
-    "C2": "SPLATTER_CRUX:4",
-    "C3": "SPLATTER_CRUX:4"
-  }
+  "recipes": [
+    {
+      "A1": "SPLATTER_CRUX:4",
+      "A2": "SPLATTER_CRUX:4",
+      "A3": "SPLATTER_CRUX:4",
+      "B1": "SPLATTER_CRUX:4",
+      "B2": "CRUX_TALISMAN_5:1",
+      "B3": "SPLATTER_CRUX:4",
+      "C1": "SPLATTER_CRUX:4",
+      "C2": "SPLATTER_CRUX:4",
+      "C3": "SPLATTER_CRUX:4",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CRUX_TALISMAN_6"
+    }
+  ]
 }

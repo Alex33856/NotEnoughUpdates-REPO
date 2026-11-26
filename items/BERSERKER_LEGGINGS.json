@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Berserker_Leggings"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_RED_SAND_CUBE:1",
-    "A2": "BURNING_EYE:50",
-    "A3": "ENCHANTED_RED_SAND_CUBE:1",
-    "B1": "MAGMA_CHUNK:20",
-    "B2": "",
-    "B3": "MAGMA_CHUNK:20",
-    "C1": "ENCHANTED_RED_SAND_CUBE:1",
-    "C2": "",
-    "C3": "ENCHANTED_RED_SAND_CUBE:1"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_RED_SAND_CUBE:1",
+      "A2": "BURNING_EYE:50",
+      "A3": "ENCHANTED_RED_SAND_CUBE:1",
+      "B1": "MAGMA_CHUNK:20",
+      "B2": "",
+      "B3": "MAGMA_CHUNK:20",
+      "C1": "ENCHANTED_RED_SAND_CUBE:1",
+      "C2": "",
+      "C3": "ENCHANTED_RED_SAND_CUBE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BERSERKER_LEGGINGS"
+    }
+  ]
 }

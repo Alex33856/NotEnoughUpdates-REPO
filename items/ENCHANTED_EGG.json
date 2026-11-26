@@ -25,15 +25,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Egg"
   ],
-  "recipe": {
-    "A1": "EGG:16",
-    "A2": "EGG:16",
-    "A3": "EGG:16",
-    "B1": "EGG:16",
-    "B2": "EGG:16",
-    "B3": "EGG:16",
-    "C1": "EGG:16",
-    "C2": "EGG:16",
-    "C3": "EGG:16"
-  }
+  "recipes": [
+    {
+      "A1": "EGG:16",
+      "A2": "EGG:16",
+      "A3": "EGG:16",
+      "B1": "EGG:16",
+      "B2": "EGG:16",
+      "B3": "EGG:16",
+      "C1": "EGG:16",
+      "C2": "EGG:16",
+      "C3": "EGG:16",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ENCHANTED_EGG"
+    }
+  ]
 }

@@ -18,15 +18,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Healing_Ring"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "ENCHANTED_WATER_LILY:1",
-    "A3": "",
-    "B1": "ENCHANTED_WATER_LILY:1",
-    "B2": "HEALING_TALISMAN:1",
-    "B3": "ENCHANTED_WATER_LILY:1",
-    "C1": "",
-    "C2": "ENCHANTED_WATER_LILY:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "ENCHANTED_WATER_LILY:1",
+      "A3": "",
+      "B1": "ENCHANTED_WATER_LILY:1",
+      "B2": "HEALING_TALISMAN:1",
+      "B3": "ENCHANTED_WATER_LILY:1",
+      "C1": "",
+      "C2": "ENCHANTED_WATER_LILY:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HEALING_RING"
+    }
+  ]
 }

@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Pulse_Ring"
   ],
-  "recipe": {
-    "A1": "ORB_OF_ENERGY:32",
-    "A2": "ORB_OF_ENERGY:32",
-    "A3": "ORB_OF_ENERGY:32",
-    "B1": "ORB_OF_ENERGY:32",
-    "B2": "",
-    "B3": "ORB_OF_ENERGY:32",
-    "C1": "ORB_OF_ENERGY:32",
-    "C2": "ORB_OF_ENERGY:32",
-    "C3": "ORB_OF_ENERGY:32"
-  }
+  "recipes": [
+    {
+      "A1": "ORB_OF_ENERGY:32",
+      "A2": "ORB_OF_ENERGY:32",
+      "A3": "ORB_OF_ENERGY:32",
+      "B1": "ORB_OF_ENERGY:32",
+      "B2": "",
+      "B3": "ORB_OF_ENERGY:32",
+      "C1": "ORB_OF_ENERGY:32",
+      "C2": "ORB_OF_ENERGY:32",
+      "C3": "ORB_OF_ENERGY:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "PULSE_RING"
+    }
+  ]
 }

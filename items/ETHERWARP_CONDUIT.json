@@ -21,16 +21,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Etherwarp_Conduit"
   ],
-  "recipe": {
-    "A1": "NULL_OVOID:3",
-    "A2": "NULL_OVOID:3",
-    "A3": "NULL_OVOID:3",
-    "B1": "NULL_OVOID:3",
-    "B2": "REFINED_TITANIUM:16",
-    "B3": "NULL_OVOID:3",
-    "C1": "NULL_OVOID:3",
-    "C2": "NULL_OVOID:3",
-    "C3": "NULL_OVOID:3"
-  },
+  "recipes": [
+    {
+      "A1": "NULL_OVOID:3",
+      "A2": "NULL_OVOID:3",
+      "A3": "NULL_OVOID:3",
+      "B1": "NULL_OVOID:3",
+      "B2": "REFINED_TITANIUM:16",
+      "B3": "NULL_OVOID:3",
+      "C1": "NULL_OVOID:3",
+      "C2": "NULL_OVOID:3",
+      "C3": "NULL_OVOID:3",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "ETHERWARP_CONDUIT"
+    }
+  ],
   "slayer_req": "EMAN_7"
 }

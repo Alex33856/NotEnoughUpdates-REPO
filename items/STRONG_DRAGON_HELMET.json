@@ -30,15 +30,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Strong_Dragon_Helmet"
   ],
-  "recipe": {
-    "A1": "STRONG_FRAGMENT:10",
-    "A2": "STRONG_FRAGMENT:10",
-    "A3": "STRONG_FRAGMENT:10",
-    "B1": "STRONG_FRAGMENT:10",
-    "B2": "",
-    "B3": "STRONG_FRAGMENT:10",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "STRONG_FRAGMENT:10",
+      "A2": "STRONG_FRAGMENT:10",
+      "A3": "STRONG_FRAGMENT:10",
+      "B1": "STRONG_FRAGMENT:10",
+      "B2": "",
+      "B3": "STRONG_FRAGMENT:10",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "STRONG_DRAGON_HELMET"
+    }
+  ]
 }

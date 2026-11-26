@@ -29,16 +29,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Sinseeker_Scythe"
   ],
-  "recipe": {
-    "A1": "NULL_ATOM:4",
-    "A2": "NULL_OVOID:8",
-    "A3": "NULL_ATOM:4",
-    "B1": "NULL_OVOID:8",
-    "B2": "SINFUL_DICE:1",
-    "B3": "NULL_OVOID:8",
-    "C1": "NULL_ATOM:4",
-    "C2": "NULL_OVOID:8",
-    "C3": "NULL_ATOM:4"
-  },
+  "recipes": [
+    {
+      "A1": "NULL_ATOM:4",
+      "A2": "NULL_OVOID:8",
+      "A3": "NULL_ATOM:4",
+      "B1": "NULL_OVOID:8",
+      "B2": "SINFUL_DICE:1",
+      "B3": "NULL_OVOID:8",
+      "C1": "NULL_ATOM:4",
+      "C2": "NULL_OVOID:8",
+      "C3": "NULL_ATOM:4",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SINSEEKER_SCYTHE"
+    }
+  ],
   "slayer_req": "EMAN_6"
 }

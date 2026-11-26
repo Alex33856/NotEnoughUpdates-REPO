@@ -38,15 +38,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Rancher%27s_Boots"
   ],
-  "recipe": {
-    "A1": "POLISHED_PUMPKIN:2",
-    "A2": "POLISHED_PUMPKIN:2",
-    "A3": "POLISHED_PUMPKIN:2",
-    "B1": "POLISHED_PUMPKIN:2",
-    "B2": "FARMER_BOOTS:1",
-    "B3": "POLISHED_PUMPKIN:2",
-    "C1": "POLISHED_PUMPKIN:2",
-    "C2": "POLISHED_PUMPKIN:2",
-    "C3": "POLISHED_PUMPKIN:2"
-  }
+  "recipes": [
+    {
+      "A1": "POLISHED_PUMPKIN:2",
+      "A2": "POLISHED_PUMPKIN:2",
+      "A3": "POLISHED_PUMPKIN:2",
+      "B1": "POLISHED_PUMPKIN:2",
+      "B2": "FARMER_BOOTS:1",
+      "B3": "POLISHED_PUMPKIN:2",
+      "C1": "POLISHED_PUMPKIN:2",
+      "C2": "POLISHED_PUMPKIN:2",
+      "C3": "POLISHED_PUMPKIN:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "RANCHERS_BOOTS"
+    }
+  ]
 }

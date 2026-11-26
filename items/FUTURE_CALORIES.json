@@ -19,15 +19,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Future_Calories_Talisman"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_RAW_FISH:64",
-    "A2": "MAGMA_FISH_SILVER:24",
-    "A3": "ENCHANTED_RAW_FISH:64",
-    "B1": "ENCHANTED_RAW_FISH:64",
-    "B2": "PRE_DIGESTION_FISH:1",
-    "B3": "ENCHANTED_RAW_FISH:64",
-    "C1": "ENCHANTED_RAW_FISH:64",
-    "C2": "MAGMA_FISH_SILVER:24",
-    "C3": "ENCHANTED_RAW_FISH:64"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_RAW_FISH:64",
+      "A2": "MAGMA_FISH_SILVER:24",
+      "A3": "ENCHANTED_RAW_FISH:64",
+      "B1": "ENCHANTED_RAW_FISH:64",
+      "B2": "PRE_DIGESTION_FISH:1",
+      "B3": "ENCHANTED_RAW_FISH:64",
+      "C1": "ENCHANTED_RAW_FISH:64",
+      "C2": "MAGMA_FISH_SILVER:24",
+      "C3": "ENCHANTED_RAW_FISH:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FUTURE_CALORIES"
+    }
+  ]
 }

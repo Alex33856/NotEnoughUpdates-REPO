@@ -14,16 +14,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Firework_Rocket"
   ],
-  "recipe": {
-    "A1": "PAPER:1",
-    "A2": "SULPHUR:1",
-    "A3": "",
-    "B1": "",
-    "B2": "",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": ""
-  },
+  "recipes": [
+    {
+      "A1": "PAPER:1",
+      "A2": "SULPHUR:1",
+      "A3": "",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FIREWORK"
+    }
+  ],
   "vanilla": true
 }

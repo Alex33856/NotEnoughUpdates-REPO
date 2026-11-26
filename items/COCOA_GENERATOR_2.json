@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Cocoa_Beans_Minion"
   ],
-  "recipe": {
-    "A1": "INK_SACK-3:20",
-    "A2": "INK_SACK-3:20",
-    "A3": "INK_SACK-3:20",
-    "B1": "INK_SACK-3:20",
-    "B2": "COCOA_GENERATOR_1:1",
-    "B3": "INK_SACK-3:20",
-    "C1": "INK_SACK-3:20",
-    "C2": "INK_SACK-3:20",
-    "C3": "INK_SACK-3:20"
-  }
+  "recipes": [
+    {
+      "A1": "INK_SACK-3:20",
+      "A2": "INK_SACK-3:20",
+      "A3": "INK_SACK-3:20",
+      "B1": "INK_SACK-3:20",
+      "B2": "COCOA_GENERATOR_1:1",
+      "B3": "INK_SACK-3:20",
+      "C1": "INK_SACK-3:20",
+      "C2": "INK_SACK-3:20",
+      "C3": "INK_SACK-3:20",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "COCOA_GENERATOR_2"
+    }
+  ]
 }

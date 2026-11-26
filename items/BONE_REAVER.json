@@ -29,15 +29,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Bone_Reaver"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "ENCHANTED_BONE_BLOCK:20",
-    "A3": "",
-    "B1": "",
-    "B2": "SPIRIT_BONE:5",
-    "B3": "",
-    "C1": "",
-    "C2": "SPIRIT_SWORD:1",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "ENCHANTED_BONE_BLOCK:20",
+      "A3": "",
+      "B1": "",
+      "B2": "SPIRIT_BONE:5",
+      "B3": "",
+      "C1": "",
+      "C2": "SPIRIT_SWORD:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "BONE_REAVER"
+    }
+  ]
 }

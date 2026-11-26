@@ -34,16 +34,21 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Reaper_Scythe"
   ],
-  "recipe": {
-    "A1": "SCYTHE_BLADE:1",
-    "A2": "REVENANT_VISCERA:64",
-    "A3": "REAPER_SWORD:1",
-    "B1": "",
-    "B2": "",
-    "B3": "REAPER_SWORD:1",
-    "C1": "",
-    "C2": "",
-    "C3": "REAPER_SWORD:1"
-  },
+  "recipes": [
+    {
+      "A1": "SCYTHE_BLADE:1",
+      "A2": "REVENANT_VISCERA:64",
+      "A3": "REAPER_SWORD:1",
+      "B1": "",
+      "B2": "",
+      "B3": "REAPER_SWORD:1",
+      "C1": "",
+      "C2": "",
+      "C3": "REAPER_SWORD:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "REAPER_SCYTHE"
+    }
+  ],
   "slayer_req": "ZOMBIE_7"
 }

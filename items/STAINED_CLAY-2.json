@@ -13,16 +13,20 @@
   "infoType": "",
   "info": [],
   "vanilla": true,
-  "recipe": {
-    "A1": "HARD_CLAY:1",
-    "A2": "HARD_CLAY:1",
-    "A3": "HARD_CLAY:1",
-    "B1": "HARD_CLAY:1",
-    "B2": "INK_SACK-13:1",
-    "B3": "HARD_CLAY:1",
-    "C1": "HARD_CLAY:1",
-    "C2": "HARD_CLAY:1",
-    "C3": "HARD_CLAY:1",
-    "count": 8
-  }
+  "recipes": [
+    {
+      "A1": "HARD_CLAY:1",
+      "A2": "HARD_CLAY:1",
+      "A3": "HARD_CLAY:1",
+      "B1": "HARD_CLAY:1",
+      "B2": "INK_SACK-13:1",
+      "B3": "HARD_CLAY:1",
+      "C1": "HARD_CLAY:1",
+      "C2": "HARD_CLAY:1",
+      "C3": "HARD_CLAY:1",
+      "count": 1,
+      "type": "crafting",
+      "overrideOutputId": "STAINED_CLAY-2"
+    }
+  ]
 }

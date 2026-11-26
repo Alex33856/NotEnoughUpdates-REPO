@@ -26,15 +26,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Crux_Ring"
   ],
-  "recipe": {
-    "A1": "SHADOW_CRUX:2",
-    "A2": "SHADOW_CRUX:2",
-    "A3": "SHADOW_CRUX:2",
-    "B1": "SHADOW_CRUX:2",
-    "B2": "CRUX_TALISMAN_1:1",
-    "B3": "SHADOW_CRUX:2",
-    "C1": "SHADOW_CRUX:2",
-    "C2": "SHADOW_CRUX:2",
-    "C3": "SHADOW_CRUX:2"
-  }
+  "recipes": [
+    {
+      "A1": "SHADOW_CRUX:2",
+      "A2": "SHADOW_CRUX:2",
+      "A3": "SHADOW_CRUX:2",
+      "B1": "SHADOW_CRUX:2",
+      "B2": "CRUX_TALISMAN_1:1",
+      "B3": "SHADOW_CRUX:2",
+      "C1": "SHADOW_CRUX:2",
+      "C2": "SHADOW_CRUX:2",
+      "C3": "SHADOW_CRUX:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CRUX_TALISMAN_2"
+    }
+  ]
 }

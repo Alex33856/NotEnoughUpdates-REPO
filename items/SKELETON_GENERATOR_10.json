@@ -23,15 +23,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Minion"
   ],
-  "recipe": {
-    "A1": "ENCHANTED_BONE:32",
-    "A2": "ENCHANTED_BONE:32",
-    "A3": "ENCHANTED_BONE:32",
-    "B1": "ENCHANTED_BONE:32",
-    "B2": "SKELETON_GENERATOR_9:1",
-    "B3": "ENCHANTED_BONE:32",
-    "C1": "ENCHANTED_BONE:32",
-    "C2": "ENCHANTED_BONE:32",
-    "C3": "ENCHANTED_BONE:32"
-  }
+  "recipes": [
+    {
+      "A1": "ENCHANTED_BONE:32",
+      "A2": "ENCHANTED_BONE:32",
+      "A3": "ENCHANTED_BONE:32",
+      "B1": "ENCHANTED_BONE:32",
+      "B2": "SKELETON_GENERATOR_9:1",
+      "B3": "ENCHANTED_BONE:32",
+      "C1": "ENCHANTED_BONE:32",
+      "C2": "ENCHANTED_BONE:32",
+      "C3": "ENCHANTED_BONE:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SKELETON_GENERATOR_10"
+    }
+  ]
 }

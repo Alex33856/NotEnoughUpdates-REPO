@@ -16,15 +16,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Condensed_Fermento"
   ],
-  "recipe": {
-    "A1": "FERMENTO:1",
-    "A2": "FERMENTO:1",
-    "A3": "FERMENTO:1",
-    "B1": "FERMENTO:1",
-    "B2": "FERMENTO:1",
-    "B3": "FERMENTO:1",
-    "C1": "FERMENTO:1",
-    "C2": "FERMENTO:1",
-    "C3": "FERMENTO:1"
-  }
+  "recipes": [
+    {
+      "A1": "FERMENTO:1",
+      "A2": "FERMENTO:1",
+      "A3": "FERMENTO:1",
+      "B1": "FERMENTO:1",
+      "B2": "FERMENTO:1",
+      "B3": "FERMENTO:1",
+      "C1": "FERMENTO:1",
+      "C2": "FERMENTO:1",
+      "C3": "FERMENTO:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CONDENSED_FERMENTO"
+    }
+  ]
 }

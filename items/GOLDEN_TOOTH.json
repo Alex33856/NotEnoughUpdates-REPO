@@ -16,15 +16,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Golden_Tooth"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "WOLF_TOOTH:32",
-    "A3": "",
-    "B1": "WOLF_TOOTH:32",
-    "B2": "ENCHANTED_GOLD:32",
-    "B3": "WOLF_TOOTH:32",
-    "C1": "",
-    "C2": "WOLF_TOOTH:32",
-    "C3": ""
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "WOLF_TOOTH:32",
+      "A3": "",
+      "B1": "WOLF_TOOTH:32",
+      "B2": "ENCHANTED_GOLD:32",
+      "B3": "WOLF_TOOTH:32",
+      "C1": "",
+      "C2": "WOLF_TOOTH:32",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GOLDEN_TOOTH"
+    }
+  ]
 }

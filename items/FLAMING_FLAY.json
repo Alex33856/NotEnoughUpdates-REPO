@@ -28,15 +28,20 @@
   "info": [
     "https://hypixelskyblock.minecraft.wiki/w/Flaming_Flay"
   ],
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "BRAIDED_GRIFFIN_FEATHER:1",
-    "B1": "",
-    "B2": "SOUL_WHIP:1",
-    "B3": "HOTSPOT_WATER_ORB:1",
-    "C1": "BRIMSTONE_HANDLE:1",
-    "C2": "",
-    "C3": "LAVA_WATER_ORB:1"
-  }
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "BRAIDED_GRIFFIN_FEATHER:1",
+      "B1": "",
+      "B2": "SOUL_WHIP:1",
+      "B3": "HOTSPOT_WATER_ORB:1",
+      "C1": "BRIMSTONE_HANDLE:1",
+      "C2": "",
+      "C3": "LAVA_WATER_ORB:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FLAMING_FLAY"
+    }
+  ]
 }
